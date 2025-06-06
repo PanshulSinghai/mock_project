@@ -1,0 +1,43 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-05-21 02:30:29,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 21/05 at 08:00AM
+FREE Slots 
+#COVISHIELD - Dose1:213, Dose2:110
+#COVAXIN - Dose1:1, Dose2:12
+PAID Slots 
+#COVISHIELD - Dose1:3036, Dose2:60
+#COVAXIN - Dose1:50, Dose2:50
+#SPUTNIKV - Dose1:10, Dose2:0","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2022-05-21 02:30:29,2022-05-21,02:30:29,2022-05-21 02:30:29
+123inChimZnie,"Zuni, NM","No matter what you do, good or bad, someone will always criticize or judge you. Grateful for family, life & friendships. Support indigenous artists. #ZuniPueblo",2014-07-09 18:06:33,452.0,1849.0,51109.0,False,2022-05-21 02:50:50,Best outcome of this week was not wasting a #Moderna vial! #COVIDVACCINE https://t.co/fktPJWu4V6,"['Moderna', 'COVIDVACCINE']",Twitter for iPhone,False,2022-05-21 02:50:50,2022-05-21,02:50:50,2022-05-21 02:50:50
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-05-21 03:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 21/05 at 08:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-05-21 03:00:04,2022-05-21,03:00:04,2022-05-21 03:00:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-05-21 03:00:15,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 21/05 at 08:30AM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-05-21 03:00:15,2022-05-21,03:00:15,2022-05-21 03:00:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-05-21 03:00:25,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 21/05 at 08:30AM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-05-21 03:00:25,2022-05-21,03:00:25,2022-05-21 03:00:25
+corby,"QUEENS VILLAGE, NY 🇺🇸","When one has a grateful heart, life is so beautiful.",2020-06-10 07:49:49,57.0,63.0,2389.0,False,2022-05-21 03:27:00,"Virus Expert Just Gave This ""New Surge"" Warning
+
+#covidvaccine #coronavirustips #news #coronavirus
+https://t.co/aFrXkYTuqv","['covidvaccine', 'coronavirustips', 'news', 'coronavirus']",Sentiment__Analyzer,False,2022-05-21 03:27:00,2022-05-21,03:27:00,2022-05-21 03:27:00
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-05-21 03:30:04,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 21/05 at 09:00AM
+FREE Slots 
+#COVISHIELD - Dose1:103, Dose2:1
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-05-21 03:30:04,2022-05-21,03:30:04,2022-05-21 03:30:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-05-21 03:30:14,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 21/05 at 09:00AM
+FREE Slots 
+#COVISHIELD - Dose1:10, Dose2:1
+PAID Slots 
+#COVISHIELD - Dose1:745, Dose2:48","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVISHIELD']",VaxBlr,False,2022-05-21 03:30:14,2022-05-21,03:30:14,2022-05-21 03:30:14
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-05-21 03:30:25,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 21/05 at 09:00AM
+FREE Slots 
+#COVISHIELD - Dose1:216, Dose2:120
+#COVAXIN - Dose1:13, Dose2:23
+PAID Slots 
+#COVISHIELD - Dose1:3136, Dose2:60
+#COVAXIN - Dose1:50, Dose2:50
+#SPUTNIKV - Dose1:10, Dose2:0","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2022-05-21 03:30:25,2022-05-21,03:30:25,2022-05-21 03:30:25
+Sylvie,"Johor Bahru, Johor",Life is a path of knowledge and yet more to learn from this journey... Malaysia. #PrayForPeace #Solidarity #UnityInDiversity #Humanity,2013-01-12 07:11:00,506.0,840.0,1044.0,False,2022-05-21 03:39:41,"North Korea refuses #covidvaccine but i have 3 AZ in my body. 
+Now, why do they hate this vaccine so much?!
+I hope I am alright. Lately, i cant stop thinking!😂 https://t.co/11PLcUpk4H",['covidvaccine'],Twitter for iPhone,False,2022-05-21 03:39:41,2022-05-21,03:39:41,2022-05-21 03:39:41

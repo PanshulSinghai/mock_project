@@ -1,0 +1,31 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0,0,False,2022-06-11 10:00:05,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 11/06 at 03:30PM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-11-06 10:00:05,2022-11-06,10:00:05,2022-11-06 10:00:05
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0,0,False,2022-06-11 10:00:16,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 11/06 at 03:30PM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-11-06 10:00:16,2022-11-06,10:00:16,2022-11-06 10:00:16
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0,0,False,2022-06-11 10:00:26,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 11/06 at 03:30PM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-11-06 10:00:26,2022-11-06,10:00:26,2022-11-06 10:00:26
+S.C.A.N.A.,"South Carolina, USA","Official Twitter account of the South Carolina Association of Nurse Anesthetists, founded in 1951 and 1,300 strong",2016-04-03 13:07:22,489.0,78,26,False,2022-06-11 10:00:39,"Three in 10 pregnant believe some form of medical misinformation about the COVID-19 vaccine, underscoring not just a need for better patient education about the shots, but the overall threat of medical misinformation. More: https://t.co/lypIlQs1GJ. #COVIDvaccine",['COVIDvaccine'],Hootsuite Inc.,False,2022-11-06 10:00:39,2022-11-06,10:00:39,2022-11-06 10:00:39
+ActivistBowen: FULLY VAXXED + BOOSTED!,Hong Kong,"AMERICAN EXPAT in HONG KONG, person, blogger, dissident, son, brother, friend NOT a 1-man show; FULLY VAXXED + BOOSTED #SIDEEFFECTS BETTER THAN DEATH #COVID",2011-06-08 20:17:01,4201.0,5000,5300,False,2022-06-11 10:03:09,"b) ,...again, we're faced with the TOUGH of when to get ADDITIONAL doses of...,(June 11, 2022; 16:48 HKT) #covidVACCINE #HONGKONG #HK","['covidVACCINE', 'HONGKONG', 'HK']",Twitter Web App,False,2022-11-06 10:03:09,2022-11-06,10:03:09,2022-11-06 10:03:09
+ActivistBowen: FULLY VAXXED + BOOSTED!,Hong Kong,"AMERICAN EXPAT in HONG KONG, person, blogger, dissident, son, brother, friend NOT a 1-man show; FULLY VAXXED + BOOSTED #SIDEEFFECTS BETTER THAN DEATH #COVID",2011-06-08 20:17:01,4201.0,5000,5300,False,2022-06-11 10:06:21,"d) ,...e.g. there are MORE #vaccineSIDEEFFECTS with the FOURTH dose...,(June 11, 2022; 16:48 HKT) #covidVACCINE","['vaccineSIDEEFFECTS', 'covidVACCINE']",Twitter Web App,False,2022-11-06 10:06:21,2022-11-06,10:06:21,2022-11-06 10:06:21
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0,0,False,2022-06-11 10:30:05,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 11/06 at 04:00PM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-11-06 10:30:05,2022-11-06,10:30:05,2022-11-06 10:30:05
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0,0,False,2022-06-11 10:30:16,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 11/06 at 04:00PM
+FREE Slots 
+#COVISHIELD - Dose1:1, Dose2:0
+PAID Slots 
+#COVISHIELD - Dose1:970, Dose2:99","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVISHIELD']",VaxBlr,False,2022-11-06 10:30:16,2022-11-06,10:30:16,2022-11-06 10:30:16
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0,0,False,2022-06-11 10:30:26,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 11/06 at 04:00PM
+FREE Slots 
+#COVISHIELD - Dose1:20, Dose2:12
+#COVAXIN - Dose1:9, Dose2:13
+PAID Slots 
+#COVISHIELD - Dose1:4211, Dose2:20","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD']",VaxBlr,False,2022-11-06 10:30:26,2022-11-06,10:30:26,2022-11-06 10:30:26
+NHS Southport and Formby CCG,"Southport, England","We plan and buy nearly all local health services in the area. Monitored 9-5, Monday-Friday.
+Find COVID-19 info in alternative formats: https://t.co/4gIvf45Q09",2016-01-21 09:38:04,2035.0,1180,1025,True,2022-06-11 10:37:14,"Mavis, 89, got her Spring booster #CovidVaccine because the vaccine helps reduce the risk of catching #Covid19.
+
+Need to book yours or does an older friend or relative need help booking in? Click here to get started: https://t.co/OYtF99ZU1P https://t.co/XKAK7mPo05","['CovidVaccine', 'Covid19']",Sprout Social,False,2022-11-06 10:37:14,2022-11-06,10:37:14,2022-11-06 10:37:14

@@ -1,0 +1,33 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-05-11 02:30:15,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 11/05 at 08:00AM
+FREE Slots 
+#COVISHIELD - Dose1:0, Dose2:1
+PAID Slots 
+#COVISHIELD - Dose1:799, Dose2:100","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVISHIELD']",VaxBlr,False,2022-11-05 02:30:15,2022-11-05,02:30:15,2022-11-05 02:30:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-05-11 02:30:26,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 11/05 at 08:00AM
+FREE Slots 
+#COVISHIELD - Dose1:1031, Dose2:20
+#COVAXIN - Dose1:13, Dose2:19
+PAID Slots 
+#COVISHIELD - Dose1:2611, Dose2:30
+#SPUTNIKV - Dose1:20, Dose2:0","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-11-05 02:30:26,2022-11-05,02:30:26,2022-11-05 02:30:26
+Sabrina Kitaka,Kampala,"Senior Lecturer at Makerere University. 
+Paediatrics Infectious Diseases and Adolescent Health Care. Children and Adolescents are our Future.",2010-03-19 10:38:38,22197.0,4092.0,10709.0,False,2022-05-11 02:37:57,Great insights on equitable distribution of the #COVIDVACCINE @FrancoisVenter3,['COVIDVACCINE'],Twitter for Android,False,2022-11-05 02:37:57,2022-11-05,02:37:57,2022-11-05 02:37:57
+Christopher Oldcorn,,Journalist @WSOnlineNews,2007-09-21 18:02:13,3064.0,4987.0,8331.0,False,2022-05-11 02:39:00,"#Sask COVID-19 cases continue to drop, most new cases in older #adults - #saskatchewan #Regina #Saskatoon #MooseJaw #politics #saskpoli #skpoli #covidsk #covid19 #covid #healthcare #health #covidvaccine #vaccinemandates #hospitalizations https://t.co/KM5z23LnXX","['Sask', 'adults', 'saskatchewan', 'Regina', 'Saskatoon', 'MooseJaw', 'politics', 'saskpoli', 'skpoli', 'covidsk', 'covid19', 'covid', 'healthcare', 'health', 'covidvaccine', 'vaccinemandates', 'hospitalizations']",Buffer,False,2022-11-05 02:39:00,2022-11-05,02:39:00,2022-11-05 02:39:00
+Steve Naegele,"Acworth, GA 🇺🇸","🇺🇸 When one tugs at a single thing in nature, he finds it attached to the rest of the world. 🇺🇸",2009-08-02 12:35:12,54.0,84.0,3059.0,False,2022-05-11 02:40:24,"This Is Who Should Still Wear Mask Now, Says Dr. Gupta
+
+#coronavirustips #covidvaccine #coronavirus #news #health
+https://t.co/rxiOWd7LEK","['coronavirustips', 'covidvaccine', 'coronavirus', 'news', 'health']",FinTweetMonitor,False,2022-11-05 02:40:24,2022-11-05,02:40:24,2022-11-05 02:40:24
+D'Enise Arabella Qi'ra Daenerys Targaryen Trikru,Polis,"'Man, your soul has no poetry.' - Killjoys. I tweet ALOT about fandom et al. My acct is NOT for the weak! My AVI is actress Emilia Clarke. Devout Chionophile!",2013-06-28 23:52:37,1210.0,221.0,104028.0,False,2022-05-11 02:42:28,@Forbes I personally believe this outbreak is related to the CDC forcing that toilet bowl concoction they call a #COVIDVACCINE on children. Just heard on the news they are about to investigate the correlation because some parents are very concerned there is a correlation.,['COVIDVACCINE'],Twitter for Android,False,2022-11-05 02:42:28,2022-11-05,02:42:28,2022-11-05 02:42:28
+Alma Azama,"Brockton, MA 🇺🇸","🇺🇸 Hope Smiles from the threshold of the year to come, Whispering 'it will be happier'... 🇺🇸",2009-06-28 11:42:13,73.0,91.0,3569.0,False,2022-05-11 02:52:44,"COVID is Still ""Too High"" in These States
+
+#covidvaccine #coronavirustips #health #coronavirus #news
+https://t.co/KR1pL66EF7","['covidvaccine', 'coronavirustips', 'health', 'coronavirus', 'news']",sentiment_yuluis,False,2022-11-05 02:52:44,2022-11-05,02:52:44,2022-11-05 02:52:44
+Tim,"Haledon, NJ","The secret of health for both mind and body is not to mourn for the past, nor to worry about the future, but to live the present moment wisely and earnestly.",2015-04-21 01:17:11,72.0,88.0,3401.0,False,2022-05-11 02:53:00,"Even Mild COVID Can Do This To Your Brain, Experts Say
+
+#news #covidvaccine #coronavirustips #health #coronavirussymptoms #longcovid #coronavirus
+https://t.co/0spUCsE2iy","['news', 'covidvaccine', 'coronavirustips', 'health', 'coronavirussymptoms', 'longcovid', 'coronavirus']",SsemanticAnalysiss,False,2022-11-05 02:53:00,2022-11-05,02:53:00,2022-11-05 02:53:00
+Miss Info,"San Diego, CA ",Christian ✝️ Conservative 🇺🇸  Californian 🌊  Also on gettr/truth: @ Mitsuko,2021-10-05 16:15:17,2697.0,2448.0,25872.0,False,2022-05-11 02:54:43,Wow. #FDA approved 5th #Booster shot of the #COVIDVACCINE. Insane. https://t.co/7R9MIYGaIa https://t.co/IETPnOyciB,"['FDA', 'Booster', 'COVIDVACCINE']",Twitter for iPhone,False,2022-11-05 02:54:43,2022-11-05,02:54:43,2022-11-05 02:54:43
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-05-11 03:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 11/05 at 08:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-11-05 03:00:04,2022-11-05,03:00:04,2022-11-05 03:00:04

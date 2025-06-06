@@ -1,0 +1,56 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+UK Vaccine Progress Tracker #COVID19,,Daily update of 1st and 2nd dose vaccine % progress in UK adults from the UK Gov API. #covid #covid19 #vaccine #covidvaccine Coded: @thetafferboy Idea: @iamrofe,2021-01-16 01:12:59,4493.0,2,9,False,2021-07-26 12:00:05,"1st dose of vaccine progress: 
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 88.47%
+
+2nd dose of vaccine progress: 
+
+▓▓▓▓▓▓▓▓▓▓░░░░░ 70.6%
+
+As of 2021-07-24
+Using data from https://t.co/6y8FGETx1K API
+#CovidVaccine #COVID19 #CoronavirusVaccine","['CovidVaccine', 'COVID19', 'CoronavirusVaccine']",UKVacTrack,False,2021-07-26 12:00:05,2021-07-26,12:00:05,2021-07-26 12:00:05
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,12.0,0,0,False,2021-07-26 12:00:07,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 26/07 at 05:30PM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2021-07-26 12:00:07,2021-07-26,12:00:07,2021-07-26 12:00:07
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,12.0,0,0,False,2021-07-26 12:00:17,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 26/07 at 05:30PM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:75, Dose2:77
+#COVAXIN - Dose1:95, Dose2:91
+#SPUTNIKV - Dose1:127, Dose2:91","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2021-07-26 12:00:17,2021-07-26,12:00:17,2021-07-26 12:00:17
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,12.0,0,0,False,2021-07-26 12:00:28,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 26/07 at 05:30PM
+FREE Slots 
+#COVISHIELD - Dose1:272, Dose2:94
+#COVAXIN - Dose1:43, Dose2:34
+PAID Slots 
+#COVISHIELD - Dose1:1774, Dose2:3684
+#COVAXIN - Dose1:1342, Dose2:3147
+#SPUTNIKV - Dose1:42, Dose2:0","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2021-07-26 12:00:28,2021-07-26,12:00:28,2021-07-26 12:00:28
+honey the pooh,,music lover,2019-06-25 09:34:52,33.0,184,601,False,2021-07-26 12:00:48,"2nd Dose of Vaccine done
+#resbakuna #Sinovac 
+#vaccine 
+#CovidVaccine","['resbakuna', 'Sinovac', 'vaccine', 'CovidVaccine']",Twitter for Android,False,2021-07-26 12:00:48,2021-07-26,12:00:48,2021-07-26 12:00:48
+KPIX 5,San Francisco Bay Area,"News, Sports, Weather, Traffic & the Best of the Bay Area. Tag your 📸 : #KPIX Download our app: 
+Apple: https://t.co/qweO64mI47 Android: https://t.co/OzmA3lQO5m",2008-10-08 22:43:25,104563.0,2223,1780,True,2021-07-26 12:01:24,"GOOD MORNING ☀️ 
+
+➡️ @CAgovernor @GavinNewsom heads to the #BayArea today to urge unvaccinated #Californians to get the #CovidVaccine 
+
+➡️ The #DixieFire grows to 6-times the size of #SanFrancisco 
+
+Join us on #KPIX 📺 or stream #CBSNBayArea here: https://t.co/e7agPbGl0i https://t.co/UoIUPe2giW","['BayArea', 'Californians', 'CovidVaccine', 'DixieFire', 'SanFrancisco', 'KPIX', 'CBSNBayArea']",Twitter for iPhone,False,2021-07-26 12:01:24,2021-07-26,12:01:24,2021-07-26 12:01:24
+JL ✨,instagram: @jdylyncr,𝚎𝚞𝚗𝚘𝚒𝚊 ◼ 𝙿𝚜𝚊𝚕𝚖 𝟻𝟼:𝟹,2010-04-09 02:41:20,138.0,39,255,False,2021-07-26 12:02:24,"fully vaccinated! ✔️🎊 
+#CovidVaccine #vaccinated #GetVaccinatedNow #johnsonandjohnson https://t.co/MRvzTxxDvn","['CovidVaccine', 'vaccinated', 'GetVaccinatedNow', 'johnsonandjohnson']",Twitter for iPhone,False,2021-07-26 12:02:24,2021-07-26,12:02:24,2021-07-26 12:02:24
+Hoosiers Vaccinate,"Indiana, USA",The #HoosierHerd is working to protect Indiana from vaccine preventable diseases #hoosiersvaccinate,2018-01-10 14:55:37,253.0,189,552,False,2021-07-26 12:04:08,"Here's the deal, it is possible that a magnet or a metal object could stick to the oils on your skin or even to sweat, but they aren't sticking to anyone because of a #CovidVaccine. #COVID19 #vaccines are free from metals. Visit https://t.co/5B4mAJxwwn to learn more. https://t.co/iB9DggohA7","['CovidVaccine', 'COVID19', 'vaccines']",Buffer,False,2021-07-26 12:04:08,2021-07-26,12:04:08,2021-07-26 12:04:08
+Saurabh Gupta(Micky),"Mumbai, India","#BureauChief-Mumbai @ndtv 
+#MobileJournalist #MoJo 
+Views personal.
+Interests: #Northeast #BBINarea 
+Bylines: https://t.co/YssPipi5Tq 
+Instagram: @mickygupta84 
+From: #Kolkata",2010-01-04 19:02:29,11388.0,2690,6541,True,2021-07-26 12:04:27,This is great news. We need to keep going like this. Great effort inspite of the erratic supplies of vaccine doses and this pace needs to continue. #GetVaccinatedNow #GetVaccinated #COVID19 #CovidVaccine #Maharashtra #Mumbai https://t.co/fIBS0vRDy6,"['GetVaccinatedNow', 'GetVaccinated', 'COVID19', 'CovidVaccine', 'Maharashtra', 'Mumbai']",Twitter for Android,False,2021-07-26 12:04:27,2021-07-26,12:04:27,2021-07-26 12:04:27
+suresh kumar,Tamilnadu,"former tamilnadu bureau chief uni tv , cvb news . long stint with zee news.
+former editor agni news services",2020-03-28 16:44:58,104.0,518,3797,False,2021-07-26 12:04:37,"Maharashtra becomes the first state to have vaccinated over 1 crore people with both doses
+#CovidVaccine 
+#Maharashtra 
+@UdhavThackeray https://t.co/HwOK6jX5cq","['CovidVaccine', 'Maharashtra']",Twitter for Android,False,2021-07-26 12:04:37,2021-07-26,12:04:37,2021-07-26 12:04:37

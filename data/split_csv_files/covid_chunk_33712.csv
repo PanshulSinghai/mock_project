@@ -1,0 +1,48 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+Thread Reader App,Wherever threads are written..,"I'm a 🤖 to help you read threads more easily. Reply to any tweet of a thread and mention me with the ""unroll"" keyword and I'll give you a link back 😀",2017-08-11 01:11:39,483164.0,1286.0,2205.0,False,2021-07-12 11:59:24,"@necas55 Hello, you can read it here: (1/n) The #AstraZeneca #CovidVaccine is contaminated with human… https://t.co/ijKGDfZorw Enjoy :) 🤖","['AstraZeneca', 'CovidVaccine']",ThreadReaderApp,False,2021-12-07 11:59:24,2021-12-07,11:59:24,2021-12-07 11:59:24
+Virgin Media News,"Dublin, Ireland","Virgin Media News is Ireland's national independent television news service 📺12.30, 5.30 and 8pm on Virgin Media One",2009-09-09 10:28:47,75069.0,202.0,3.0,True,2021-07-12 12:00:03,"#WATCH People aged 18-34 will be able to sign up for the #AstraZeneca #COVID19 vaccine this week
+
+News Correspondent @newschambers has more details ⤵️
+
+#VMNews | #COVID19ireland | #COVIDVaccine https://t.co/dNXAvr9UNu","['WATCH', 'AstraZeneca', 'COVID19', 'VMNews', 'COVID19ireland', 'COVIDVaccine']",Twitter Media Studio,False,2021-12-07 12:00:03,2021-12-07,12:00:03,2021-12-07 12:00:03
+UK Vaccine Progress Tracker #COVID19,,Daily update of 1st and 2nd dose vaccine % progress in UK adults from the UK Gov API. #covid #covid19 #vaccine #covidvaccine Coded: @thetafferboy Idea: @iamrofe,2021-01-16 01:12:59,4489.0,2.0,9.0,False,2021-07-12 12:00:04,"1st dose of vaccine progress: 
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 87.17%
+
+2nd dose of vaccine progress: 
+
+▓▓▓▓▓▓▓▓▓░░░░░░ 66.05%
+
+As of 2021-07-10
+Using data from https://t.co/6y8FGETx1K API
+#CovidVaccine #COVID19 #CoronavirusVaccine","['CovidVaccine', 'COVID19', 'CoronavirusVaccine']",UKVacTrack,False,2021-12-07 12:00:04,2021-12-07,12:00:04,2021-12-07 12:00:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,9.0,0.0,0.0,False,2021-07-12 12:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 12/07 at 05:30PM
+FREE Slots 
+#COVISHIELD - Dose1:0, Dose2:3
+#COVAXIN - Dose1:0, Dose2:1
+PAID Slots 
+#COVISHIELD - Dose1:49, Dose2:50
+#COVAXIN - Dose1:50, Dose2:50","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2021-12-07 12:00:04,2021-12-07,12:00:04,2021-12-07 12:00:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,9.0,0.0,0.0,False,2021-07-12 12:00:14,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 12/07 at 05:30PM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:0, Dose2:1
+#COVAXIN - Dose1:81, Dose2:83
+#SPUTNIKV - Dose1:193, Dose2:44","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2021-12-07 12:00:14,2021-12-07,12:00:14,2021-12-07 12:00:14
+Clay Farm Centre,"Cambridge, England","The Clay Farm Centre is part of the new developments in Cambridge's Southern Fringe growth area. Including community facilities, library and café.",2017-08-15 08:33:40,231.0,70.0,20.0,False,2021-07-12 12:00:19,"As we get closer to the relaxation of restrictions it’s more important than ever to get your vaccination. It is the best protection from severe illness and hospitalisation. 
+https://t.co/nTMNmKMRP8
+#NHS #CambridgeCityCouncil #ClayFarm #Trumpington #vaccination #covidvaccine","['NHS', 'CambridgeCityCouncil', 'ClayFarm', 'Trumpington', 'vaccination', 'covidvaccine']",Twitter Web App,False,2021-12-07 12:00:19,2021-12-07,12:00:19,2021-12-07 12:00:19
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,9.0,0.0,0.0,False,2021-07-12 12:00:25,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 12/07 at 05:30PM
+FREE Slots 
+#COVISHIELD - Dose1:859, Dose2:835
+#COVAXIN - Dose1:541, Dose2:541
+PAID Slots 
+#COVISHIELD - Dose1:1862, Dose2:2124
+#COVAXIN - Dose1:1288, Dose2:4235
+#SPUTNIKV - Dose1:198, Dose2:0","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2021-12-07 12:00:25,2021-12-07,12:00:25,2021-12-07 12:00:25
+SpringLaw,"Toronto, Ontario","We help newer bosses and executives build and manage their people solutions strategically, calmly & with the right people on board.",2017-03-27 21:35:30,557.0,828.0,278.0,False,2021-07-12 12:00:46,"8:10am EST - As people head back to the office, will employers have the right to make vaccinations mandatory? Our own @Jessycadefence discusses the issue of mandatory vaccinations for employees with @ElynJonesCBC
+https://t.co/LyObrMEqTC
+#COVID19 #HR #VaccinePassport #COVIDvaccine","['COVID19', 'HR', 'VaccinePassport', 'COVIDvaccine']",Hootsuite Inc.,False,2021-12-07 12:00:46,2021-12-07,12:00:46,2021-12-07 12:00:46
+COVID News,Estados Unidos,News about COVID-19,2013-06-05 08:52:31,3264.0,1475.0,131.0,False,2021-07-12 12:01:05,"oops, i thought i am an indian citizen and i am living in india, its my mistake.
+#COVID19 #CovidVaccine #COVIDVaccination @PMOIndia @MoHFW_INDIA  (@renjipunalur) https://t.co/zP5CFSzklr","['COVID19', 'CovidVaccine', 'COVIDVaccination']",Revive Social App,False,2021-12-07 12:01:05,2021-12-07,12:01:05,2021-12-07 12:01:05
+John Kelly,Ireland,I like keeping fit and the illuminati..The illuminati...a great bunch of Lads. https://t.co/mPjW40ZwPX she/him/them/their/it,2018-07-20 19:58:12,519.0,393.0,39939.0,False,2021-07-12 12:01:46,I know I have followers that don't want to take the #CovidVaccine that's fine..i was gaslight into taking it myself..and the f**** who did it..hasnt took it now..i hear..i don't see it as that risky..but is it pointless..seems to be. Yet they seem to be fighting for it in #Cuba,"['CovidVaccine', 'Cuba']",Twitter for Android,False,2021-12-07 12:01:46,2021-12-07,12:01:46,2021-12-07 12:01:46

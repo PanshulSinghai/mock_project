@@ -1,0 +1,40 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,29.0,0,0,False,2021-10-19 07:30:04,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 19/10 at 01:00PM
+FREE Slots 
+#COVAXIN - Dose1:200, Dose2:198
+PAID Slots 
+#COVISHIELD - Dose1:100, Dose2:47","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVAXIN', 'COVISHIELD']",VaxBlr,False,2021-10-19 07:30:04,2021-10-19,07:30:04,2021-10-19 07:30:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,29.0,0,0,False,2021-10-19 07:30:15,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 19/10 at 01:00PM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:900, Dose2:640
+#COVAXIN - Dose1:630, Dose2:608
+#SPUTNIKV - Dose1:94, Dose2:0","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2021-10-19 07:30:15,2021-10-19,07:30:15,2021-10-19 07:30:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,29.0,0,0,False,2021-10-19 07:30:25,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 19/10 at 01:00PM
+FREE Slots 
+#COVISHIELD - Dose1:2508, Dose2:1403
+#COVAXIN - Dose1:1182, Dose2:1358
+PAID Slots 
+#COVISHIELD - Dose1:9714, Dose2:5556
+#COVAXIN - Dose1:5571, Dose2:5547
+#SPUTNIKV - Dose1:551, Dose2:228","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2021-10-19 07:30:25,2021-10-19,07:30:25,2021-10-19 07:30:25
+Souls Of Rajasthan,Rajasthan,"• Stories of Hope •
+Showcasing positive stories of resilience, brotherhood and humanity in the times of a pandemic across Rajasthan.
+#SoulsOfRajasthan",2020-07-01 07:30:01,2206.0,0,2,False,2021-10-19 07:31:17,"Sunita Yadav | 47 Years Old | Social Worker | Sirohi 
+
+#CovidReliefWork #CovidHelpers #StrongWarriors #Covid19 #Sirohi #CovidStories #CovidVaccine #RajasthanCovidStories #HelpingHands #UNICEF https://t.co/kuO2HJejM4","['CovidReliefWork', 'CovidHelpers', 'StrongWarriors', 'Covid19', 'Sirohi', 'CovidStories', 'CovidVaccine', 'RajasthanCovidStories', 'HelpingHands', 'UNICEF']",Twitter for iPhone,False,2021-10-19 07:31:17,2021-10-19,07:31:17,2021-10-19 07:31:17
+AfricArXiv,Africa,"#OpenAccess repository platform for African scientists to share their research outputs.
+
+Contribute to sustain our work: https://t.co/aKq6IHAFxF",2018-06-10 08:05:30,2592.0,1089,4292,False,2021-10-19 07:31:32,"Our #covid19africa collection at @Science_Open
+
+ lists now 1,045 articles. New additions:
+
+@tccafrica @AfricaCDC @WHOAFRO
+#Covid_19 #CovidVaccine #COVID 
+
+1/6 https://t.co/tMpVuoSyIK","['covid19africa', 'Covid_19', 'CovidVaccine', 'COVID']",Twitter Web App,False,2021-10-19 07:31:32,2021-10-19,07:31:32,2021-10-19 07:31:32
+Prayagrajwale,,Education & Technology,2021-09-23 03:53:47,38.0,769,772,False,2021-10-19 07:32:30,"@singhshivam421 @monitor85420119 ""This is a huge achievement and we Indians need to be proud of it"": Dr Randeep Guleria, Director, AIIMS, on the upcoming billionth #COVIDVaccine dose https://t.co/5CP32tWRSt",['COVIDVaccine'],Twitter for Android,False,2021-10-19 07:32:30,2021-10-19,07:32:30,2021-10-19 07:32:30
+Prayagrajwale,,Education & Technology,2021-09-23 03:53:47,38.0,769,772,False,2021-10-19 07:32:42,"@SohailR81740902 @EnemySlayer24_7 ""This is a huge achievement and we Indians need to be proud of it"": Dr Randeep Guleria, Director, AIIMS, on the upcoming billionth #COVIDVaccine dose https://t.co/5CP32tWRSt",['COVIDVaccine'],Twitter for Android,False,2021-10-19 07:32:42,2021-10-19,07:32:42,2021-10-19 07:32:42
+Prayagrajwale,,Education & Technology,2021-09-23 03:53:47,38.0,769,772,False,2021-10-19 07:32:50,"@malikMazherkhan @swati_gs ""This is a huge achievement and we Indians need to be proud of it"": Dr Randeep Guleria, Director, AIIMS, on the upcoming billionth #COVIDVaccine dose https://t.co/5CP32tWRSt",['COVIDVaccine'],Twitter for Android,False,2021-10-19 07:32:50,2021-10-19,07:32:50,2021-10-19 07:32:50
+Prayagrajwale,,Education & Technology,2021-09-23 03:53:47,38.0,769,772,False,2021-10-19 07:32:56,"@MIqbal67753424 @WakeelK06928828 @Manahil_Khan2 @ImranISP2 @__TEP_ @Hafezsays @QaisarAbbasJoi1 @zh_9123 @Father_Of_Endia @FarwaSpeaks_ @1nViS1bL3_ @uziiirajput @Kazmi_S5 @LoNgLiVePAK1940 ""This is a huge achievement and we Indians need to be proud of it"": Dr Randeep Guleria, Director, AIIMS, on the upcoming billionth #COVIDVaccine dose https://t.co/5CP32tWRSt",['COVIDVaccine'],Twitter for Android,False,2021-10-19 07:32:56,2021-10-19,07:32:56,2021-10-19 07:32:56
+Prayagrajwale,,Education & Technology,2021-09-23 03:53:47,38.0,769,772,False,2021-10-19 07:33:06,"@17ftym ""This is a huge achievement and we Indians need to be proud of it"": Dr Randeep Guleria, Director, AIIMS, on the upcoming billionth #COVIDVaccine dose https://t.co/5CP32tWRSt",['COVIDVaccine'],Twitter for Android,False,2021-10-19 07:33:06,2021-10-19,07:33:06,2021-10-19 07:33:06

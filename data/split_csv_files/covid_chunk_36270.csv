@@ -1,0 +1,53 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-02-24 05:00:15,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 24/02 at 10:30AM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-02-24 05:00:15,2022-02-24,05:00:15,2022-02-24 05:00:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-02-24 05:00:26,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 24/02 at 10:30AM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-02-24 05:00:26,2022-02-24,05:00:26,2022-02-24 05:00:26
+Wilcox Health,"Kauai, Hawaii","Wilcox is a not-for-profit medical center dedicated to providing the Kaua‘i community with accessible, quality health care.",2009-10-22 08:49:48,312.0,219.0,238.0,False,2022-02-24 05:07:01,"Kauai COVID-19 Mobile Vaccine Clinics will be held on Thursdays from 3–5 p.m. instead of 1–5 p.m., effective Feb. 24. Visit https://t.co/jHwtubbf7b for clinic locations around the island. #healthierhawaii #covidvaccine https://t.co/zrO77uHnAC","['healthierhawaii', 'covidvaccine']",Sprout Social,False,2022-02-24 05:07:01,2022-02-24,05:07:01,2022-02-24 05:07:01
+Zak Gregg,"Lancaster, PA","Queer, 
+he/him/grandpa,
+Still aggregating COVID numbers in Lancaster County,
+Proud @LancStandsUp Member.
+Thoughts are my own😁.",2015-02-01 01:10:24,280.0,133.0,3474.0,False,2022-02-24 05:13:21,"Lancaster County COVID Vaccination Numbers (02/23/22):
+
+Total 1 Dose: 346,650
+Total 2 Doses: 306,651
+Total Boosted: 145,744
+
+New 1 Dose: 171
+New 2 Doses: 203
+New Boosted: 294 #COVIDVaccine",['COVIDVaccine'],Twitter Web App,False,2022-02-24 05:13:21,2022-02-24,05:13:21,2022-02-24 05:13:21
+Save the Children India (Bal Raksha Bharat),"Gurgaon, India",India's leading independent child rights organisation which has changed the lives of more than 14 million underprivileged children since 2008.,2009-07-22 10:24:00,33806.0,551.0,3620.0,True,2022-02-24 05:17:45,"In a bid to debunk the myths around the #CovidVaccine, we’re continuing our journey to build #VaccineConfidence among community members. Here’s a glimpse of our awareness van driving  across aspirational districts Gumla &amp; West Singhbhum in #Jharkhand. #SurakshaKaTika https://t.co/UchcjaHAge","['CovidVaccine', 'VaccineConfidence', 'Jharkhand', 'SurakshaKaTika']",Twitter for iPhone,False,2022-02-24 05:17:45,2022-02-24,05:17:45,2022-02-24 05:17:45
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-02-24 05:30:05,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 24/02 at 11:00AM
+FREE Slots 
+#COVISHIELD - Dose1:7, Dose2:1
+#COVAXIN - Dose1:0, Dose2:1
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2022-02-24 05:30:05,2022-02-24,05:30:05,2022-02-24 05:30:05
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-02-24 05:30:15,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 24/02 at 11:00AM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:843, Dose2:9
+#SPUTNIKV - Dose1:30, Dose2:0","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-02-24 05:30:15,2022-02-24,05:30:15,2022-02-24 05:30:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-02-24 05:30:26,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 24/02 at 11:00AM
+FREE Slots 
+#COVISHIELD - Dose1:8969, Dose2:9
+#COVAXIN - Dose1:11, Dose2:8
+PAID Slots 
+#COVISHIELD - Dose1:4298, Dose2:20
+#COVAXIN - Dose1:10, Dose2:10
+#SPUTNIKV - Dose1:200, Dose2:1071","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2022-02-24 05:30:26,2022-02-24,05:30:26,2022-02-24 05:30:26
+SchoolFinds,India,"INDIA Best Schools listing Portal, Free School Registration, Learning, Best school in your location- https://t.co/k7FxGFm4xo *CHILDREN IS THE FUTURE OF COUNTRY",2016-01-07 18:10:14,94.0,102.0,225.0,False,2022-02-24 05:47:58,"#vaccine Daily report in INDIA 
+
+Vaccinated Day Before 30,49,988
+ Total Vaccinated 1,76,52,31,385
+
+check State wise #vaccination report
+
+https://t.co/8Civy3oXSI
+
+#vaccinated #IndiaFightsCorona #CoronaInIndia #Statewise #covidfighter #COVID19 #coronavirus #CovidVaccine","['vaccine', 'vaccination', 'vaccinated', 'IndiaFightsCorona', 'CoronaInIndia', 'Statewise', 'covidfighter', 'COVID19', 'coronavirus', 'CovidVaccine']",Twitter Web App,False,2022-02-24 05:47:58,2022-02-24,05:47:58,2022-02-24 05:47:58
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-02-24 06:00:05,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 24/02 at 11:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-02-24 06:00:05,2022-02-24,06:00:05,2022-02-24 06:00:05

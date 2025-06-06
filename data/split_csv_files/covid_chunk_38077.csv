@@ -1,0 +1,55 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-07 01:30:27,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 07/03 at 07:00AM
+FREE Slots 
+#COVISHIELD - Dose1:6567, Dose2:159
+#COVAXIN - Dose1:13, Dose2:11
+PAID Slots 
+#COVISHIELD - Dose1:1627, Dose2:100
+#SPUTNIKV - Dose1:50, Dose2:1019","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-07-03 01:30:27,2022-07-03,01:30:27,2022-07-03 01:30:27
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-07 02:00:05,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 07/03 at 07:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-07-03 02:00:05,2022-07-03,02:00:05,2022-07-03 02:00:05
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-07 02:00:15,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 07/03 at 07:30AM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-07-03 02:00:15,2022-07-03,02:00:15,2022-07-03 02:00:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-07 02:00:26,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 07/03 at 07:30AM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-07-03 02:00:26,2022-07-03,02:00:26,2022-07-03 02:00:26
+Stag & Rose Court Patient Support Group,"Rotherham, England",PPG - Group that supports both patients and staff to ensure the best health care,2018-05-02 08:33:09,612.0,2244.0,11487.0,False,2022-03-07 02:17:55,"THIS WEEK'S #COVIDvaccination availability for YOU - WALK-IN &amp; BOOK: -
+https://t.co/ihd6igRd2A
+#GrabAJab #VaccinesSaveLives #VaccinesWork #COVID19 #COVID19vaccines #CovidVaccine #CovidIsNotOver #VaccinePassport #HolidaysAreComing💪🏾💉🛂✅🏖☀️🛂
+@vaccination_NYS https://t.co/GeMDNkVDZy","['COVIDvaccination', 'GrabAJab', 'VaccinesSaveLives', 'VaccinesWork', 'COVID19', 'COVID19vaccines', 'CovidVaccine', 'CovidIsNotOver', 'VaccinePassport', 'HolidaysAreComing']",Twitter Web App,False,2022-07-03 02:17:55,2022-07-03,02:17:55,2022-07-03 02:17:55
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-07 02:30:04,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 07/03 at 08:00AM
+FREE Slots 
+#COVISHIELD - Dose1:104, Dose2:100
+#COVAXIN - Dose1:100, Dose2:100
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2022-07-03 02:30:04,2022-07-03,02:30:04,2022-07-03 02:30:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-07 02:30:15,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 07/03 at 08:00AM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:830, Dose2:498
+#SPUTNIKV - Dose1:30, Dose2:0","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-07-03 02:30:15,2022-07-03,02:30:15,2022-07-03 02:30:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-07 02:30:25,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 07/03 at 08:00AM
+FREE Slots 
+#COVISHIELD - Dose1:6566, Dose2:157
+#COVAXIN - Dose1:13, Dose2:9
+PAID Slots 
+#COVISHIELD - Dose1:1652, Dose2:100
+#SPUTNIKV - Dose1:50, Dose2:1019","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-07-03 02:30:25,2022-07-03,02:30:25,2022-07-03 02:30:25
+Business Standard,India,"Latest news on the economy, companies, markets, politics and technology from India's leading business daily.",2009-06-01 08:52:08,2185666.0,430.0,212.0,True,2022-03-07 02:50:00,"The world’s largest vaccine maker, Serum Institute of India, is working out plans on redeploying its installed capacity after the demand for Covid-19 vaccines wanes
+
+Read the story here 
+
+@sohinidastweets 
+
+#Vaccines #SII #CovidVaccine
+https://t.co/s3KX9FN2nX","['Vaccines', 'SII', 'CovidVaccine']",TweetDeck,False,2022-07-03 02:50:00,2022-07-03,02:50:00,2022-07-03 02:50:00
+🙏 สวัสดีประเทศไทย 🇹🇭,"Bangkok, Thailand",#Transportation #Hotel #Booking #Accommodation #Adventure #Packages #Sightseeing #Camping Link https://t.co/J4k3WSIG93,2018-05-12 08:34:34,373.0,6.0,1301.0,False,2022-03-07 02:53:41,"Test and Go Thailand
+Completely vaccinated trippers who are traveling by air from any country won't be needed to suffer an obligatory counter blockade.
+#Covid
+#covid_19
+#covidvaccine
+#test&amp;go
+#bangkok
+#thailand
+https://t.co/3W5E3L0EmX https://t.co/4TojQ5nn8V","['Covid', 'covid_19', 'covidvaccine', 'test', 'bangkok', 'thailand']",Twitter for iPhone,False,2022-07-03 02:53:41,2022-07-03,02:53:41,2022-07-03 02:53:41

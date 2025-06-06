@@ -1,0 +1,48 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-05-12 05:30:16,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 12/05 at 11:00AM
+FREE Slots 
+#COVISHIELD - Dose1:0, Dose2:1
+PAID Slots 
+#COVISHIELD - Dose1:697, Dose2:60","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVISHIELD']",VaxBlr,False,2022-12-05 05:30:16,2022-12-05,05:30:16,2022-12-05 05:30:16
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-05-12 05:30:26,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 12/05 at 11:00AM
+FREE Slots 
+#COVISHIELD - Dose1:1029, Dose2:17
+#COVAXIN - Dose1:13, Dose2:16
+PAID Slots 
+#COVISHIELD - Dose1:3306, Dose2:47
+#COVAXIN - Dose1:30, Dose2:30
+#SPUTNIKV - Dose1:10, Dose2:0","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2022-12-05 05:30:26,2022-12-05,05:30:26,2022-12-05 05:30:26
+SchoolFinds,India,"INDIA Best Schools listing Portal, Free School Registration, Learning, Best school in your location- https://t.co/k7FxGFm4xo *CHILDREN IS THE FUTURE OF COUNTRY",2016-01-07 18:10:14,97.0,102.0,224.0,False,2022-05-12 05:42:15,"#vaccine Daily report in INDIA
+
+Vaccinated Day Before 14,85,292
+ Total Vaccinated  1,90,83,96,788
+
+check State wise #vaccination report
+
+https://t.co/8Civy3oXSI
+
+#vaccinated #IndiaFightsCorona #CoronaInIndia #Statewise #covidfighter #COVID19 #coronavirus #CovidVaccine","['vaccine', 'vaccination', 'vaccinated', 'IndiaFightsCorona', 'CoronaInIndia', 'Statewise', 'covidfighter', 'COVID19', 'coronavirus', 'CovidVaccine']",Twitter Web App,False,2022-12-05 05:42:15,2022-12-05,05:42:15,2022-12-05 05:42:15
+allAfrica.com,Africa,"News by, about & from a fast-changing continent. Also @allafricafrench, @AllAfricaSport. Telegram https://t.co/xYiijXcPcP. Facebook: https://t.co/ggXoZX5c4O",2008-10-10 13:27:42,462707.0,1870.0,6822.0,True,2022-05-12 05:42:31,Covid-19 Vaccine Production Line in Jeopardy @DeutscheWelle: https://t.co/eQBwXZxrrF #SouthAfrica #CovidVaccine https://t.co/JAI2u7DE9b,"['SouthAfrica', 'CovidVaccine']",allAfrica.com,False,2022-12-05 05:42:31,2022-12-05,05:42:31,2022-12-05 05:42:31
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-05-12 06:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 12/05 at 11:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-12-05 06:00:04,2022-12-05,06:00:04,2022-12-05 06:00:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-05-12 06:00:14,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 12/05 at 11:30AM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-12-05 06:00:14,2022-12-05,06:00:14,2022-12-05 06:00:14
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-05-12 06:00:25,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 12/05 at 11:30AM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-12-05 06:00:25,2022-12-05,06:00:25,2022-12-05 06:00:25
+HealthStrives,India,We're committed to being your source for expert health guidance. Come to us in your pursuit of health & wellness.,2019-11-22 07:27:17,295.0,724.0,576.0,False,2022-05-12 06:21:38,"At present, NTAGI reduced the time interval between the #second_dose of the #Covid_19  vaccine and the #booster_shot for those who travel abroad.
+
+Visit : https://t.co/cybU7WRXBi
+
+#healthstrives #covid_19 #covidindia #covidnews #covid19 #covidvaccine #covidnewsindia #covid_news","['second_dose', 'Covid_19', 'booster_shot', 'healthstrives', 'covid_19', 'covidindia', 'covidnews', 'covid19', 'covidvaccine', 'covidnewsindia', 'covid_news']",Twitter Web App,False,2022-12-05 06:21:38,2022-12-05,06:21:38,2022-12-05 06:21:38
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-05-12 06:30:05,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 12/05 at 12:00PM
+FREE Slots 
+#COVISHIELD - Dose1:2, Dose2:1
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-12-05 06:30:05,2022-12-05,06:30:05,2022-12-05 06:30:05
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-05-12 06:30:15,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 12/05 at 12:00PM
+FREE Slots 
+#COVISHIELD - Dose1:0, Dose2:1
+PAID Slots 
+#COVISHIELD - Dose1:697, Dose2:60","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVISHIELD']",VaxBlr,False,2022-12-05 06:30:15,2022-12-05,06:30:15,2022-12-05 06:30:15

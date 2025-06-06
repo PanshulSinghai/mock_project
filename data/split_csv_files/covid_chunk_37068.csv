@@ -1,0 +1,55 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-16 09:30:15,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 16/04 at 03:00PM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:785, Dose2:47","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-04-16 09:30:15,2022-04-16,09:30:15,2022-04-16 09:30:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-16 09:30:25,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 16/04 at 03:00PM
+FREE Slots 
+#COVISHIELD - Dose1:1128, Dose2:12
+#COVAXIN - Dose1:10, Dose2:12
+PAID Slots 
+#COVISHIELD - Dose1:3210, Dose2:80
+#COVAXIN - Dose1:70, Dose2:70
+#SPUTNIKV - Dose1:10, Dose2:1000","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2022-04-16 09:30:25,2022-04-16,09:30:25,2022-04-16 09:30:25
+CitySpidey,"New Delhi, India","Lifestyle and community news, music, travel, entertainment, and educational content.",2016-01-12 13:06:22,1310.0,28.0,1365.0,False,2022-04-16 09:31:49,"A paid Covid vaccination has been organized on April 17, 2022. from 10 am to 2 pm.
+@NOFAATIMES #NOFAA #CovidVaccine #Covaxin #Covishield #boosterdose 
+https://t.co/OxZKrVJ9N8","['NOFAA', 'CovidVaccine', 'Covaxin', 'Covishield', 'boosterdose']",Twitter Web App,False,2022-04-16 09:31:49,2022-04-16,09:31:49,2022-04-16 09:31:49
+ConnectGujarat,"गुजरात, भारत","India's 1st ISO Certified Digital News Portal, providing voice to the unheard & responsible media channel for people stories & trending info. #BeyondJustNews",2015-09-26 08:13:29,4285.0,1806.0,3505.0,False,2022-04-16 09:37:16,Over 186 crore 38 lakh COVID vaccine doses administered in the country so far #COVIDvaccine #COVID #NationwideVaccinationDrive #IndiaNews #NationalNews #HealthNews https://t.co/lQCEluqPDX,"['COVIDvaccine', 'COVID', 'NationwideVaccinationDrive', 'IndiaNews', 'NationalNews', 'HealthNews']",Hocalwire Social Share,False,2022-04-16 09:37:16,2022-04-16,09:37:16,2022-04-16 09:37:16
+Zee News English,India,"https://t.co/i9J1GUZmSP brings you the latest news with 360 degree coverage across genres
+
+Instagram: https://t.co/CZ1MfoXdtk",2008-12-12 06:01:55,5596353.0,31.0,5.0,True,2022-04-16 09:45:00,"#Omicron-specific #Sinopharm #CovidVaccine cleared for clinical trial in China 
+
+#COVID19
+
+https://t.co/rX9g8eh7en","['Omicron', 'Sinopharm', 'CovidVaccine', 'COVID19']",TweetDeck,False,2022-04-16 09:45:00,2022-04-16,09:45:00,2022-04-16 09:45:00
+Dr John B.,,"Scientist, lecturer & father. Whistleblower.
+I've published over 100 peer-reviewed papers (e.g. NEJM, The Lancet, PNAS). 
+I care about your health.
+https://t.co/TYGQImPR83",2021-06-02 08:59:05,60926.0,84.0,1957.0,False,2022-04-16 09:52:46,"""The vaccine should be carefully administered to type 1 diabetes patients receiving intensive insulin therapy and a sodium-glucose transporter due to the high risk ketoacidosis."" https://t.co/Nayd6s1GbC
+#CovidVaccine #Covidvaccination https://t.co/bqF2ZpjHg0","['CovidVaccine', 'Covidvaccination']",Twitter Web App,False,2022-04-16 09:52:46,2022-04-16,09:52:46,2022-04-16 09:52:46
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-16 10:00:03,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 16/04 at 03:30PM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-04-16 10:00:03,2022-04-16,10:00:03,2022-04-16 10:00:03
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-16 10:00:14,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 16/04 at 03:30PM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-04-16 10:00:14,2022-04-16,10:00:14,2022-04-16 10:00:14
+NHS Lambeth CCG,"London, England","Part of @NHSSELondonCCG, responsible for planning, buying and monitoring healthcare services for Lambeth residents. Monitored 9-5 Mon-Fri, no clinical advice.",2009-07-13 15:41:52,11897.0,853.0,1629.0,True,2022-04-16 10:00:15,"Looking to find your local #COVIDVaccine walk-in service? We've got you covered 👇
+
+✅ Spring boosters
+✅ 5-11s vaccination
+✅ First, second and boosters 
+
+Find a walk-in near you.
+https://t.co/WJiDsRF9LE
+
+#Lambeth https://t.co/P79PPT9cXu","['COVIDVaccine', 'Lambeth']",Hootsuite Inc.,False,2022-04-16 10:00:15,2022-04-16,10:00:15,2022-04-16 10:00:15
+NHSLewishamCCG,London Borough of Lewisham,"We are part of @NHSSELondonCCG, responsible for planning, buying and monitoring healthcare services for Lewisham people.",2013-03-22 13:14:54,6347.0,706.0,2027.0,True,2022-04-16 10:00:15,"Looking to find your local #COVIDVaccine walk-in service? We've got you covered 👇
+
+✅ Spring boosters
+✅ 5-11s vaccination
+✅ First, second and boosters 
+
+Find a walk-in near you.
+https://t.co/qnGX7QHGO0
+
+#Lewisham https://t.co/KiPwPifOnV","['COVIDVaccine', 'Lewisham']",Hootsuite Inc.,False,2022-04-16 10:00:15,2022-04-16,10:00:15,2022-04-16 10:00:15

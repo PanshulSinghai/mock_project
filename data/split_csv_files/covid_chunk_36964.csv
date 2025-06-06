@@ -1,0 +1,42 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+Jaylon,"Brooklyn, NY 🇺🇸","Never stop acquiring the commonsense, it is as good as the knowledge.",2020-04-16 03:47:41,61.0,53.0,3126.0,False,2022-06-04 08:15:14,"Virus Experts Say ""Don't Go Here Now""
+
+#coronavirustips #coronavirus #covidvaccine #news #health
+https://t.co/3rjON1p2gD","['coronavirustips', 'coronavirus', 'covidvaccine', 'news', 'health']",Sentiment Analyzer -Alkesh,False,2022-04-06 08:15:14,2022-04-06,08:15:14,2022-04-06 08:15:14
+Andrew,"Chicago, IL 🇺🇸","Love is spiritual oxygen; without it, the soul dies.",2020-05-08 21:08:56,86.0,61.0,3281.0,False,2022-06-04 08:15:20,"Dr. Fauci Says These Americans Should ""Go Get Boosted"" Right Away
+
+#dr.fauci #news #covidvaccine #health #coronavirus
+https://t.co/wieTuSGisB","['dr', 'news', 'covidvaccine', 'health', 'coronavirus']",twitterFrauenLoop,False,2022-04-06 08:15:20,2022-04-06,08:15:20,2022-04-06 08:15:20
+Donna Hamacher,"Bombay, NY 🇺🇸","🇺🇸 We either make ourselves miserable, or we make ourselves strong. The amount of work is the same. 🇺🇸",2015-11-10 20:18:40,75.0,107.0,2897.0,False,2022-06-04 08:29:55,"Virus Experts Say Most People Catch Omicron This Way Now
+
+#covidvaccine #coronavirustips #news #coronavirus #health
+https://t.co/7ObHCJ7cG5","['covidvaccine', 'coronavirustips', 'news', 'coronavirus', 'health']",TwitterFamous1,False,2022-04-06 08:29:55,2022-04-06,08:29:55,2022-04-06 08:29:55
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-06-04 08:30:04,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 04/06 at 02:00PM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-04-06 08:30:04,2022-04-06,08:30:04,2022-04-06 08:30:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-06-04 08:30:15,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 04/06 at 02:00PM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:1104, Dose2:499","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-04-06 08:30:15,2022-04-06,08:30:15,2022-04-06 08:30:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-06-04 08:30:25,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 04/06 at 02:00PM
+FREE Slots 
+#COVISHIELD - Dose1:122, Dose2:112
+#COVAXIN - Dose1:12, Dose2:16
+PAID Slots 
+#COVISHIELD - Dose1:4162, Dose2:130
+#COVAXIN - Dose1:110, Dose2:110","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2022-04-06 08:30:25,2022-04-06,08:30:25,2022-04-06 08:30:25
+Tom Michnowski,"Sheridan, WY","The past is a place of reference, not a place of residence; the past is a place of learning, not a place of living.",2019-11-17 13:27:38,81.0,42.0,4959.0,False,2022-06-04 08:31:44,"Surgeon General Just Issued This ""Tough"" Warning
+
+#coronavirus #health #covidvaccine #news
+https://t.co/tWxJ7ZetNa","['coronavirus', 'health', 'covidvaccine', 'news']",tweetsentimentsbedi,False,2022-04-06 08:31:44,2022-04-06,08:31:44,2022-04-06 08:31:44
+Donte,"FARGO, ND 🇺🇸",A clown on a throne is still a clown. A king in rags is still a king.,2021-10-16 20:03:02,64.0,52.0,3122.0,False,2022-06-04 08:38:10,"Virus Experts Just Issued New COVID Warning
+
+#coronavirus #cdc #news #health #coronavirustips #covidvaccine
+https://t.co/HuztZ2LXsZ","['coronavirus', 'cdc', 'news', 'health', 'coronavirustips', 'covidvaccine']",assignment_bigdata,False,2022-04-06 08:38:10,2022-04-06,08:38:10,2022-04-06 08:38:10
+Mauricio,"Indianapolis, IN 🇺🇸",It is only after the deepest darkness that the greatest joy can come,2010-05-21 00:23:37,33.0,168.0,2869.0,False,2022-06-04 08:44:19,"Virus Expert Just Said How to Stay Alive Out There
+
+#coronavirustips #covidvaccine #health #news #coronavirus
+https://t.co/P2qqTh94qs","['coronavirustips', 'covidvaccine', 'health', 'news', 'coronavirus']",PokemonGo_Map,False,2022-04-06 08:44:19,2022-04-06,08:44:19,2022-04-06 08:44:19
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-06-04 09:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 04/06 at 02:30PM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-04-06 09:00:04,2022-04-06,09:00:04,2022-04-06 09:00:04

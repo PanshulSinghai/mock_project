@@ -1,0 +1,44 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0,0,False,2022-07-11 08:30:04,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 11/07 at 02:00PM
+FREE Slots 
+#COVISHIELD - Dose1:2, Dose2:1
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-11-07 08:30:04,2022-11-07,08:30:04,2022-11-07 08:30:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0,0,False,2022-07-11 08:30:14,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 11/07 at 02:00PM
+FREE Slots 
+#COVISHIELD - Dose1:0, Dose2:1
+PAID Slots 
+#COVISHIELD - Dose1:708, Dose2:10","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVISHIELD']",VaxBlr,False,2022-11-07 08:30:14,2022-11-07,08:30:14,2022-11-07 08:30:14
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0,0,False,2022-07-11 08:30:25,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 11/07 at 02:00PM
+FREE Slots 
+#COVISHIELD - Dose1:0, Dose2:3
+#COVAXIN - Dose1:0, Dose2:3
+PAID Slots 
+#COVISHIELD - Dose1:4013, Dose2:135
+#COVAXIN - Dose1:125, Dose2:125","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2022-11-07 08:30:25,2022-11-07,08:30:25,2022-11-07 08:30:25
+Andhravilas,USA,"Andhravilas Gives you  #Tollywood #Bollywood film News,#AndhraPradesh #Telangana News,#National    #Health #Business  #Trending Visit
+https://t.co/vJFjY4CwOT",2010-05-10 15:40:09,2606.0,92,27,False,2022-07-11 08:43:38,"Haryana to get land for new Vidhan Sabha complex in Chandigarh https://t.co/rJTxkXahgg #YSJagan #Breakingnews #Indiapolitics #AndhraPolitics #NewsFeed #Modi #Telangana #Indiafightscorona #CovidVaccine 
+
+Chandigarh, July 10 - The Central government has accepted the request made…","['YSJagan', 'Breakingnews', 'Indiapolitics', 'AndhraPolitics', 'NewsFeed', 'Modi', 'Telangana', 'Indiafightscorona', 'CovidVaccine']",IFTTT,False,2022-11-07 08:43:38,2022-11-07,08:43:38,2022-11-07 08:43:38
+Andhravilas,USA,"Andhravilas Gives you  #Tollywood #Bollywood film News,#AndhraPradesh #Telangana News,#National    #Health #Business  #Trending Visit
+https://t.co/vJFjY4CwOT",2010-05-10 15:40:09,2606.0,92,27,False,2022-07-11 08:43:41,"Amarnath Yatra remains suspended for 2nd day, rescue ops underway https://t.co/pdAHXL4RFM #CovidVaccine #Breakingnews #Indiapolitics #AndhraPolitics #NewsFeed #Modi #Telangana #Mamata #breakingnews 
+
+Srinagar, July 10 - The Amarnath Yatra remained suspended for a second consec…","['CovidVaccine', 'Breakingnews', 'Indiapolitics', 'AndhraPolitics', 'NewsFeed', 'Modi', 'Telangana', 'Mamata', 'breakingnews']",IFTTT,False,2022-11-07 08:43:41,2022-11-07,08:43:41,2022-11-07 08:43:41
+Andhravilas,USA,"Andhravilas Gives you  #Tollywood #Bollywood film News,#AndhraPradesh #Telangana News,#National    #Health #Business  #Trending Visit
+https://t.co/vJFjY4CwOT",2010-05-10 15:40:09,2606.0,92,27,False,2022-07-11 08:48:30,"Man's severed head found in train engine in UP https://t.co/iuiXStL911 #memes #Breakingnews #Indiapolitics #AndhraPolitics #NewsFeed #Modi #Telangana #CovidVaccine #YSJagan 
+
+Jhansi (Uttar Pradesh), July 10 - In a shocking incident, the severed head of a man was found stuck in…","['memes', 'Breakingnews', 'Indiapolitics', 'AndhraPolitics', 'NewsFeed', 'Modi', 'Telangana', 'CovidVaccine', 'YSJagan']",IFTTT,False,2022-11-07 08:48:30,2022-11-07,08:48:30,2022-11-07 08:48:30
+Andhravilas,USA,"Andhravilas Gives you  #Tollywood #Bollywood film News,#AndhraPradesh #Telangana News,#National    #Health #Business  #Trending Visit
+https://t.co/vJFjY4CwOT",2010-05-10 15:40:09,2606.0,92,27,False,2022-07-11 08:53:41,"TN fishermen protest against proposed harbour https://t.co/rFKBuiTx5O #Covid19India #Breakingnews #Indiapolitics #AndhraPolitics #NewsFeed #Modi #Telangana #Modi #CovidVaccine 
+
+Chennai, July 10 - The fishermen associations in Tamil Nadu have lodged a strong protest against a …","['Covid19India', 'Breakingnews', 'Indiapolitics', 'AndhraPolitics', 'NewsFeed', 'Modi', 'Telangana', 'Modi', 'CovidVaccine']",IFTTT,False,2022-11-07 08:53:41,2022-11-07,08:53:41,2022-11-07 08:53:41
+Andhravilas,USA,"Andhravilas Gives you  #Tollywood #Bollywood film News,#AndhraPradesh #Telangana News,#National    #Health #Business  #Trending Visit
+https://t.co/vJFjY4CwOT",2010-05-10 15:40:09,2606.0,92,27,False,2022-07-11 08:53:46,"Bihar's unique bazaar of boats draws buyers even from Nepal https://t.co/B5oUIIzOWF #KCR #Breakingnews #Indiapolitics #AndhraPolitics #NewsFeed #Modi #Telangana #KCR #CovidVaccine 
+
+Begusarai (Bihar), July 10 - With the onset of monsoon, a special market for the sale and purch…","['KCR', 'Breakingnews', 'Indiapolitics', 'AndhraPolitics', 'NewsFeed', 'Modi', 'Telangana', 'KCR', 'CovidVaccine']",IFTTT,False,2022-11-07 08:53:46,2022-11-07,08:53:46,2022-11-07 08:53:46
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0,0,False,2022-07-11 09:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 11/07 at 02:30PM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-11-07 09:00:04,2022-11-07,09:00:04,2022-11-07 09:00:04
+Hounslow Council,"Hounslow, west London",Official Twitter feed for Hounslow Council. Follow us for tweets on news and updates in the borough. We monitor this account 9am – 5pm Mon-Fri,2010-09-22 06:47:18,16469.0,1543,4133,True,2022-07-11 09:00:13,"If you're 12+ years old, you can get your #COVID19 vaccine until 3:40pm today from West Middlesex University Hospital, (Twickenham Rd, #Isleworth, TW7 6AF).
+
+For more information, visit: https://t.co/mav7KQZGkX
+#covid19uk #covid_19 #covidvaccine https://t.co/IgUry2kbxy","['COVID19', 'Isleworth', 'covid19uk', 'covid_19', 'covidvaccine']",Hootsuite Inc.,False,2022-11-07 09:00:13,2022-11-07,09:00:13,2022-11-07 09:00:13

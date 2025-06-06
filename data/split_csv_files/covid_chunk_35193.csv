@@ -1,0 +1,38 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-01-19 06:30:06,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 19/01 at 12:00PM
+FREE Slots 
+#COVISHIELD - Dose1:7, Dose2:3
+#COVAXIN - Dose1:0, Dose2:2
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2022-01-19 06:30:06,2022-01-19,06:30:06,2022-01-19 06:30:06
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-01-19 06:30:22,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 19/01 at 12:00PM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:968, Dose2:17
+#SPUTNIKV - Dose1:49, Dose2:19","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-01-19 06:30:22,2022-01-19,06:30:22,2022-01-19 06:30:22
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-01-19 06:30:32,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 19/01 at 12:00PM
+FREE Slots 
+#COVISHIELD - Dose1:13757, Dose2:899
+#COVAXIN - Dose1:404, Dose2:399
+PAID Slots 
+#COVISHIELD - Dose1:9025, Dose2:348
+#COVAXIN - Dose1:50, Dose2:50
+#SPUTNIKV - Dose1:228, Dose2:102","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2022-01-19 06:30:32,2022-01-19,06:30:32,2022-01-19 06:30:32
+Enna K,,,2011-10-15 20:36:45,67.0,332.0,544.0,False,2022-01-19 06:35:00,@VikiLovesFACS This week Australia reduced the booster interval from 4 to 3 months. Do we know if it's safe for pregnant women to have a booster 3 months after their 2nd #CovidVaccine? Can't find any info on this and am wondering what is safe for me and baby.,['CovidVaccine'],Twitter Web App,False,2022-01-19 06:35:00,2022-01-19,06:35:00,2022-01-19 06:35:00
+CHReaD,Kenya,"CHReaD advocates for increased investments in health R&D, evidence-based policy change and implementation; & efficient regulatory ecosystem for health products",2018-06-07 22:35:55,597.0,543.0,1271.0,False,2022-01-19 06:39:24,"In collaboration with the National AIDS Control Council, National #COVID19 Taskforce and the @KenyaRedCross, we hosted a virtual live televised Town-hall discussion in Sept 2021 to address #CovidVaccine hesitancy among people living w/ comorbidities such as HIV/AIDS and TB. https://t.co/V5GPLadN4v","['COVID19', 'CovidVaccine']",Twitter Web App,False,2022-01-19 06:39:24,2022-01-19,06:39:24,2022-01-19 06:39:24
+"Ministry of Tribal Affairs, Govt. of India","New Delhi, India","This is the official twitter account of Ministry of Tribal Affairs, Government of India.",2014-06-09 10:13:32,27019.0,149.0,1247.0,True,2022-01-19 06:49:31,"Anil Vangad, a Warli Artist's intricate Warli Painting shows the significance of two doses of #CovidVaccine  .He adds, ""The only way to freedom is to defeat the virus through mass vaccination &amp; if all of us get vaccinated soon, it would be a new ‘World Freedom Day"". @warlitribal https://t.co/QfnJ0NfZ0X",['CovidVaccine'],Twitter Web App,False,2022-01-19 06:49:31,2022-01-19,06:49:31,2022-01-19 06:49:31
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-01-19 07:00:08,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 19/01 at 12:30PM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-01-19 07:00:08,2022-01-19,07:00:08,2022-01-19 07:00:08
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-01-19 07:00:18,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 19/01 at 12:30PM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-01-19 07:00:18,2022-01-19,07:00:18,2022-01-19 07:00:18
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-01-19 07:00:29,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 19/01 at 12:30PM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-01-19 07:00:29,2022-01-19,07:00:29,2022-01-19 07:00:29
+Wajeeha Kanwal,Pakistan,"/CIMSian'23💉💊
+Muslim /
+
+مایوس تو وہ ہو جس کا رب نہ ہو🥀❤️",2020-07-22 11:57:52,130.0,244.0,930.0,False,2022-01-19 07:01:04,"Girls: I only have 2 ear piercings, I should go for third....
+Also girls: What !! Injection lagna ha...?? Mujhay bht dar lag rha ha...🥲😂
+#boosterdose 
+#covidvaccine","['boosterdose', 'covidvaccine']",Twitter for Android,False,2022-01-19 07:01:04,2022-01-19,07:01:04,2022-01-19 07:01:04

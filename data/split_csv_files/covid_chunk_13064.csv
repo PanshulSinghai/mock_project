@@ -1,0 +1,50 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+Suresh Bhagat,"Jharkhand, India","with an MBA from IIM and BTech in computer science, looking forward to work for the nation.",2010-03-31 14:20:36,47.0,88.0,5343.0,False,2021-07-03 11:58:48,"Thank you @narendramodi for providing life saving vaccine for free to everyone. We are fortunate to have you as our beloved #PrimeMinister 
+For people who are yet to get their first dose, please get it asap it’s completely safe and have no side effects.
+#COVID19 #CovidVaccine https://t.co/hdIJUjQ5fP","['PrimeMinister', 'COVID19', 'CovidVaccine']",Twitter for iPhone,False,2021-03-07 11:58:48,2021-03-07,11:58:48,2021-03-07 11:58:48
+Raghav Bahl,India,"Founder @TheQuint, @BloombergQuint, Network18 | Entrepreneur, Business Leader, Media Industry Expert | Author- 'SuperEconomies', 'Superpower?' & 'Super Century'",2010-07-21 12:55:08,112650.0,343.0,963.0,True,2021-07-03 12:00:00,"The Ministry of Health's affidavit to RTI responses reveals mismatch in the dates of #COVIDVaccine procurement during March, April, and May 2021, reports @poonamjourno for @TheQuint.
+https://t.co/7lJXeBPPOy",['COVIDVaccine'],TweetDeck,False,2021-03-07 12:00:00,2021-03-07,12:00:00,2021-03-07 12:00:00
+Eurosurveillance,"Stockholm, Sweden","Europe's journal on infectious disease epidemiology, prevention and control 
+
+Impact factor 2018: 7.4  
+RTs ≠ endorsement",2012-01-05 15:38:11,16414.0,73.0,53.0,False,2021-07-03 12:00:02,"Neutralisation titres of individuals vaccinated with a second dose of Comirnaty against #SARSCoV2 variants of concern
+👇🏾 
+https://t.co/5CCvnB7hak
+
+#COVID19 #CovidVaccine #COVIDVaccination #PublichHealth #Comirnaty #VaccinesWork #VoC https://t.co/wnkakCeDTy","['SARSCoV2', 'COVID19', 'CovidVaccine', 'COVIDVaccination', 'PublichHealth', 'Comirnaty', 'VaccinesWork', 'VoC']",TweetDeck,False,2021-03-07 12:00:02,2021-03-07,12:00:02,2021-03-07 12:00:02
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,5.0,0.0,0.0,False,2021-07-03 12:00:03,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 03/07 at 05:30PM
+FREE Slots 
+#COVISHIELD - Dose1:0, Dose2:4
+#COVAXIN - Dose1:0, Dose2:2
+PAID Slots 
+#COVAXIN - Dose1:7, Dose2:10","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVAXIN']",VaxBlr,False,2021-03-07 12:00:03,2021-03-07,12:00:03,2021-03-07 12:00:03
+UK Vaccine Progress Tracker #COVID19,,Daily update of 1st and 2nd dose vaccine % progress in UK adults from the UK Gov API. #covid #covid19 #vaccine #covidvaccine Coded: @thetafferboy Idea: @iamrofe,2021-01-16 01:12:59,4478.0,2.0,8.0,False,2021-07-03 12:00:06,"1st dose of vaccine progress: 
+
+▓▓▓▓▓▓▓▓▓▓▓▓░░░ 85.52%
+
+2nd dose of vaccine progress: 
+
+▓▓▓▓▓▓▓▓▓░░░░░░ 63.16%
+
+As of 2021-07-01
+Using data from https://t.co/6y8FGETx1K API
+#CovidVaccine #COVID19 #CoronavirusVaccine","['CovidVaccine', 'COVID19', 'CoronavirusVaccine']",UKVacTrack,False,2021-03-07 12:00:06,2021-03-07,12:00:06,2021-03-07 12:00:06
+Dr. LaJaye' Britt,North Carolina,My Q Music/UAMG Sony/Orchard https://t.co/JbHwF8Srr4,2009-10-25 03:37:28,1267.0,3906.0,3152.0,False,2021-07-03 12:00:11,"Nice Saturday Vibes by: @pwasySounds #Spotify #StreamingNow #greenheart #likeandshare #BeTheLove @BlackettPromo #musicislife #french #Greek #UK #USA #maxlove2021 #coffee #COVID19 #VACCINE #4thofJuly #CovidVaccine #tosetyourpartyoff 
+ https://t.co/UeP6j9QWgd","['Spotify', 'StreamingNow', 'greenheart', 'likeandshare', 'BeTheLove', 'musicislife', 'french', 'Greek', 'UK', 'USA', 'maxlove2021', 'coffee', 'COVID19', 'VACCINE', '4thofJuly', 'CovidVaccine', 'tosetyourpartyoff']",Twitter for iPhone,False,2021-03-07 12:00:11,2021-03-07,12:00:11,2021-03-07 12:00:11
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,5.0,0.0,0.0,False,2021-07-03 12:00:14,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 03/07 at 05:30PM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:21, Dose2:23
+#COVAXIN - Dose1:70, Dose2:72","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2021-03-07 12:00:14,2021-03-07,12:00:14,2021-03-07 12:00:14
+NHS Lambeth CCG,"London, England","We are part of @NHSSELondonCCG, responsible for planning, buying and monitoring healthcare services for Lambeth residents.",2009-07-13 15:41:52,11661.0,835.0,1518.0,True,2021-07-03 12:00:21,"The #COVIDVaccine is the best way to protect yourself, your loves ones and your community from the virus. 
+
+You can #GetVaccinated today at one of our many walk-in clinics. Find one near you 👉 https://t.co/11NpBup5L2
+#Lambeth #LambethTogether https://t.co/XkyY0Z0VWp","['COVIDVaccine', 'GetVaccinated', 'Lambeth', 'LambethTogether']",Hootsuite Inc.,False,2021-03-07 12:00:21,2021-03-07,12:00:21,2021-03-07 12:00:21
+NHSBexleyCCG,Bexley,"@NHSSELondonCCG Bexley. We're clinically led and responsible for planning, buying and monitoring health services used by people in Bexley.",2011-11-08 10:38:58,4898.0,563.0,2088.0,True,2021-07-03 12:00:22,"The #COVIDVaccine is the best way to protect yourself, your loves ones and your community from the virus. 
+
+You can #GetVaccinated today at one of our many walk-in clinics. Find one near you 👉 https://t.co/RGhiOnHVtV
+#Bexley #Bexleyheath https://t.co/ivG8NWdIyb","['COVIDVaccine', 'GetVaccinated', 'Bexley', 'Bexleyheath']",Hootsuite Inc.,False,2021-03-07 12:00:22,2021-03-07,12:00:22,2021-03-07 12:00:22
+NHSLewishamCCG,London Borough of Lewisham,"We are part of @NHSSELondonCCG, responsible for planning, buying and monitoring healthcare services for Lewisham people.",2013-03-22 13:14:54,6186.0,704.0,1681.0,True,2021-07-03 12:00:22,"The #COVIDVaccine is the best way to protect yourself, your loves ones and your community from the virus. 
+
+You can #GetVaccinated today at one of our many walk-in clinics. Find one near you 👉 https://t.co/4xKobisGDQ
+#Lewisham #LDN https://t.co/UXT5ZFRiEV","['COVIDVaccine', 'GetVaccinated', 'Lewisham', 'LDN']",Hootsuite Inc.,False,2021-03-07 12:00:22,2021-03-07,12:00:22,2021-03-07 12:00:22

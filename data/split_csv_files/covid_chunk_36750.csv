@@ -1,0 +1,35 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-24 01:30:07,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 24/03 at 07:00AM
+FREE Slots 
+#COVISHIELD - Dose1:3, Dose2:1
+#COVAXIN - Dose1:0, Dose2:1
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2022-03-24 01:30:07,2022-03-24,01:30:07,2022-03-24 01:30:07
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-24 01:30:17,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 24/03 at 07:00AM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:838, Dose2:27
+#SPUTNIKV - Dose1:30, Dose2:8","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-03-24 01:30:17,2022-03-24,01:30:17,2022-03-24 01:30:17
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-24 01:30:28,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 24/03 at 07:00AM
+FREE Slots 
+#COVISHIELD - Dose1:5874, Dose2:699
+#COVAXIN - Dose1:200, Dose2:199
+PAID Slots 
+#COVISHIELD - Dose1:2786, Dose2:10
+#SPUTNIKV - Dose1:189, Dose2:1120","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-03-24 01:30:28,2022-03-24,01:30:28,2022-03-24 01:30:28
+"Deepti Reddi, MD",Seattle,"Mom | Wife | Alumna @HowardU @DukePathDept @cityofhope | Hematopathologist, Gastrointestinal & Hepatic Pathologist @uwlabmedpath||#BLM 🏳️‍🌈 #ASCP40UnderForty",2020-09-22 18:11:55,396.0,642.0,1508.0,False,2022-03-24 01:37:53,"#COVID19 is not a joke, even with 2 #CovidVaccine and #covidbooster still need nebulizer to breathe. #CovidIsNotOver","['COVID19', 'CovidVaccine', 'covidbooster', 'CovidIsNotOver']",Twitter for iPhone,False,2022-03-24 01:37:53,2022-03-24,01:37:53,2022-03-24 01:37:53
+Stacey Sager,New York City,Reporter at WABC-TV's Eyewitness News in NYC. Kicked cancer twice. Utmost respect for hard-working mommies and stories that make us think!!!,2011-02-27 00:53:20,12719.0,1478.0,8850.0,True,2022-03-24 01:38:28,"Long awaited Covid vaccines for the youngest children, ages 6 months and up..could be just a few months away, if the FDA approves the latest data from Moderna’s clinical trial.  https://t.co/Z7OnPkC1XU via @ABC7NY @moderna_tx #CovidVaccine",['CovidVaccine'],Twitter for iPhone,False,2022-03-24 01:38:28,2022-03-24,01:38:28,2022-03-24 01:38:28
+WA Dept. of Health,"Olympia, WA","Check COVID-19 information online at https://t.co/0TUpMykARd. Get vaccinated, wash your hands, stay home when you are sick and get tested.",2009-07-23 18:26:30,59970.0,874.0,9648.0,True,2022-03-24 01:49:32,Bridgette and Kevin share their story about why they reconsidered and became vaccinated against COVID-19. https://t.co/VLGmlcvciN #COVIDVaccine #WeConsiderWA https://t.co/jmfs854u1P,"['COVIDVaccine', 'WeConsiderWA']",Meltwater Social,False,2022-03-24 01:49:32,2022-03-24,01:49:32,2022-03-24 01:49:32
+Guanacaste Airport (LIR),,"Concessionaire of the Daniel Oduber Quirós International Airport, Guanacaste, Costa Rica.
+Guanacaste Airport powered by @VINCIAirports
+IATA: LIR | ICAO: MRLB",2021-03-11 17:47:33,225.0,66.0,160.0,False,2022-03-24 01:53:56,"Vaccination Campaign at Guanacaste Airport✔️
+
+#GuanacasteAirport #PositiveMobility  #OpeningYourWorld #CostaRica #VisitCostaRica #puravidacostarica #puravida #covidvaccine https://t.co/7SRTz5srIo","['GuanacasteAirport', 'PositiveMobility', 'OpeningYourWorld', 'CostaRica', 'VisitCostaRica', 'puravidacostarica', 'puravida', 'covidvaccine']",Twitter for iPhone,False,2022-03-24 01:53:56,2022-03-24,01:53:56,2022-03-24 01:53:56
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-24 02:00:05,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 24/03 at 07:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-03-24 02:00:05,2022-03-24,02:00:05,2022-03-24 02:00:05
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-24 02:00:16,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 24/03 at 07:30AM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-03-24 02:00:16,2022-03-24,02:00:16,2022-03-24 02:00:16
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-24 02:00:26,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 24/03 at 07:30AM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-03-24 02:00:26,2022-03-24,02:00:26,2022-03-24 02:00:26

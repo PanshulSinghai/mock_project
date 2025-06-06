@@ -1,0 +1,43 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-05 01:30:07,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 05/04 at 07:00AM
+FREE Slots 
+#COVISHIELD - Dose1:103, Dose2:0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-05-04 01:30:07,2022-05-04,01:30:07,2022-05-04 01:30:07
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-05 01:30:17,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 05/04 at 07:00AM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:640, Dose2:50
+#SPUTNIKV - Dose1:30, Dose2:0","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-05-04 01:30:17,2022-05-04,01:30:17,2022-05-04 01:30:17
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-05 01:30:28,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 05/04 at 07:00AM
+FREE Slots 
+#COVISHIELD - Dose1:1491, Dose2:12
+#COVAXIN - Dose1:13, Dose2:12
+PAID Slots 
+#COVISHIELD - Dose1:2194, Dose2:9
+#SPUTNIKV - Dose1:109, Dose2:1099","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-05-04 01:30:28,2022-05-04,01:30:28,2022-05-04 01:30:28
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-05 02:00:07,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 05/04 at 07:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-05-04 02:00:07,2022-05-04,02:00:07,2022-05-04 02:00:07
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-05 02:00:17,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 05/04 at 07:30AM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-05-04 02:00:17,2022-05-04,02:00:17,2022-05-04 02:00:17
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-05 02:00:28,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 05/04 at 07:30AM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-05-04 02:00:28,2022-05-04,02:00:28,2022-05-04 02:00:28
+North Georgia Health,"Dalton, GA","North Georgia Health District, based in Dalton, GA, is the regional public health office serving Cherokee, Fannin, Gilmer, Murray, Pickens & Whitfield Counties",2011-08-14 15:15:39,1651.0,1252.0,162.0,False,2022-04-05 02:23:07,"Looking for a 2nd Booster of COVID-19 vaccine? Health Depts in Cherokee, Fannin, Gilmer, Murray, Pickens &amp; Whitfield counties offer them, free &amp; w/out appointment during regular clinic hours! Learn more. See if you’re eligible: https://t.co/m9JFVSm6JM #SecondBooster #COVIDVaccine https://t.co/UWQBPIFPVe","['SecondBooster', 'COVIDVaccine']",Twitter for iPad,False,2022-05-04 02:23:07,2022-05-04,02:23:07,2022-05-04 02:23:07
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-05 02:30:07,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 05/04 at 08:00AM
+FREE Slots 
+#COVISHIELD - Dose1:103, Dose2:0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-05-04 02:30:07,2022-05-04,02:30:07,2022-05-04 02:30:07
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-05 02:30:17,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 05/04 at 08:00AM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:640, Dose2:50
+#SPUTNIKV - Dose1:30, Dose2:0","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-05-04 02:30:17,2022-05-04,02:30:17,2022-05-04 02:30:17
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-05 02:30:28,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 05/04 at 08:00AM
+FREE Slots 
+#COVISHIELD - Dose1:1491, Dose2:11
+#COVAXIN - Dose1:13, Dose2:11
+PAID Slots 
+#COVISHIELD - Dose1:2194, Dose2:9
+#SPUTNIKV - Dose1:109, Dose2:1097","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-05-04 02:30:28,2022-05-04,02:30:28,2022-05-04 02:30:28

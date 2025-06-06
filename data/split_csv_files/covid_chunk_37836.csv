@@ -1,0 +1,37 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0,0,False,2022-07-06 05:30:04,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 06/07 at 11:00AM
+FREE Slots 
+#COVISHIELD - Dose1:105, Dose2:1
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-06-07 05:30:04,2022-06-07,05:30:04,2022-06-07 05:30:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0,0,False,2022-07-06 05:30:15,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 06/07 at 11:00AM
+FREE Slots 
+#COVISHIELD - Dose1:0, Dose2:1
+PAID Slots 
+#COVISHIELD - Dose1:700, Dose2:10","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVISHIELD']",VaxBlr,False,2022-06-07 05:30:15,2022-06-07,05:30:15,2022-06-07 05:30:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0,0,False,2022-07-06 05:30:25,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 06/07 at 11:00AM
+FREE Slots 
+#COVISHIELD - Dose1:1, Dose2:11
+#COVAXIN - Dose1:0, Dose2:11
+PAID Slots 
+#COVISHIELD - Dose1:3301, Dose2:120
+#COVAXIN - Dose1:50, Dose2:20","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2022-06-07 05:30:25,2022-06-07,05:30:25,2022-06-07 05:30:25
+ANI Digital,India,"Asian News International.Multi-media news agency,content for information platforms:TV,Internet,broadband,newspapers,mobiles https://t.co/QrqluPvffc",2017-01-08 06:09:55,306634.0,0,0,True,2022-07-06 05:59:01,"CoWin to be repurposed into platform for universal immunisation, blood donation: R S Sharma
+
+Read @ANI Story | https://t.co/6o4T0WIULj
+#CoWin #blooddonation #immunisation #CovidVaccine https://t.co/aYDvQrQg7Y","['CoWin', 'blooddonation', 'immunisation', 'CovidVaccine']",Twitter Web App,False,2022-06-07 05:59:01,2022-06-07,05:59:01,2022-06-07 05:59:01
+Ai News,"New Delhi, India","Official Account of All India News. Mainly focused on Defense, Strategic and External Affairs.",2021-08-14 16:42:55,148.0,5,0,False,2022-07-06 05:59:26,"CoWin to be repurposed into platform for universal immunisation, blood donation: R S Sharma
+
+#CoWin #blooddonation #immunisation #CovidVaccine https://t.co/X8eH0aVOMp","['CoWin', 'blooddonation', 'immunisation', 'CovidVaccine']",Ai News Room,False,2022-06-07 05:59:26,2022-06-07,05:59:26,2022-06-07 05:59:26
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0,0,False,2022-07-06 06:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 06/07 at 11:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-06-07 06:00:04,2022-06-07,06:00:04,2022-06-07 06:00:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0,0,False,2022-07-06 06:00:14,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 06/07 at 11:30AM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-06-07 06:00:14,2022-06-07,06:00:14,2022-06-07 06:00:14
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0,0,False,2022-07-06 06:00:25,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 06/07 at 11:30AM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-06-07 06:00:25,2022-06-07,06:00:25,2022-06-07 06:00:25
+GhoseSpot,India-at-large,Current Affairs Commentator I Contrarian I Politically Right not Correct I Eclectic interests I Trivia Junkie I NO to all hate / inflammatory / abusive tweets.,2009-06-14 12:33:08,30668.0,1290,79833,True,2022-07-06 06:05:55,@Teensthack There may also be a case for considering the unused vaccine manufacturing capacity and stocks to alter the booster policy (ie. gap in dosages). #CovidIsNotOver #CovidVaccine,"['CovidIsNotOver', 'CovidVaccine']",Twitter Web App,False,2022-06-07 06:05:55,2022-06-07,06:05:55,2022-06-07 06:05:55
+Thor Crosskill,,Spotlighting All WEF/WHO/NWO/BBB/Coviet Union/Great Reset/Bond Villain/Clown World Nonsense All the Way to the Gulag. One of 5 Billion Bioweapon-Free Humans.,2021-03-30 22:29:00,652.0,1135,4077,False,2022-07-06 06:16:17,"@it_matters_2_me @Betelgeuse591 Looking at the statistics, sadly for some the light bulb will properly go off before they cotton on.
+
+#CovidVaccine",['CovidVaccine'],Twitter Web App,False,2022-06-07 06:16:17,2022-06-07,06:16:17,2022-06-07 06:16:17

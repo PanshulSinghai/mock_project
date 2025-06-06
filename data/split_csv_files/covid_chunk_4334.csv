@@ -1,0 +1,38 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+Antony Robart,Toronto,"GLOBAL NEWS MORNING National News Anchor, Host, Global TV’s ‘CRIME BEAT’ Antony.Robart@globalnews.ca",2009-08-18 17:29:04,6344.0,1973,4492,True,2021-11-01 02:29:07,"‘The agency’s action comes after several countries…raised concerns that the #Moderna vaccine increases the risk of myocarditis in men 18 to 30. In Finland and Sweden, authorities have recommended against the use of Moderna for men younger than 30.’ Canada? #COVIDVaccine #COVID19 https://t.co/FCYFomvswI","['Moderna', 'COVIDVaccine', 'COVID19']",Twitter for iPhone,False,2021-01-11 02:29:07,2021-01-11,02:29:07,2021-01-11 02:29:07
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,32.0,0,0,False,2021-11-01 02:30:03,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 01/11 at 08:00AM
+FREE Slots 
+#COVISHIELD - Dose1:50, Dose2:250
+#COVAXIN - Dose1:449, Dose2:450
+PAID Slots 
+#COVISHIELD - Dose1:100, Dose2:97","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD']",VaxBlr,False,2021-01-11 02:30:03,2021-01-11,02:30:03,2021-01-11 02:30:03
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,32.0,0,0,False,2021-11-01 02:30:14,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 01/11 at 08:00AM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:1013, Dose2:835
+#COVAXIN - Dose1:449, Dose2:446","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2021-01-11 02:30:14,2021-01-11,02:30:14,2021-01-11 02:30:14
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,32.0,0,0,False,2021-11-01 02:30:24,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 01/11 at 08:00AM
+FREE Slots 
+#COVISHIELD - Dose1:2751, Dose2:1404
+#COVAXIN - Dose1:1202, Dose2:1390
+PAID Slots 
+#COVISHIELD - Dose1:5187, Dose2:2719
+#COVAXIN - Dose1:3152, Dose2:3130
+#SPUTNIKV - Dose1:214, Dose2:101","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2021-01-11 02:30:24,2021-01-11,02:30:24,2021-01-11 02:30:24
+All India Radio News,"New Delhi, India","Official account of News Services Division, All India Radio.
+
+हिंदी के समाचारों के लिए @AIRNewsHindi को फॉलो करें!
+Follow @AIRNewsUrdu for news updates in Urdu",2013-01-03 04:15:45,2858866.0,107,684,True,2021-11-01 02:44:25,PM @NarendraModi to hold a review meeting with districts with low vaccination coverage on Wednesday at 12 noon through video conferencing. The meeting to include districts with less than 50% coverage of the first dose and low coverage of the second dose of #COVIDVaccine.,['COVIDVaccine'],TweetDeck,False,2021-01-11 02:44:25,2021-01-11,02:44:25,2021-01-11 02:44:25
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,32.0,0,0,False,2021-11-01 03:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 01/11 at 08:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2021-01-11 03:00:04,2021-01-11,03:00:04,2021-01-11 03:00:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,32.0,0,0,False,2021-11-01 03:00:14,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 01/11 at 08:30AM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2021-01-11 03:00:14,2021-01-11,03:00:14,2021-01-11 03:00:14
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,32.0,0,0,False,2021-11-01 03:00:25,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 01/11 at 08:30AM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:408, Dose2:361
+#COVAXIN - Dose1:149, Dose2:100","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2021-01-11 03:00:25,2021-01-11,03:00:25,2021-01-11 03:00:25
+Zara (Socialist Catgirl),Australia,she/her • ex-muslim atheist • animal lover • short but will fight • fiction writer • lefty cuck • anarcho-albanesist,2013-10-17 08:34:00,80.0,459,14903,False,2021-11-01 03:02:23,"I'm now fully vaccinated with Pfizer, waiting for the autism to kick in any moment now #Pfizer #COVIDVaccine #FullyVaccinated","['Pfizer', 'COVIDVaccine', 'FullyVaccinated']",Twitter for Android,False,2021-01-11 03:02:23,2021-01-11,03:02:23,2021-01-11 03:02:23
+Hottest Stocks Now,"Las Vegas, NV",CRWEWorld's Hottest Stocks Now provides information only. It is not meant to be a recommendation/offer to buy or to sell securities. DYODD,2010-01-20 20:20:39,2282.0,1732,28,False,2021-11-01 03:06:06,"$PFE, $BNTX Get First FDA Emergency Use Authorization of a COVID-19 Vaccine in Children Ages 5 Through 11 Years         #Pfizer   #BioNTech    #Coronavirus    #COVID19     #CoronavirusPandemic    #COVID19Pandemic   #SARSCoV2      #COVIDVaccine     https://t.co/mYTbuxcpGk","['Pfizer', 'BioNTech', 'Coronavirus', 'COVID19', 'CoronavirusPandemic', 'COVID19Pandemic', 'SARSCoV2', 'COVIDVaccine']",Twitter Web App,False,2021-01-11 03:06:06,2021-01-11,03:06:06,2021-01-11 03:06:06

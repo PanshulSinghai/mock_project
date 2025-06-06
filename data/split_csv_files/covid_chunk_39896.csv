@@ -1,0 +1,34 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+Archana,,Sometimes the questions are complicated and the answers are simple.,2020-09-28 00:21:02,138.0,5,2956,False,2022-06-12 01:29:31,"Exercising For This Long Can Improve Vaccine Effectiveness, New Study Says
+
+#mentalhealth #covidvaccine #wellness #news #science
+https://t.co/j9xS442Pn9","['mentalhealth', 'covidvaccine', 'wellness', 'news', 'science']",Sentiment Analysis....,False,2022-12-06 01:29:31,2022-12-06,01:29:31,2022-12-06 01:29:31
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0,0,False,2022-06-12 01:30:06,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 12/06 at 07:00AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-12-06 01:30:06,2022-12-06,01:30:06,2022-12-06 01:30:06
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0,0,False,2022-06-12 01:30:17,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 12/06 at 07:00AM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:701, Dose2:100","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-12-06 01:30:17,2022-12-06,01:30:17,2022-12-06 01:30:17
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0,0,False,2022-06-12 01:30:28,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 12/06 at 07:00AM
+FREE Slots 
+#COVISHIELD - Dose1:10, Dose2:1
+PAID Slots 
+#COVISHIELD - Dose1:1432, Dose2:100","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVISHIELD']",VaxBlr,False,2022-12-06 01:30:28,2022-12-06,01:30:28,2022-12-06 01:30:28
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0,0,False,2022-06-12 02:00:06,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 12/06 at 07:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-12-06 02:00:06,2022-12-06,02:00:06,2022-12-06 02:00:06
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0,0,False,2022-06-12 02:00:17,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 12/06 at 07:30AM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-12-06 02:00:17,2022-12-06,02:00:17,2022-12-06 02:00:17
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0,0,False,2022-06-12 02:00:27,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 12/06 at 07:30AM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-12-06 02:00:27,2022-12-06,02:00:27,2022-12-06 02:00:27
+dann,"Connecticut, USA",FJB and Lame-ont,2019-05-19 23:01:50,276.0,981,28565,False,2022-06-12 02:11:01,Real not rate. #COVIDVACCINE #Covid19Vaccine #VaccineSideEffects #vaccineinjuries https://t.co/OzrIlQ2vVM,"['COVIDVACCINE', 'Covid19Vaccine', 'VaccineSideEffects', 'vaccineinjuries']",Twitter for iPhone,False,2022-12-06 02:11:01,2022-12-06,02:11:01,2022-12-06 02:11:01
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-06-12 02:30:07,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 12/06 at 08:00AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-12-06 02:30:07,2022-12-06,02:30:07,2022-12-06 02:30:07
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-06-12 02:30:17,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 12/06 at 08:00AM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:701, Dose2:100","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-12-06 02:30:17,2022-12-06,02:30:17,2022-12-06 02:30:17

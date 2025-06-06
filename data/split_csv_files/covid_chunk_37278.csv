@@ -1,0 +1,32 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-27 07:30:16,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 27/04 at 01:00PM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:623, Dose2:9
+#SPUTNIKV - Dose1:0, Dose2:4","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-04-27 07:30:16,2022-04-27,07:30:16,2022-04-27 07:30:16
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-27 07:30:26,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 27/04 at 01:00PM
+FREE Slots 
+#COVISHIELD - Dose1:1106, Dose2:113
+#COVAXIN - Dose1:11, Dose2:13
+PAID Slots 
+#COVISHIELD - Dose1:2885, Dose2:10
+#SPUTNIKV - Dose1:10, Dose2:1050","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-04-27 07:30:26,2022-04-27,07:30:26,2022-04-27 07:30:26
+Chinar,Srinagar,The valley of Kashmir 🍁,2022-01-11 11:55:05,23.0,113.0,144.0,False,2022-04-27 07:38:18,"#India’s drug regulator on Tuesday approved the emergency use of two #Covid19 vaccines, Biological E’s #Corbevax and Bharat Biotech’s #Covaxin, for children under the age of 12 years.
+#CovidVaccine #vaccination https://t.co/ktkAJVOEpJ","['India', 'Covid19', 'Corbevax', 'Covaxin', 'CovidVaccine', 'vaccination']",Twitter Web App,False,2022-04-27 07:38:18,2022-04-27,07:38:18,2022-04-27 07:38:18
+The Tribune,Chandigarh,"Official Twitter handle of The Tribune, North India’s oldest and most trusted newspaper, published from Chandigarh, India. https://t.co/mHAI97UlkX",2015-02-27 12:48:01,150611.0,324.0,115.0,True,2022-04-27 07:50:36,Matter of pride for every Indian that 96 per cent adult population in country has got at least one dose of #Covidvaccine: PM @narendramodi -PTI,['Covidvaccine'],Twitter Web App,False,2022-04-27 07:50:36,2022-04-27,07:50:36,2022-04-27 07:50:36
+United News of India,"New Delhi, India",Official twitter handle of UNI - India's premier multilingual news agency,2015-06-01 14:00:31,4713.0,0.0,192.0,False,2022-04-27 07:54:32,"@narendramodi It's a matter of pride to every Indian that 96% adult population of India has been administered with the first dose of #CovidVaccine: PM
+
+#CovidReviewMeet  @narendramodi https://t.co/RlU2QtuayK","['CovidVaccine', 'CovidReviewMeet']",TweetDeck,False,2022-04-27 07:54:32,2022-04-27,07:54:32,2022-04-27 07:54:32
+United News of India,"New Delhi, India",Official twitter handle of UNI - India's premier multilingual news agency,2015-06-01 14:00:31,4713.0,0.0,192.0,False,2022-04-27 07:57:52,"@narendramodi Since the #schools are open after a long time, parents are somehow worried due to growing cases of #Covid. It's a matter of satisfaction that maximum #children have been administered with #CovidVaccine: PM  
+
+#CovidReviewMeet   @narendramodi https://t.co/Tk9dJWX667","['schools', 'Covid', 'children', 'CovidVaccine', 'CovidReviewMeet']",TweetDeck,False,2022-04-27 07:57:52,2022-04-27,07:57:52,2022-04-27 07:57:52
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-27 08:00:05,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 27/04 at 01:30PM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-04-27 08:00:05,2022-04-27,08:00:05,2022-04-27 08:00:05
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-27 08:00:16,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 27/04 at 01:30PM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-04-27 08:00:16,2022-04-27,08:00:16,2022-04-27 08:00:16
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-27 08:00:27,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 27/04 at 01:30PM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-04-27 08:00:27,2022-04-27,08:00:27,2022-04-27 08:00:27
+NHS Merton,Merton,NHS Merton is part of the NHS South West London CCG and is responsible for planning and delivering most of the healthcare services for Merton residents.,2012-04-24 14:25:40,6890.0,683.0,1784.0,True,2022-04-27 08:00:45,"We've got Merton walk-in #CovidVaccine clinics across the borough this week. Come for your 1st, 2nd or booster dose - or just for a chat. Full details  https://t.co/GcZw2coaZR https://t.co/nplgSbq8LL",['CovidVaccine'],Hootsuite Inc.,False,2022-04-27 08:00:45,2022-04-27,08:00:45,2022-04-27 08:00:45

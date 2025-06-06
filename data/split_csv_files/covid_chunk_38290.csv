@@ -1,0 +1,41 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+Christopher Oldcorn,,"Journalist and Opinion Writer @WSOnlineNews
+coldcorn@westernstandard.news",2007-09-21 18:02:13,3140.0,4993,8314,False,2022-07-16 03:11:01,#Fauci said vaccines do not stop the spread of COVID-19 - #politics #government #USA #USPolitics #covid19 #covid #healthcare #health #covidvaccine #covidbooster #vaccinemandates #hospitalizations #vaccination #masks #maskmandate https://t.co/jgNaBEs1MW,"['Fauci', 'politics', 'government', 'USA', 'USPolitics', 'covid19', 'covid', 'healthcare', 'health', 'covidvaccine', 'covidbooster', 'vaccinemandates', 'hospitalizations', 'vaccination', 'masks', 'maskmandate']",Buffer,False,2022-07-16 03:11:01,2022-07-16,03:11:01,2022-07-16 03:11:01
+Piyush Aggarwal,India,"Editor - India Today (@IndiaToday) | Trying to work out data | Previously with @IndianExpress, @htTweets | Curious about technology, books & movies |",2009-08-30 06:19:38,695.0,275,1624,True,2022-07-16 03:20:00,"To encourage people to take #BoosterShots, the Centre has announced to provide free doses to people in the 18-59 age group at government facilities. So far, only one per cent in this category have received the booster dose. #FreeBoosterDose #CovidVaccine https://t.co/ofvuYdBSiH","['BoosterShots', 'FreeBoosterDose', 'CovidVaccine']",TweetDeck,False,2022-07-16 03:20:00,2022-07-16,03:20:00,2022-07-16 03:20:00
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0,0,False,2022-07-16 03:30:04,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 16/07 at 09:00AM
+FREE Slots 
+#COVISHIELD - Dose1:103, Dose2:101
+#COVAXIN - Dose1:1, Dose2:1
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2022-07-16 03:30:04,2022-07-16,03:30:04,2022-07-16 03:30:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0,0,False,2022-07-16 03:30:15,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 16/07 at 09:00AM
+FREE Slots 
+#COVISHIELD - Dose1:0, Dose2:1
+PAID Slots 
+#COVISHIELD - Dose1:647, Dose2:77","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVISHIELD']",VaxBlr,False,2022-07-16 03:30:15,2022-07-16,03:30:15,2022-07-16 03:30:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0,0,False,2022-07-16 03:30:25,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 16/07 at 09:00AM
+FREE Slots 
+#COVISHIELD - Dose1:0, Dose2:12
+#COVAXIN - Dose1:0, Dose2:11
+PAID Slots 
+#COVISHIELD - Dose1:4048, Dose2:239
+#COVAXIN - Dose1:189, Dose2:189","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2022-07-16 03:30:25,2022-07-16,03:30:25,2022-07-16 03:30:25
+TOI Uttarakhand,,,2022-01-31 16:57:25,66.0,1,17,False,2022-07-16 03:43:45,"Covid cases on rise in #Uttarakhand  amid ongoing #KanwarYatra 
+
+https://t.co/wm7nuDOSkl
+
+While around 75.8 lakh adults have received both #Covid doses, only 7.6 lakh people have taken the precautionary dose in state
+
+#COVID19 #CovidVaccine #Covid_19 @timesofindia https://t.co/ilakMuxFdb","['Uttarakhand', 'KanwarYatra', 'Covid', 'COVID19', 'CovidVaccine', 'Covid_19']",Twitter Web App,False,2022-07-16 03:43:45,2022-07-16,03:43:45,2022-07-16 03:43:45
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0,0,False,2022-07-16 04:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 16/07 at 09:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-07-16 04:00:04,2022-07-16,04:00:04,2022-07-16 04:00:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0,0,False,2022-07-16 04:00:14,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 16/07 at 09:30AM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-07-16 04:00:14,2022-07-16,04:00:14,2022-07-16 04:00:14
+Satirist Sam,galapagos islands,"Bystander, Savant, Pilgrim",2011-09-21 10:16:40,586.0,2,492,False,2022-07-16 04:00:17,"I think the Liberals &amp; #Greens have reached the same level of stupidity.
+Yesterday they were attacking Labor &amp; @AlboMP for cutting the pandemic payment. Today they're complaining Labor are extending it.
+Martha &amp; Arthur #COVID19
+#auspol #CovidVaccine #covid","['Greens', 'COVID19', 'auspol', 'CovidVaccine', 'covid']",Twitter for Android,False,2022-07-16 04:00:17,2022-07-16,04:00:17,2022-07-16 04:00:17
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0,0,False,2022-07-16 04:00:25,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 16/07 at 09:30AM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-07-16 04:00:25,2022-07-16,04:00:25,2022-07-16 04:00:25

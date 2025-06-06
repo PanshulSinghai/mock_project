@@ -1,0 +1,44 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-05-12 03:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 12/05 at 08:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-12-05 03:00:04,2022-12-05,03:00:04,2022-12-05 03:00:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-05-12 03:00:14,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 12/05 at 08:30AM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-12-05 03:00:14,2022-12-05,03:00:14,2022-12-05 03:00:14
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-05-12 03:00:25,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 12/05 at 08:30AM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-12-05 03:00:25,2022-12-05,03:00:25,2022-12-05 03:00:25
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-05-12 03:30:04,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 12/05 at 09:00AM
+FREE Slots 
+#COVISHIELD - Dose1:0, Dose2:1
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-12-05 03:30:04,2022-12-05,03:30:04,2022-12-05 03:30:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-05-12 03:30:15,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 12/05 at 09:00AM
+FREE Slots 
+#COVISHIELD - Dose1:0, Dose2:1
+PAID Slots 
+#COVISHIELD - Dose1:698, Dose2:60","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVISHIELD']",VaxBlr,False,2022-12-05 03:30:15,2022-12-05,03:30:15,2022-12-05 03:30:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-05-12 03:30:25,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 12/05 at 09:00AM
+FREE Slots 
+#COVISHIELD - Dose1:1029, Dose2:17
+#COVAXIN - Dose1:13, Dose2:16
+PAID Slots 
+#COVISHIELD - Dose1:2616, Dose2:18
+#SPUTNIKV - Dose1:10, Dose2:0","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-12-05 03:30:25,2022-12-05,03:30:25,2022-12-05 03:30:25
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-05-12 04:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 12/05 at 09:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-12-05 04:00:04,2022-12-05,04:00:04,2022-12-05 04:00:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-05-12 04:00:15,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 12/05 at 09:30AM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-12-05 04:00:15,2022-12-05,04:00:15,2022-12-05 04:00:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-05-12 04:00:25,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 12/05 at 09:30AM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-12-05 04:00:25,2022-12-05,04:00:25,2022-12-05 04:00:25
+me64 陳美滿,South Sumatra & Bali,"studied chemical eng, 
+https://t.co/RBrdPaQZTe
+https://t.co/JlVAmWf8kj…
+https://t.co/gaM7krG1Nl…",2014-02-18 01:11:18,1165.0,944.0,8142.0,False,2022-05-12 04:12:58,"follow the #science requires the #autopsies #autopsy
+
+#covidvaccine side effects
+death due to the #CovidVaccination 
+
+https://t.co/2RE1eP91em","['science', 'autopsies', 'autopsy', 'covidvaccine', 'CovidVaccination']",Twitter Web App,False,2022-12-05 04:12:58,2022-12-05,04:12:58,2022-12-05 04:12:58

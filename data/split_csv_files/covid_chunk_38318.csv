@@ -1,0 +1,57 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0,0,False,2022-07-17 06:30:04,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 17/07 at 12:00PM
+FREE Slots 
+#COVISHIELD - Dose1:1, Dose2:1
+#COVAXIN - Dose1:1, Dose2:1
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2022-07-17 06:30:04,2022-07-17,06:30:04,2022-07-17 06:30:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0,0,False,2022-07-17 06:30:15,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 17/07 at 12:00PM
+FREE Slots 
+#COVISHIELD - Dose1:0, Dose2:1
+PAID Slots 
+#COVISHIELD - Dose1:631, Dose2:30","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVISHIELD']",VaxBlr,False,2022-07-17 06:30:15,2022-07-17,06:30:15,2022-07-17 06:30:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0,0,False,2022-07-17 06:30:25,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 17/07 at 12:00PM
+FREE Slots 
+#COVISHIELD - Dose1:0, Dose2:2
+#COVAXIN - Dose1:0, Dose2:2
+PAID Slots 
+#COVISHIELD - Dose1:2156, Dose2:70
+#COVAXIN - Dose1:18, Dose2:20","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2022-07-17 06:30:25,2022-07-17,06:30:25,2022-07-17 06:30:25
+News18.com,India,"More than just news, analysis & opinion. The digital platform of @CNNnews18
+
+We're now on Telegram: https://t.co/37wsJbmhOQ",2011-04-20 06:14:32,163081.0,170,48,True,2022-07-17 06:30:59,"India has crossed record 200 crore mark in Covid-19 vaccinations within 18 months of launching the inoculation exercise in January last year
+#Coronavirus #COVID19 #CovidVaccine 
+https://t.co/0w128hGzqL","['Coronavirus', 'COVID19', 'CovidVaccine']",Twitter Web App,False,2022-07-17 06:30:59,2022-07-17,06:30:59,2022-07-17 06:30:59
+Mid Day,"Mumbai, India","All things #MadeinMumbai 
+News | Entertainment | Sports and much more
+Subscribe to #MiddayDigitalTabloid
+
+https://t.co/v6kICsjrkn",2009-04-16 03:48:36,684967.0,156,2854,True,2022-07-17 06:31:09,"#MiddayNews |
+
+Efforts for routine immunisation back to pre-Covid times: WHO
+
+#CovidIsNotover @WHO #Coronavirus #CovidVaccine 
+
+https://t.co/N8owWITiOj","['MiddayNews', 'CovidIsNotover', 'Coronavirus', 'CovidVaccine']",Twitter Web App,False,2022-07-17 06:31:09,2022-07-17,06:31:09,2022-07-17 06:31:09
+Barbara,London UK,"Bible happening before our eyes. As in the days of Noah (lawless & violent) So shall it be when Jesus returns. Matthew 24: 37 
+Israel regathered as prophesied.",2018-01-26 13:02:24,499.0,903,6284,False,2022-07-17 06:34:20,"@khanaftab9003 @juliastmi @mskathleenquinn TB, Smallpox and Polio vaccines worked fine.
+Covid Vaccine obviously doesn’t.
+#CovidVaccine",['CovidVaccine'],Twitter for iPhone,False,2022-07-17 06:34:20,2022-07-17,06:34:20,2022-07-17 06:34:20
+Roos (रूस)- Russia🇷🇺Россия,"Chandigarh, India","Disseminate information over the world in the public domain through authentic sources. Found fake will be removed after acknowledge.
+Humanitarian Journalist",2018-05-13 04:09:22,176.0,593,37545,False,2022-07-17 06:47:03,"A proud moment for every Indian as the 🇮🇳 hits the #200CroreVaccinations mark today!
+Gratitude to everyone in the healthcare fraternity who are serving humanity with great dedication during the #COVID19 Pandemic.
+@WHO @MoHFW_INDIA @MIB_India
+#CovidVaccine
+https://t.co/3SiMMhOCOo","['200CroreVaccinations', 'COVID19', 'CovidVaccine']",Twitter for Android,False,2022-07-17 06:47:03,2022-07-17,06:47:03,2022-07-17 06:47:03
+News18,India,"Official Twitter account of CNN-News18. Lightning fast alerts, #BreakingNews from India and the world. 
+
+Telegram : https://t.co/2gZo0E22w9",2007-06-01 20:31:01,4704703.0,397,194,True,2022-07-17 06:48:46,"#BREAKING India is all set to cross 200 crore mark in #COVID vaccine doses.
+
+@aayeshavarma and @maryashakil with details.
+
+Join the broadcast with @toyasingh
+
+#COVID19 #CovidVaccine #VaccinationDrive https://t.co/WswHpnYdBI","['BREAKING', 'COVID', 'COVID19', 'CovidVaccine', 'VaccinationDrive']",ProxyCentral CNNnews18,False,2022-07-17 06:48:46,2022-07-17,06:48:46,2022-07-17 06:48:46
+Shalini Bhardwaj,,"Senior Editor Health @ANI Ex @NewsX @inkhabar @TheDailyGuardian Covers @MoHFW_INDIA @WHO @NMC_IND @ICMRDELHI @CDSCO_INDIA_INFO
+
+Retweets ≠ Endorsements",2014-11-29 11:20:24,492.0,633,2636,False,2022-07-17 06:49:27,India completes milestone of 200 crore doses #CovidVaccine https://t.co/M4yXKXDqCo,['CovidVaccine'],Twitter for Android,False,2022-07-17 06:49:27,2022-07-17,06:49:27,2022-07-17 06:49:27
+♡ 𝓜𝓸𝓶𝓣𝓸2 ♡,United States,"Cardiology RN 🩺💉& MomTo2❤️👧👦 ❤️ We will be there for one another as fellow members of humanity, in the finest sense of the word.♥️❄️ #Resistance 🌊#FBR 🇺🇦",2016-09-05 02:05:01,3523.0,5001,49332,False,2022-07-17 06:50:21,"@twittersupport This physician is posting #COVID_19 #disinformation via an alternate acct d/t the suspension of his main acct. I suppose he is trying to be *elusive* in regard to the cause of ""death in mass formation"" by not mentioning what ""it"" and ""last one"" is. #CovidVaccine https://t.co/s0aCxrBH9U","['COVID_19', 'disinformation', 'CovidVaccine']",Twitter Web App,False,2022-07-17 06:50:21,2022-07-17,06:50:21,2022-07-17 06:50:21

@@ -1,0 +1,47 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-27 11:30:06,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 27/04 at 05:00PM
+FREE Slots 
+#COVISHIELD - Dose1:102, Dose2:1
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-04-27 11:30:06,2022-04-27,11:30:06,2022-04-27 11:30:06
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-27 11:30:16,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 27/04 at 05:00PM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:623, Dose2:9
+#SPUTNIKV - Dose1:0, Dose2:4","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-04-27 11:30:16,2022-04-27,11:30:16,2022-04-27 11:30:16
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-27 11:30:27,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 27/04 at 05:00PM
+FREE Slots 
+#COVISHIELD - Dose1:707, Dose2:10
+#COVAXIN - Dose1:8, Dose2:9
+PAID Slots 
+#COVISHIELD - Dose1:2661, Dose2:10
+#SPUTNIKV - Dose1:10, Dose2:1050","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-04-27 11:30:27,2022-04-27,11:30:27,2022-04-27 11:30:27
+مركز جونز هوبكنز أرامكو الطبي,"Dhahran, Saudi Arabia",Johns Hopkins Aramco Healthcare Official Account الحساب الرسمي لمركز جونز هوبكنز أرامكو الطبي,2015-09-21 06:55:08,29463.0,24.0,131.0,True,2022-04-27 11:55:14,"JHAH now offers COVID-19 second booster vaccinations to Saudi Aramco employees and eligible dependents aged 50 years or older who received their first booster dose at least eight months ago. 
+
+For more information, visit us at https://t.co/QgG2GknqJs
+
+#JHAH
+#COVIDVaccine https://t.co/CfOOVga3pG","['JHAH', 'COVIDVaccine']",Twitter for iPhone,False,2022-04-27 11:55:14,2022-04-27,11:55:14,2022-04-27 11:55:14
+UK Vaccine Progress Tracker #COVID19,,Daily update of 1st and 2nd dose vaccine % progress in the UK of people 16 years+ from the UK Gov API.  #covidvaccine Coded: @thetafferboy Idea: @iamrofe,2021-01-16 01:12:59,4144.0,2.0,0.0,False,2022-04-27 12:00:04,"1st dose of vaccine progress: 
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 97.85%
+
+2nd dose of vaccine progress: 
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 91.49%
+
+As of 2022-04-25 (Aged 16+)
+Using data from https://t.co/6y8FGETx1K API
+#CovidVaccine #COVID19 #CoronavirusVaccine","['CovidVaccine', 'COVID19', 'CoronavirusVaccine']",UKVacTrack,False,2022-04-27 12:00:04,2022-04-27,12:00:04,2022-04-27 12:00:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-27 12:00:05,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 27/04 at 05:30PM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-04-27 12:00:05,2022-04-27,12:00:05,2022-04-27 12:00:05
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-27 12:00:16,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 27/04 at 05:30PM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-04-27 12:00:16,2022-04-27,12:00:16,2022-04-27 12:00:16
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-27 12:00:27,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 27/04 at 05:30PM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-04-27 12:00:27,2022-04-27,12:00:27,2022-04-27 12:00:27
+Himalaya Sailing Vancouver Farm,,Official Twitter Account of Himalaya Sailing Farm Vancouver Canada,2021-05-27 05:00:52,391.0,75.0,516.0,False,2022-04-27 12:00:46,"Covid vaccine is useless right now and cause deadly disease.
+
+#covidvaccine #mrnavaccines #bioweapon https://t.co/5bMDAzsyhW","['covidvaccine', 'mrnavaccines', 'bioweapon']",Twitter Web App,False,2022-04-27 12:00:46,2022-04-27,12:00:46,2022-04-27 12:00:46
+Ms Nancy,"Brunswick, Melbourne",psychotherapist and hynotherapist,2014-08-19 03:06:05,23.0,203.0,483.0,False,2022-04-27 12:12:05,"Man, 26, died of rare blood clot after having Astra-Zeneca vaccine https://t.co/91O0BqldKv #CovidVaccine",['CovidVaccine'],Twitter for iPhone,False,2022-04-27 12:12:05,2022-04-27,12:12:05,2022-04-27 12:12:05

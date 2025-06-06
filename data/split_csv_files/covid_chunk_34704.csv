@@ -1,0 +1,50 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,36.0,0.0,0.0,False,2021-12-30 04:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 30/12 at 09:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2021-12-30 04:00:04,2021-12-30,04:00:04,2021-12-30 04:00:04
+Australian Vaccine Progress,Engadine,"Australian COVID-19 vaccination progress 💉 (Total population).
+Stats sourced from: https://t.co/i9uj68OzXd",2021-07-26 10:39:24,5.0,1.0,0.0,False,2021-12-30 04:00:05,"▐   ▄▄▄▄▄▄▄▄▄▄▄
+▐▓█████████▒░░═══
+▐   ▀▀▀▀▀▀▀▀▀▀▀
+
+Fully vaccinated as of 2021-12-29: 76.43 %
+
+#CovidVaccine #COVID19 #COVID19Aus","['CovidVaccine', 'COVID19', 'COVID19Aus']",OzVaxProgress,False,2021-12-30 04:00:05,2021-12-30,04:00:05,2021-12-30 04:00:05
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,36.0,0.0,0.0,False,2021-12-30 04:00:14,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 30/12 at 09:30AM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:120, Dose2:118
+#COVAXIN - Dose1:69, Dose2:70
+#SPUTNIKV - Dose1:50, Dose2:50","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2021-12-30 04:00:14,2021-12-30,04:00:14,2021-12-30 04:00:14
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,36.0,0.0,0.0,False,2021-12-30 04:00:25,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 30/12 at 09:30AM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:288, Dose2:262
+#COVAXIN - Dose1:50, Dose2:25","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2021-12-30 04:00:25,2021-12-30,04:00:25,2021-12-30 04:00:25
+Beverly,Mid-Michigan,"Michigan mixed media artist, keeping up with the world around me as best I can. Reality, truth and science are important to me!",2013-10-01 03:20:14,904.0,645.0,72489.0,False,2021-12-30 04:11:00,#safe #Covidvaccine #DrMalone Coronavirus Vaccine For Kids: A US based virologist warns parents against vaccinating kids for COVID; here’s what he says https://t.co/ITV6iSkudY,"['safe', 'Covidvaccine', 'DrMalone']",Twitter for Android,False,2021-12-30 04:11:00,2021-12-30,04:11:00,2021-12-30 04:11:00
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,36.0,0.0,0.0,False,2021-12-30 04:30:04,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 30/12 at 10:00AM
+FREE Slots 
+#COVISHIELD - Dose1:108, Dose2:699
+#COVAXIN - Dose1:696, Dose2:699
+PAID Slots 
+#COVISHIELD - Dose1:50, Dose2:50","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD']",VaxBlr,False,2021-12-30 04:30:04,2021-12-30,04:30:04,2021-12-30 04:30:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,36.0,0.0,0.0,False,2021-12-30 04:30:14,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 30/12 at 10:00AM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:758, Dose2:512
+#COVAXIN - Dose1:470, Dose2:466
+#SPUTNIKV - Dose1:97, Dose2:92","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2021-12-30 04:30:14,2021-12-30,04:30:14,2021-12-30 04:30:14
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,36.0,0.0,0.0,False,2021-12-30 04:30:25,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 30/12 at 10:00AM
+FREE Slots 
+#COVISHIELD - Dose1:8951, Dose2:4615
+#COVAXIN - Dose1:4540, Dose2:4532
+PAID Slots 
+#COVISHIELD - Dose1:5227, Dose2:2535
+#COVAXIN - Dose1:2359, Dose2:2495
+#SPUTNIKV - Dose1:267, Dose2:219","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2021-12-30 04:30:25,2021-12-30,04:30:25,2021-12-30 04:30:25
+Gulistan News,Jammu And Kashmir,Gulistan News is the satellite News Channel which reports relevant news stories from India & across the World. Main focus on the ground issues & news from J&K.,2018-07-06 05:33:28,15992.0,4.0,1103.0,False,2021-12-30 04:35:59,"60-plus population don’t need certificate for jab 
+
+#COVID19 #CovidVaccine #COVIDVaccination #coronavirus #vaccine 
+https://t.co/LFzj3DPkdX","['COVID19', 'CovidVaccine', 'COVIDVaccination', 'coronavirus', 'vaccine']",Twitter Web App,False,2021-12-30 04:35:59,2021-12-30,04:35:59,2021-12-30 04:35:59
+Kabyreh Voltaire 🏴‍☠️,Worldwide,Be your own prince charming.,2018-01-12 02:15:27,477.0,344.0,11699.0,False,2021-12-30 04:44:28,"49 y.o. #NewYorkTimes editor Carlos Tejada dies of a heart attack the day after receiving a #booster of the #covidvaccine. #vaccinated #doublejabbed #fullyvaccinated #vaccinati #vaccinatevi_e_basta #vacunate #adversereactions #sideeffects #vaccinezvous
+ https://t.co/nldeuFY13w https://t.co/s0xc0RUHT3","['NewYorkTimes', 'booster', 'covidvaccine', 'vaccinated', 'doublejabbed', 'fullyvaccinated', 'vaccinati', 'vaccinatevi_e_basta', 'vacunate', 'adversereactions', 'sideeffects', 'vaccinezvous']",Twitter for Android,False,2021-12-30 04:44:28,2021-12-30,04:44:28,2021-12-30 04:44:28

@@ -1,0 +1,43 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+Emma Owens,"LENNON, MI 🇺🇸🇺🇸🇺🇸","It is not the failure of others to appreciate your abilities that should trouble you, but rather your failure to appreciate theirs.",2017-02-24 11:23:07,69.0,345.0,3243.0,False,2022-05-11 04:21:05,"Virus Experts Warn This Could Happen Next
+
+#news #coronavirustips #covidvaccine #health #coronavirus
+https://t.co/CO0ZuDEKVJ","['news', 'coronavirustips', 'covidvaccine', 'health', 'coronavirus']",Advanced Sentiment Analysis,False,2022-11-05 04:21:05,2022-11-05,04:21:05,2022-11-05 04:21:05
+Lois Morrison,"CHICAGO, IL 🇺🇸",🇺🇸 I remembered the fox. One runs the risk of crying a bit if one allows oneself to be tamed. 🇺🇸,2011-04-06 12:18:16,62.0,20.0,3155.0,False,2022-05-11 04:22:24,"Dr. Fauci Still Has This Message to Anti-Vaxxers
+
+#covidvaccine #dr.fauci #health #coronavirus #news
+https://t.co/hhA8x4Dp3e","['covidvaccine', 'dr', 'health', 'coronavirus', 'news']",vipinpythonemotest,False,2022-11-05 04:22:24,2022-11-05,04:22:24,2022-11-05 04:22:24
+Jane Stevens,"Elizabeth, CO","To love and win is the best thing. To love and lose, the next best. 🇺🇸",2017-08-08 10:07:43,63.0,53.0,3059.0,False,2022-05-11 04:22:43,"Virus Expert Just Issued This ""Very Contagious"" Warning
+
+#news #coronavirustips #coronavirus #covidvaccine
+https://t.co/eoSJouyM4Q","['news', 'coronavirustips', 'coronavirus', 'covidvaccine']",Polariza2,False,2022-11-05 04:22:43,2022-11-05,04:22:43,2022-11-05 04:22:43
+Margarita Askerova,"DESOTO, TX 🇺🇸",Do you know where your breakthrough begins? Your breakthrough begins where your excuses ends.,2018-03-24 14:15:34,56.0,41.0,2834.0,False,2022-05-11 04:23:14,"Virus Expert Just Gave This ""Important"" Omicron Update
+
+#coronavirustips #covidvaccine #health #news #coronavirus
+https://t.co/Wi37gG2S0B","['coronavirustips', 'covidvaccine', 'health', 'news', 'coronavirus']",uncc_coding,False,2022-11-05 04:23:14,2022-11-05,04:23:14,2022-11-05 04:23:14
+Maria Duenez,"Bristol, IN","why are trying so hard to fit in, when you're born to stand out 🇺🇸",2015-10-18 07:18:50,51.0,9.0,2768.0,False,2022-05-11 04:24:33,"Virus is ""Surging"" in These Areas Now, Experts Warn
+
+#coronavirustips #coronavirus #health #news #covidvaccine
+https://t.co/58vp5sNI3z","['coronavirustips', 'coronavirus', 'health', 'news', 'covidvaccine']",spotipy,False,2022-11-05 04:24:33,2022-11-05,04:24:33,2022-11-05 04:24:33
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-05-11 04:30:04,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 11/05 at 10:00AM
+FREE Slots 
+#COVISHIELD - Dose1:104, Dose2:1
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-11-05 04:30:04,2022-11-05,04:30:04,2022-11-05 04:30:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-05-11 04:30:14,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 11/05 at 10:00AM
+FREE Slots 
+#COVISHIELD - Dose1:0, Dose2:1
+PAID Slots 
+#COVISHIELD - Dose1:800, Dose2:100","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVISHIELD']",VaxBlr,False,2022-11-05 04:30:14,2022-11-05,04:30:14,2022-11-05 04:30:14
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-05-11 04:30:25,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 11/05 at 10:00AM
+FREE Slots 
+#COVISHIELD - Dose1:1030, Dose2:20
+#COVAXIN - Dose1:13, Dose2:19
+PAID Slots 
+#COVISHIELD - Dose1:3115, Dose2:60
+#COVAXIN - Dose1:30, Dose2:30
+#SPUTNIKV - Dose1:10, Dose2:0","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2022-11-05 04:30:25,2022-11-05,04:30:25,2022-11-05 04:30:25
+throw away,Change Your Life ➨,I made hundreds of people smile by just being nice.,2017-09-20 07:10:53,299.0,325.0,3440.0,False,2022-05-11 04:30:31,"I'm a Doctor and Here’s What a BA.2 Infection Looks Like
+
+#health #coronavirus #news #doctors #coronavirustips #covidvaccine #coronavirussymptoms
+https://t.co/uuMjdwNipl","['health', 'coronavirus', 'news', 'doctors', 'coronavirustips', 'covidvaccine', 'coronavirussymptoms']",ThrowMaker,False,2022-11-05 04:30:31,2022-11-05,04:30:31,2022-11-05 04:30:31
+Ibra,United States,🥶,2019-02-10 19:20:50,8.0,26.0,282.0,False,2022-05-11 04:30:56,"According to Dr. Pam Oliver, “Some people have experienced a day or two of fatigue and other flu-like symptoms; these are common with any vaccine.” This shows that the side effects of the vaccine are temporary. The side effects are nothing to worry about #COVIDVACCINE",['COVIDVACCINE'],Twitter Web App,False,2022-11-05 04:30:56,2022-11-05,04:30:56,2022-11-05 04:30:56

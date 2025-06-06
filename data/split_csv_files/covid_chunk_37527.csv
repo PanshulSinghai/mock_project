@@ -1,0 +1,41 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+corby,"QUEENS VILLAGE, NY 🇺🇸","When one has a grateful heart, life is so beautiful.",2020-06-10 07:49:49,57.0,63.0,2389.0,False,2022-05-20 03:55:29,"Dr. Fauci Just Predicted What Happens Next
+
+#dr.fauci #coronavirustips #coronavirus #health #news #covidvaccine
+https://t.co/9OkIBA5g55","['dr', 'coronavirustips', 'coronavirus', 'health', 'news', 'covidvaccine']",Sentiment__Analyzer,False,2022-05-20 03:55:29,2022-05-20,03:55:29,2022-05-20 03:55:29
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-05-20 04:00:10,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 20/05 at 09:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-05-20 04:00:10,2022-05-20,04:00:10,2022-05-20 04:00:10
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-05-20 04:00:20,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 20/05 at 09:30AM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-05-20 04:00:20,2022-05-20,04:00:20,2022-05-20 04:00:20
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-05-20 04:00:31,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 20/05 at 09:30AM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-05-20 04:00:31,2022-05-20,04:00:31,2022-05-20 04:00:31
+Mathias,"Chicago, IL 🇺🇸",A fish that is afraid of drowning in a river is ignorant of its gifts.,2017-03-12 06:46:40,67.0,70.0,2151.0,False,2022-05-20 04:13:24,"The BA.2 Update Everyone Should Hear Now
+
+#news #health #coronavirus #coronavirustips #covidvaccine
+https://t.co/qX5MxcGC9B","['news', 'health', 'coronavirus', 'coronavirustips', 'covidvaccine']",TiwttCloud,False,2022-05-20 04:13:24,2022-05-20,04:13:24,2022-05-20 04:13:24
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-05-20 04:30:04,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 20/05 at 10:00AM
+FREE Slots 
+#COVISHIELD - Dose1:103, Dose2:1
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-05-20 04:30:04,2022-05-20,04:30:04,2022-05-20 04:30:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-05-20 04:30:15,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 20/05 at 10:00AM
+FREE Slots 
+#COVISHIELD - Dose1:0, Dose2:1
+PAID Slots 
+#COVISHIELD - Dose1:792, Dose2:500","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVISHIELD']",VaxBlr,False,2022-05-20 04:30:15,2022-05-20,04:30:15,2022-05-20 04:30:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-05-20 04:30:25,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 20/05 at 10:00AM
+FREE Slots 
+#COVISHIELD - Dose1:317, Dose2:18
+#COVAXIN - Dose1:12, Dose2:18
+PAID Slots 
+#COVISHIELD - Dose1:3437, Dose2:550
+#COVAXIN - Dose1:50, Dose2:50
+#SPUTNIKV - Dose1:11, Dose2:0","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2022-05-20 04:30:25,2022-05-20,04:30:25,2022-05-20 04:30:25
+Mr. Diamond Mundy,International,I Am True To It And Real About It In All I Do.,2009-04-30 00:19:23,661.0,3187.0,6409.0,False,2022-05-20 04:40:20,"#OfficialDARECampaign
+#OfficialDARE
+Proof You Committed Suicide 4 Taken The COVID Vaccinations
+#COVID19 #COVIDVACCINE #covidInKids #California #LosAngeles #BlackTwitter #SouthAfrica #EffetsSecondairesvaccin #JustSayNoToCovid #CovidSouthAfrica #DontGetVaccinated
+#America #LasVegas https://t.co/9tlHAwaFKb","['OfficialDARECampaign', 'OfficialDARE', 'COVID19', 'COVIDVACCINE', 'covidInKids', 'California', 'LosAngeles', 'BlackTwitter', 'SouthAfrica', 'EffetsSecondairesvaccin', 'JustSayNoToCovid', 'CovidSouthAfrica', 'DontGetVaccinated', 'America', 'LasVegas']",Twitter for Android,False,2022-05-20 04:40:20,2022-05-20,04:40:20,2022-05-20 04:40:20
+Kara Karlson,,4th gen Arizonan. Mother. Election law attorney. Disability Rights Advocate. Developmental Disabilities Advisory Council. Views are my own; RTs =\= Endorse,2012-04-17 21:05:23,1135.0,2985.0,23635.0,False,2022-05-20 04:46:28,"The #CovidVaccine is still the best tool against COVID. High quality masks &amp; high air turnover (ventilation) is very valuable, too. Of course our kids still can't #ImmunizeUnder5, get Paxlovid, or have NIOSH approved masks, so 🤷🏼‍♀️ https://t.co/MgUfo87KKY","['CovidVaccine', 'ImmunizeUnder5']",Twitter for Android,False,2022-05-20 04:46:28,2022-05-20,04:46:28,2022-05-20 04:46:28

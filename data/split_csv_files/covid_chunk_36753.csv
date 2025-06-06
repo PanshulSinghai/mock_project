@@ -1,0 +1,50 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-24 04:30:04,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 24/03 at 10:00AM
+FREE Slots 
+#COVISHIELD - Dose1:2, Dose2:1
+#COVAXIN - Dose1:0, Dose2:1
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2022-03-24 04:30:04,2022-03-24,04:30:04,2022-03-24 04:30:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-24 04:30:15,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 24/03 at 10:00AM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:838, Dose2:26
+#SPUTNIKV - Dose1:30, Dose2:8","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-03-24 04:30:15,2022-03-24,04:30:15,2022-03-24 04:30:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-24 04:30:25,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 24/03 at 10:00AM
+FREE Slots 
+#COVISHIELD - Dose1:5914, Dose2:710
+#COVAXIN - Dose1:212, Dose2:211
+PAID Slots 
+#COVISHIELD - Dose1:3005, Dose2:10
+#SPUTNIKV - Dose1:198, Dose2:1119","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-03-24 04:30:25,2022-03-24,04:30:25,2022-03-24 04:30:25
+Kolkata Municipal Corporation,"Kolkata, West Bengal",The official twitter handle of the Kolkata Municipal Corporation. The govt. body responsible for the civic infrastructure and administration of Kolkata city,2020-05-28 07:18:16,11998.0,26.0,191.0,True,2022-03-24 04:34:11,"Covid Vaccination Centre List for 24.03.2022
+(1/2)
+
+#VaccinationDrive #CovidVaccine #KMCfightsagainstcorona https://t.co/iJjhLZUef9","['VaccinationDrive', 'CovidVaccine', 'KMCfightsagainstcorona']",Twitter for iPhone,False,2022-03-24 04:34:11,2022-03-24,04:34:11,2022-03-24 04:34:11
+Kolkata Municipal Corporation,"Kolkata, West Bengal",The official twitter handle of the Kolkata Municipal Corporation. The govt. body responsible for the civic infrastructure and administration of Kolkata city,2020-05-28 07:18:16,11998.0,26.0,191.0,True,2022-03-24 04:34:14,"Covid Vaccination Centre List for 24.03.2022
+(2/2)
+
+#VaccinationDrive #CovidVaccine #KMCfightsagainstcorona https://t.co/aL8yqjO5Q2","['VaccinationDrive', 'CovidVaccine', 'KMCfightsagainstcorona']",Twitter for iPhone,False,2022-03-24 04:34:14,2022-03-24,04:34:14,2022-03-24 04:34:14
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-24 05:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 24/03 at 10:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-03-24 05:00:04,2022-03-24,05:00:04,2022-03-24 05:00:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-24 05:00:15,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 24/03 at 10:30AM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-03-24 05:00:15,2022-03-24,05:00:15,2022-03-24 05:00:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-24 05:00:26,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 24/03 at 10:30AM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-03-24 05:00:26,2022-03-24,05:00:26,2022-03-24 05:00:26
+SchoolFinds,India,"INDIA Best Schools listing Portal, Free School Registration, Learning, Best school in your location- https://t.co/k7FxGFm4xo *CHILDREN IS THE FUTURE OF COUNTRY",2016-01-07 18:10:14,92.0,102.0,225.0,False,2022-03-24 05:13:04,"#vaccine Daily report in INDIA 
+
+Vaccinated Day Before 31,81,809
+ Total Vaccinated 1,82,23,30,356
+
+check State wise #vaccination report
+
+https://t.co/8Civy3oXSI
+
+#vaccinated #IndiaFightsCorona #CoronaInIndia #Statewise #covidfighter #COVID19 #coronavirus #CovidVaccine","['vaccine', 'vaccination', 'vaccinated', 'IndiaFightsCorona', 'CoronaInIndia', 'Statewise', 'covidfighter', 'COVID19', 'coronavirus', 'CovidVaccine']",Twitter Web App,False,2022-03-24 05:13:04,2022-03-24,05:13:04,2022-03-24 05:13:04
+ਪੀਟੀਸੀ ਨਿਊਜ਼ | PTC News,"Mohali, India","Official Twitter account of PTC NEWS, the leading Punjabi News channel, a source of all news related to Punjab and Punjabiyat worldwide.",2012-09-29 09:27:40,47659.0,7.0,205.0,True,2022-03-24 05:15:23,"#India has recorded 1,938 new #Covid19cases in the last 24 hours, the Union Ministry of Health informed.
+
+#IndiaCovid19cases #IndiaCovidupdate #Covid #MinistryofHealth #Covidinfections #Covidvaccine #vaccinationeffort #CovidvaccineinIndia
+
+https://t.co/KyirF4Hhyi","['India', 'Covid19cases', 'IndiaCovid19cases', 'IndiaCovidupdate', 'Covid', 'MinistryofHealth', 'Covidinfections', 'Covidvaccine', 'vaccinationeffort', 'CovidvaccineinIndia']",TweetDeck,False,2022-03-24 05:15:23,2022-03-24,05:15:23,2022-03-24 05:15:23

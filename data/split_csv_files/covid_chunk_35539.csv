@@ -1,0 +1,38 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-01-27 01:30:05,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 27/01 at 07:00AM
+FREE Slots 
+#COVISHIELD - Dose1:4, Dose2:2
+#COVAXIN - Dose1:0, Dose2:1
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2022-01-27 01:30:05,2022-01-27,01:30:05,2022-01-27 01:30:05
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-01-27 01:30:15,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 27/01 at 07:00AM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:889, Dose2:496
+#SPUTNIKV - Dose1:48, Dose2:17","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-01-27 01:30:15,2022-01-27,01:30:15,2022-01-27 01:30:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-01-27 01:30:26,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 27/01 at 07:00AM
+FREE Slots 
+#COVISHIELD - Dose1:13362, Dose2:450
+#COVAXIN - Dose1:305, Dose2:304
+PAID Slots 
+#COVISHIELD - Dose1:5789, Dose2:50
+#SPUTNIKV - Dose1:250, Dose2:100","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-01-27 01:30:26,2022-01-27,01:30:26,2022-01-27 01:30:26
+FethiyeTimes,Fethiye,FETHIYE-TIMES | LOVE-FETHIYE An English language digital newspaper/travel & leisure magazine providing news and information about Fethiye and Turkey,2009-03-31 13:43:00,1199.0,419.0,304.0,False,2022-01-27 01:36:38,"Turkiye reports over 77,400 daily coronavirus cases https://t.co/0ZZteQJ1B9 #COVID19 #CovidVaccine #Omicron #Turkiye","['COVID19', 'CovidVaccine', 'Omicron', 'Turkiye']",Twitter Web App,False,2022-01-27 01:36:38,2022-01-27,01:36:38,2022-01-27 01:36:38
+Just Another American 🍊,,"Doctor of sarcasm, cancer survivor, pro-Israel! #prolife Love Ronald Reagan, America! #unity",2009-04-06 14:24:21,2275.0,2929.0,36667.0,False,2022-01-27 01:48:12,"New York Nurse Whistleblower: Recordings Show Possible Botched Administration of COVID-19 Vaccine on Children: “Some People Got The Wrong One” #vaccination #Fauci #CovidVaccine #Children 
+
+https://t.co/6brKcKIA2R","['vaccination', 'Fauci', 'CovidVaccine', 'Children']",Twitter for iPhone,False,2022-01-27 01:48:12,2022-01-27,01:48:12,2022-01-27 01:48:12
+Juggatarian (Principles over politics),Clown World,"Animal lover, AnCap libertarian, skateboarder, paranormal junkie, beginner mountain biker, Juggalo. Family comes 1st, antiwar, screw the State & Covid regime.",2016-03-01 00:07:04,976.0,3396.0,18976.0,False,2022-01-27 01:51:39,"New #ProjectVeritas video on #vaccines with #whistleblowers and video evidence of careless mistakes going unreported. 
+
+Video ⬇️⬇️
+https://t.co/FoYzFdD4ZK
+
+#vaccination #VaccineSideEffects #VaccineRegret #vaccineinjuries #CovidVaccine #Pfizer #Omicron #coronavirus #COVID19","['ProjectVeritas', 'vaccines', 'whistleblowers', 'vaccination', 'VaccineSideEffects', 'VaccineRegret', 'vaccineinjuries', 'CovidVaccine', 'Pfizer', 'Omicron', 'coronavirus', 'COVID19']",Twitter for Android,False,2022-01-27 01:51:39,2022-01-27,01:51:39,2022-01-27 01:51:39
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-01-27 02:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 27/01 at 07:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-01-27 02:00:04,2022-01-27,02:00:04,2022-01-27 02:00:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-01-27 02:00:14,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 27/01 at 07:30AM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-01-27 02:00:14,2022-01-27,02:00:14,2022-01-27 02:00:14
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-01-27 02:00:25,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 27/01 at 07:30AM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-01-27 02:00:25,2022-01-27,02:00:25,2022-01-27 02:00:25
+KON DEF,"New York, NY","Passionate New Yorker, Animator, Nickelodeon Alum, Dungeon Master, doggy daddy, Japanese Tattoo enthusiast, Aesthete, Pop culture kook, Mando, Make Mine #Marvel",2008-09-30 04:22:25,264.0,1741.0,44171.0,False,2022-01-27 02:14:08,@Shaylo_Ren @ginacarano Can I help? #CovidVaccine https://t.co/2JUVVwlnOJ,['CovidVaccine'],Twitter Web App,False,2022-01-27 02:14:08,2022-01-27,02:14:08,2022-01-27 02:14:08

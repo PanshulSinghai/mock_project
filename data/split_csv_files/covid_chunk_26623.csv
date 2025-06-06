@@ -1,0 +1,43 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+HealthCore Clinic,"Wichita, KS","You-Centered Healthcare. Our integrated, whole-body approach wraps you in care. That’s our mission, our core. Caring for you. Promoting a healthy community.",2015-01-21 00:45:49,194.0,306.0,265.0,False,2021-08-20 12:00:01,"Cheese Johnson got his #CovidVaccine at HealthCore clinic to help stop the spread of the #DeltaVariant. We do walk-in vaccinations every Friday from 9 AM - 11 AM, no appointment needed. The vaccines are safe, effective, and free. #StopTheSpread #GotTheShot https://t.co/S0ZLcH9s4l","['CovidVaccine', 'DeltaVariant', 'StopTheSpread', 'GotTheShot']",Twitter Web App,False,2021-08-20 12:00:01,2021-08-20,12:00:01,2021-08-20 12:00:01
+Australian Vaccine Progress,Engadine,"Australian COVID-19 vaccination progress 💉 (Total population).
+Stats sourced from: https://t.co/i9uj68OzXd",2021-07-26 10:39:24,4.0,1.0,0.0,False,2021-08-20 12:00:04,"▐   ▄▄▄▄▄▄▄▄▄▄▄
+▐▓██▓▒░░▒░░▒░░═══
+▐   ▀▀▀▀▀▀▀▀▀▀▀
+
+Fully vaccinated as of 2021-08-19: 22.63 %
+
+#CovidVaccine #COVID19 #COVID19Aus","['CovidVaccine', 'COVID19', 'COVID19Aus']",OzVaxProgress,False,2021-08-20 12:00:04,2021-08-20,12:00:04,2021-08-20 12:00:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,20.0,0.0,0.0,False,2021-08-20 12:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 20/08 at 05:30PM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2021-08-20 12:00:04,2021-08-20,12:00:04,2021-08-20 12:00:04
+UK Vaccine Progress Tracker #COVID19,,Daily update of 1st and 2nd dose vaccine % progress in UK adults from the UK Gov API. #covid #covid19 #vaccine #covidvaccine Coded: @thetafferboy Idea: @iamrofe,2021-01-16 01:12:59,4501.0,2.0,0.0,False,2021-08-20 12:00:05,"1st dose of vaccine progress: 
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 90.17%
+
+2nd dose of vaccine progress: 
+
+▓▓▓▓▓▓▓▓▓▓▓░░░░ 78.2%
+
+As of 2021-08-18
+Using data from https://t.co/6y8FGETx1K API
+#CovidVaccine #COVID19 #CoronavirusVaccine","['CovidVaccine', 'COVID19', 'CoronavirusVaccine']",UKVacTrack,False,2021-08-20 12:00:05,2021-08-20,12:00:05,2021-08-20 12:00:05
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,20.0,0.0,0.0,False,2021-08-20 12:00:15,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 20/08 at 05:30PM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:62, Dose2:57
+#COVAXIN - Dose1:65, Dose2:60
+#SPUTNIKV - Dose1:89, Dose2:90","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2021-08-20 12:00:15,2021-08-20,12:00:15,2021-08-20 12:00:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,20.0,0.0,0.0,False,2021-08-20 12:00:25,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 20/08 at 05:30PM
+FREE Slots 
+#COVISHIELD - Dose1:2, Dose2:0
+PAID Slots 
+#COVISHIELD - Dose1:5583, Dose2:5531
+#COVAXIN - Dose1:854, Dose2:789
+#SPUTNIKV - Dose1:0, Dose2:47","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2021-08-20 12:00:25,2021-08-20,12:00:25,2021-08-20 12:00:25
+Lexington Herald-Leader,"Lexington, Kentucky","Follow us for news from the Lexington Herald-Leader and our
+website https://t.co/HHcHyaozFG. Also follow @kentuckysports, @hlpublicsafety, @BGPolitics, @LexGoEat",2007-12-28 22:22:39,71494.0,10801.0,3442.0,True,2021-08-20 12:00:47,Half of Kentucky’s nursing home employees aren’t vaccinated. Biden is requiring it. #COVIDvaccine https://t.co/JQqkypN9n4,['COVIDvaccine'],Twitter Web App,False,2021-08-20 12:00:47,2021-08-20,12:00:47,2021-08-20 12:00:47
+Coventry and Warwickshire Partnership NHS Trust,Coventry & Warwickshire,"We provide mental health, learning disability and community services across Coventry, Warwickshire and Solihull.
+Urgent mental health support call 08081 966798",2011-12-05 09:09:24,3945.0,762.0,2813.0,True,2021-08-20 12:00:55,"Pregnant women can now have the COVID-19 vaccine when it is offered to them. If you have any concerns, speak to a healthcare professional before you have the vaccination https://t.co/CYwO5GUUnQ #CovidVaccine #NHS https://t.co/49oIIRSbBe","['CovidVaccine', 'NHS']",SmarterQueue,False,2021-08-20 12:00:55,2021-08-20,12:00:55,2021-08-20 12:00:55
+COVID News,Estados Unidos,News about COVID-19,2013-06-05 08:52:31,3306.0,1474.0,130.0,False,2021-08-20 12:01:16,"Still need to be vaccinated? If you have not provided evidence of vaccination to date, you would have received an email detailing testing guidelines. Have questions? Message us or go to  #CovidVaccine #SUNYOldWestbury (@SUNYOldWestbury) https://t.co/KQGBFMLLOS","['CovidVaccine', 'SUNYOldWestbury']",Revive Social App,False,2021-08-20 12:01:16,2021-08-20,12:01:16,2021-08-20 12:01:16
+Servoca Nursing 💙,United Kingdom,Placing experienced nurses and carers in a variety of high quality jobs across the UK. Supporting our NHS. 💙 #SNCFPH,2014-06-30 12:45:12,141.0,229.0,50.0,False,2021-08-20 12:01:31,"All care home workers in England need to be fully vaccinated by 11th November, meaning the last day to have the first dose of the vaccine is 16th September, book yours today at https://t.co/eenZ3Vh6hb #careworkers #covidvaccine #carehomeworkers #bookyourvaccine https://t.co/t88GauQCdX","['careworkers', 'covidvaccine', 'carehomeworkers', 'bookyourvaccine']",Hootsuite Inc.,False,2021-08-20 12:01:31,2021-08-20,12:01:31,2021-08-20 12:01:31

@@ -1,0 +1,40 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-18 06:30:26,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 18/03 at 12:00PM
+FREE Slots 
+#COVISHIELD - Dose1:6222, Dose2:11
+#COVAXIN - Dose1:12, Dose2:11
+PAID Slots 
+#COVISHIELD - Dose1:2980, Dose2:30
+#COVAXIN - Dose1:20, Dose2:20
+#SPUTNIKV - Dose1:218, Dose2:1130","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2022-03-18 06:30:26,2022-03-18,06:30:26,2022-03-18 06:30:26
+"Dr Aniruddha Malpani, MD","Mumbai, India",Funding Frugal Innovation in India,2009-07-20 07:28:49,28898.0,1487.0,89178.0,False,2022-03-18 06:31:41,"I wonder how many #CovidVaccine deaths are being misreported as #COVID19 deaths? 
+https://t.co/ypx5zXbGdf","['CovidVaccine', 'COVID19']",Twitter for Android,False,2022-03-18 06:31:41,2022-03-18,06:31:41,2022-03-18 06:31:41
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-18 07:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 18/03 at 12:30PM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-03-18 07:00:04,2022-03-18,07:00:04,2022-03-18 07:00:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-18 07:00:14,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 18/03 at 12:30PM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-03-18 07:00:14,2022-03-18,07:00:14,2022-03-18 07:00:14
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-18 07:00:25,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 18/03 at 12:30PM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-03-18 07:00:25,2022-03-18,07:00:25,2022-03-18 07:00:25
+Andhravilas,USA,"Andhravilas Gives you  #Tollywood #Bollywood film News,#AndhraPradesh #Telangana News,#National    #Health #Business  #Trending Visit
+https://t.co/vJFjY4CwOT",2010-05-10 15:40:09,2596.0,92.0,27.0,False,2022-03-18 07:03:28,"At 36.1, Delhi's max temp crosses 35 degree Celsius threshold https://t.co/Qy0SiWewF1 #breakingnews #Breakingnews #Indiapolitics #AndhraPolitics #NewsFeed #RadheShyam #KCR #CovidVaccine 
+
+New Delhi, March 18 - Delhi's Safdarjung Observatory recorded a maximum temperature of 36…","['breakingnews', 'Breakingnews', 'Indiapolitics', 'AndhraPolitics', 'NewsFeed', 'RadheShyam', 'KCR', 'CovidVaccine']",IFTTT,False,2022-03-18 07:03:28,2022-03-18,07:03:28,2022-03-18 07:03:28
+Andhravilas,USA,"Andhravilas Gives you  #Tollywood #Bollywood film News,#AndhraPradesh #Telangana News,#National    #Health #Business  #Trending Visit
+https://t.co/vJFjY4CwOT",2010-05-10 15:40:09,2596.0,92.0,27.0,False,2022-03-18 07:03:44,"Akhilesh's Holi to be on a grander scale in Sefai https://t.co/dz6fBlTaED #CovidVaccine #Breakingnews #Indiapolitics #AndhraPolitics #NewsFeed #RadheShyam #breakingnews #ChandaBabu 
+
+Etawah, March 18 - The Yadav clan is celebrating Holi in a big way at a special pandal erected…","['CovidVaccine', 'Breakingnews', 'Indiapolitics', 'AndhraPolitics', 'NewsFeed', 'RadheShyam', 'breakingnews', 'ChandaBabu']",IFTTT,False,2022-03-18 07:03:44,2022-03-18,07:03:44,2022-03-18 07:03:44
+Andhravilas,USA,"Andhravilas Gives you  #Tollywood #Bollywood film News,#AndhraPradesh #Telangana News,#National    #Health #Business  #Trending Visit
+https://t.co/vJFjY4CwOT",2010-05-10 15:40:09,2596.0,92.0,27.0,False,2022-03-18 07:03:45,"Parliamentary panel asks MHA to resolve Bru migrants resettlement issue fast https://t.co/XKKTUryRSs #coronaviruspandemic #Breakingnews #Indiapolitics #AndhraPolitics #NewsFeed #RadheShyam #CovidImpact #CovidVaccine 
+
+New Delhi, March 18 - The Parliamentary Standing Committee …","['coronaviruspandemic', 'Breakingnews', 'Indiapolitics', 'AndhraPolitics', 'NewsFeed', 'RadheShyam', 'CovidImpact', 'CovidVaccine']",IFTTT,False,2022-03-18 07:03:45,2022-03-18,07:03:45,2022-03-18 07:03:45
+Andhravilas,USA,"Andhravilas Gives you  #Tollywood #Bollywood film News,#AndhraPradesh #Telangana News,#National    #Health #Business  #Trending Visit
+https://t.co/vJFjY4CwOT",2010-05-10 15:40:09,2596.0,92.0,27.0,False,2022-03-18 07:03:49,"Two held for woman's 'accidental' death in UP https://t.co/aSYkWu1Vu1 #Politics #Breakingnews #Indiapolitics #AndhraPolitics #NewsFeed #RadheShyam #Covid19India #CovidVaccine 
+
+Muzaffarnagar (UP), March 18 - More than ten days after a 33-year-old government school teacher was …","['Politics', 'Breakingnews', 'Indiapolitics', 'AndhraPolitics', 'NewsFeed', 'RadheShyam', 'Covid19India', 'CovidVaccine']",IFTTT,False,2022-03-18 07:03:49,2022-03-18,07:03:49,2022-03-18 07:03:49
+Andhravilas,USA,"Andhravilas Gives you  #Tollywood #Bollywood film News,#AndhraPradesh #Telangana News,#National    #Health #Business  #Trending Visit
+https://t.co/vJFjY4CwOT",2010-05-10 15:40:09,2596.0,92.0,27.0,False,2022-03-18 07:03:58,"India reports 2,528 new Covid cases, 149 deaths https://t.co/YzkLlGcpfY #YSJagan #Breakingnews #Indiapolitics #AndhraPolitics #NewsFeed #RadheShyam #CovidVaccine #Modi 
+
+New Delhi, March 18 - In the last 24 hours, India reported 2,528 new Covid-19 cases and 149 deaths, the Uni…","['YSJagan', 'Breakingnews', 'Indiapolitics', 'AndhraPolitics', 'NewsFeed', 'RadheShyam', 'CovidVaccine', 'Modi']",IFTTT,False,2022-03-18 07:03:58,2022-03-18,07:03:58,2022-03-18 07:03:58

@@ -1,0 +1,36 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,36.0,0.0,0.0,False,2021-12-28 09:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 28/12 at 02:30PM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2021-12-28 09:00:04,2021-12-28,09:00:04,2021-12-28 09:00:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,36.0,0.0,0.0,False,2021-12-28 09:00:15,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 28/12 at 02:30PM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:109, Dose2:104
+#COVAXIN - Dose1:109, Dose2:110
+#SPUTNIKV - Dose1:48, Dose2:48","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2021-12-28 09:00:15,2021-12-28,09:00:15,2021-12-28 09:00:15
+NHS Lambeth CCG,"London, England","Part of @NHSSELondonCCG, responsible for planning, buying and monitoring healthcare services for Lambeth residents. Monitored 9-5 Mon-Fri, no clinical advice.",2009-07-13 15:41:52,11846.0,850.0,1604.0,True,2021-12-28 09:00:18,"Thousands of people in south east London are coming forward for their #COVIDvaccine, every day. If eligible, join the millions across London who have already boosted their immunity with a 1st, 2nd or booster dose. 
+
+Book online, or find a walk-in 👉 https://t.co/PSurRR8l5d https://t.co/6jJG4HDkCF",['COVIDvaccine'],Hootsuite Inc.,False,2021-12-28 09:00:18,2021-12-28,09:00:18,2021-12-28 09:00:18
+NHSLewishamCCG,London Borough of Lewisham,"We are part of @NHSSELondonCCG, responsible for planning, buying and monitoring healthcare services for Lewisham people.",2013-03-22 13:14:54,6303.0,706.0,1908.0,True,2021-12-28 09:00:18,"Thousands of people in south east London are coming forward for their #COVIDvaccine, every day. If eligible, join the millions across London who have already boosted their immunity with a 1st, 2nd or booster dose. 
+
+Book online, or find a walk-in 👉 https://t.co/zQEEZG9kQq https://t.co/H4KX9jvyDQ",['COVIDvaccine'],Hootsuite Inc.,False,2021-12-28 09:00:18,2021-12-28,09:00:18,2021-12-28 09:00:18
+Bromley CCG,"Bromley, London","We are part of @NHSSELondonCCG, responsible for planning, buying and monitoring healthcare services for Bromley residents.",2013-03-05 10:03:47,6218.0,531.0,2116.0,True,2021-12-28 09:00:18,"Thousands of people in south east London are coming forward for their #COVIDvaccine, every day. If eligible, join the millions across London who have already boosted their immunity with a 1st, 2nd or booster dose. 
+
+Book online, or find a walk-in 👉 https://t.co/u72hXDa2Pn https://t.co/3IWSu1aItl",['COVIDvaccine'],Hootsuite Inc.,False,2021-12-28 09:00:18,2021-12-28,09:00:18,2021-12-28 09:00:18
+NHS Greenwich CCG,"Greenwich, London","We are part of @NHSSELondonCCG, responsible for planning, buying and monitoring healthcare services for Greenwich residents.",2009-12-01 09:56:00,12881.0,6527.0,2411.0,True,2021-12-28 09:00:18,"Thousands of people in south east London are coming forward for their #COVIDvaccine, every day. If eligible, join the millions across London who have already boosted their immunity with a 1st, 2nd or booster dose. 
+
+Book online, or find a walk-in 👉 https://t.co/gD1wCPREE3 https://t.co/H2df8GLXeq",['COVIDvaccine'],Hootsuite Inc.,False,2021-12-28 09:00:18,2021-12-28,09:00:18,2021-12-28 09:00:18
+NHS South East London Clinical Commissioning Group,South east London,"NHS South East London CCG is clinically led and responsible for planning, buying and monitoring most of the health services used by south east London residents",2020-04-15 13:28:21,1863.0,1026.0,762.0,True,2021-12-28 09:00:18,"Thousands of people in south east London are coming forward for their #COVIDvaccine, every day. If eligible, join the millions across London who have already boosted their immunity with a 1st, 2nd or booster dose. 
+
+Book online, or find a walk-in 👉 https://t.co/Z60if432Lz https://t.co/52Hir1z2A0",['COVIDvaccine'],Hootsuite Inc.,False,2021-12-28 09:00:18,2021-12-28,09:00:18,2021-12-28 09:00:18
+NHSBexleyCCG,Bexley,"@NHSSELondonCCG Bexley. We're clinically led and responsible for planning, buying and monitoring health services used by people in Bexley.",2011-11-08 10:38:58,5017.0,648.0,2137.0,True,2021-12-28 09:00:18,"Thousands of people in south east London are coming forward for their #COVIDvaccine, every day. If eligible, join the millions across London who have already boosted their immunity with a 1st, 2nd or booster dose. 
+
+Book online, or find a walk-in 👉 https://t.co/9KXlSYpzgM https://t.co/fhFG8IDBTH",['COVIDvaccine'],Hootsuite Inc.,False,2021-12-28 09:00:18,2021-12-28,09:00:18,2021-12-28 09:00:18
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,36.0,0.0,0.0,False,2021-12-28 09:00:25,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 28/12 at 02:30PM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:490, Dose2:435
+#COVAXIN - Dose1:120, Dose2:70","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2021-12-28 09:00:25,2021-12-28,09:00:25,2021-12-28 09:00:25
+NHS Southwark CCG,Southwark,"We are part of @NHSSELondonCCG, responsible for planning, buying and monitoring healthcare services for Southwark residents.",2009-08-20 14:54:59,9381.0,660.0,1165.0,True,2021-12-28 09:00:35,"Thousands of people in south east London are coming forward for their #COVIDvaccine, every day. If eligible, join the millions across London who have already boosted their immunity with a 1st, 2nd or booster dose. 
+
+Book online, or find a walk-in 👉 https://t.co/Z90qicGujW https://t.co/os9F4n0Vlu",['COVIDvaccine'],Hootsuite Inc.,False,2021-12-28 09:00:35,2021-12-28,09:00:35,2021-12-28 09:00:35

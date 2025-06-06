@@ -1,0 +1,36 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-01-25 06:30:04,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 25/01 at 12:00PM
+FREE Slots 
+#COVISHIELD - Dose1:8, Dose2:2
+#COVAXIN - Dose1:0, Dose2:1
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2022-01-25 06:30:04,2022-01-25,06:30:04,2022-01-25 06:30:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-01-25 06:30:14,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 25/01 at 12:00PM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:903, Dose2:5
+#SPUTNIKV - Dose1:49, Dose2:23","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-01-25 06:30:14,2022-01-25,06:30:14,2022-01-25 06:30:14
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-01-25 06:30:25,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 25/01 at 12:00PM
+FREE Slots 
+#COVISHIELD - Dose1:13356, Dose2:800
+#COVAXIN - Dose1:801, Dose2:799
+PAID Slots 
+#COVISHIELD - Dose1:8593, Dose2:164
+#COVAXIN - Dose1:150, Dose2:150
+#SPUTNIKV - Dose1:190, Dose2:106","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2022-01-25 06:30:25,2022-01-25,06:30:25,2022-01-25 06:30:25
+QRG Super Speciality Hospital,"Faridabad, India",QRG – a super specialty hospital committed towards providing exemplary medical care by ethical practices and services for the people of Faridabad & beyond.,2017-08-21 06:54:01,427.0,53.0,129.0,False,2022-01-25 06:31:54,"As Dumbledore said, ""We are only as strong as we are united, as weak as we are divided,"" let's unite together to get the future of India vaccinated against Covid. Get your children (age 15-18 yrs) vaccinated today at QRG Hospital.
+#QRGHospital #Faridabad #CovidVaccine https://t.co/gd32SakemX","['QRGHospital', 'Faridabad', 'CovidVaccine']",Twitter for Android,False,2022-01-25 06:31:54,2022-01-25,06:31:54,2022-01-25 06:31:54
+Rebekah Read,,,2016-10-23 06:49:26,14.0,206.0,24.0,False,2022-01-25 06:42:42,@sajidjavid @maggie_erewash @BorisJohnson Get our children (5+) vaccinated NOW! #tooslow #covidvaccine,"['tooslow', 'covidvaccine']",Twitter for iPhone,False,2022-01-25 06:42:42,2022-01-25,06:42:42,2022-01-25 06:42:42
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-01-25 07:00:05,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 25/01 at 12:30PM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-01-25 07:00:05,2022-01-25,07:00:05,2022-01-25 07:00:05
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-01-25 07:00:16,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 25/01 at 12:30PM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-01-25 07:00:16,2022-01-25,07:00:16,2022-01-25 07:00:16
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-01-25 07:00:26,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 25/01 at 12:30PM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-01-25 07:00:26,2022-01-25,07:00:26,2022-01-25 07:00:26
+DT Next,"Chennai, India","DT Next is the English daily from Daily Thanthi group. With a micro-focus on Chennai & TN, DT Next offers incisive coverage on politics, sports, features & ent.",2015-10-23 12:33:47,12140.0,442.0,174.0,True,2022-01-25 07:18:37,"Since the #Vaccination for children began, The Nilgiris district has administered #vaccine doses for 25,600 students and has topped in #TamilNadu's 15-18 years vaccination coverage.
+
+#nilgiris #CovidVaccine #COVID19 #coronavaccine 
+https://t.co/dm0wfrsuoU","['Vaccination', 'vaccine', 'TamilNadu', 'nilgiris', 'CovidVaccine', 'COVID19', 'coronavaccine']",Twitter Web App,False,2022-01-25 07:18:37,2022-01-25,07:18:37,2022-01-25 07:18:37
+💗🌟Jess Soanes💗🌟,"England, United Kingdom",Essex // EEAST🚑 // 21 // Insta: jesssoanesxo,2015-11-26 07:57:31,661.0,252.0,9367.0,False,2022-01-25 07:24:02,Has anybody been having daily headaches / migraines since the covid vaccine? #help #nhs #covid #covidvaccine,"['help', 'nhs', 'covid', 'covidvaccine']",Twitter for iPhone,False,2022-01-25 07:24:02,2022-01-25,07:24:02,2022-01-25 07:24:02

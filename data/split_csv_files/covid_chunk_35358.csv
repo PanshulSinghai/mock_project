@@ -1,0 +1,54 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-01-22 03:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 22/01 at 08:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-01-22 03:00:04,2022-01-22,03:00:04,2022-01-22 03:00:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-01-22 03:00:15,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 22/01 at 08:30AM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-01-22 03:00:15,2022-01-22,03:00:15,2022-01-22 03:00:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-01-22 03:00:26,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 22/01 at 08:30AM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-01-22 03:00:26,2022-01-22,03:00:26,2022-01-22 03:00:26
+Vaccine Time BC,Vancouver BC,Helping eligible people in BC find COVID vaccine appointments. Unofficial and unaffiliated.,2022-01-16 03:10:24,4.0,26.0,125.0,False,2022-01-22 03:09:19,"VANCOUVER
+Vaccine appointments available JAN 22 at 
+Vancouver Convention Centre
+Shoppers Drug Mart #0238 (3020 W Broadway)
+Pharmatrust #2 (Keefer)
+Book online via booking invite or phone 1-833-838-2323.
+#VaxforBC #covidvaccine #Vancouver","['VaxforBC', 'covidvaccine', 'Vancouver']",Twitter Web App,False,2022-01-22 03:09:19,2022-01-22,03:09:19,2022-01-22 03:09:19
+Vaccine Time BC,Vancouver BC,Helping eligible people in BC find COVID vaccine appointments. Unofficial and unaffiliated.,2022-01-16 03:10:24,4.0,26.0,125.0,False,2022-01-22 03:11:10,"BURNABY
+Vaccine appointments available JAN 22 at 
+Pharmachoice South Slope (5203 Rumble St)
+Brentwood Pharmacy (4451 Lougheed Hwy)
+Book online via booking invite or phone 1-833-838-2323.
+#VaxforBC #covidvaccine #Burnaby","['VaxforBC', 'covidvaccine', 'Burnaby']",Twitter Web App,False,2022-01-22 03:11:10,2022-01-22,03:11:10,2022-01-22 03:11:10
+Vaccine Time BC,Vancouver BC,Helping eligible people in BC find COVID vaccine appointments. Unofficial and unaffiliated.,2022-01-16 03:10:24,4.0,26.0,125.0,False,2022-01-22 03:13:15,"COQUITLAM
+Vaccine appointments available JAN 22 at 
+Oh Pharmacy (Cottonwood Ave)
+Lifecare Pharmacy (Austin Ave)
+Book online via booking invite or phone 1-833-838-2323.
+#VaxforBC #covidvaccine #Coquitlam","['VaxforBC', 'covidvaccine', 'Coquitlam']",Twitter Web App,False,2022-01-22 03:13:15,2022-01-22,03:13:15,2022-01-22 03:13:15
+Vaccine Time BC,Vancouver BC,Helping eligible people in BC find COVID vaccine appointments. Unofficial and unaffiliated.,2022-01-16 03:10:24,4.0,26.0,125.0,False,2022-01-22 03:14:06,"COMOX
+Vaccine appointments available JAN 22 at 
+Shoppers Drug Mart #2291 (Guthrie Rd)
+Book online via booking invite or phone 1-833-838-2323.
+#VaxforBC #covidvaccine #Comox","['VaxforBC', 'covidvaccine', 'Comox']",Twitter Web App,False,2022-01-22 03:14:06,2022-01-22,03:14:06,2022-01-22 03:14:06
+Vaccine Time BC,Vancouver BC,Helping eligible people in BC find COVID vaccine appointments. Unofficial and unaffiliated.,2022-01-16 03:10:24,4.0,26.0,125.0,False,2022-01-22 03:15:40,"DELTA
+Vaccine appointments available JAN 22 at 
+Wescana Pharmacy #3 (120 St)
+Bains Pharmacy (120 St)
+Book online via booking invite or phone 1-833-838-2323.
+#VaxforBC #covidvaccine #DeltaBC","['VaxforBC', 'covidvaccine', 'DeltaBC']",Twitter Web App,False,2022-01-22 03:15:40,2022-01-22,03:15:40,2022-01-22 03:15:40
+Vaccine Time BC,Vancouver BC,Helping eligible people in BC find COVID vaccine appointments. Unofficial and unaffiliated.,2022-01-16 03:10:24,4.0,26.0,125.0,False,2022-01-22 03:18:29,"KAMLOOPS
+Vaccine appointments available JAN 22 at 
+Northills Shopping Centre
+Pharmasave #294 Orchards Walk
+Loblaw Pharmacy #4613 (Tranquille Rd)
+Kipp-Mallery Dallas Pharmacy IDA (Dallas Dr)
+Book online via booking invite or phone 1-833-838-2323.
+#VaxforBC #covidvaccine #Kamloops","['VaxforBC', 'covidvaccine', 'Kamloops']",Twitter Web App,False,2022-01-22 03:18:29,2022-01-22,03:18:29,2022-01-22 03:18:29
+Vaccine Time BC,Vancouver BC,Helping eligible people in BC find COVID vaccine appointments. Unofficial and unaffiliated.,2022-01-16 03:10:24,4.0,26.0,125.0,False,2022-01-22 03:19:55,"KELOWNA
+Vaccine appointments available JAN 22 at 
+Kelowna Trinity Church
+Medicine Shoppe Pharmacy #321 (Lawrence Ave)
+Book online via booking invite or phone 1-833-838-2323.
+#VaxforBC #covidvaccine #Kelowna","['VaxforBC', 'covidvaccine', 'Kelowna']",Twitter Web App,False,2022-01-22 03:19:55,2022-01-22,03:19:55,2022-01-22 03:19:55

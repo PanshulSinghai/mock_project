@@ -1,0 +1,32 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+HarlempedsMD,,"Change agent, community servant, pediatrician",2017-12-02 17:56:12,90.0,80.0,2013.0,False,2022-03-06 04:55:31,"1/By June, 2020, ~ 35K genome sequences of the #SARS_CoV_2 virus (the virus that causes #COVID19) were identified. The #Alpha &amp; #Beta strains were identified as VOCs in December, 2020. Before the Wuhan strain based #COVIDVaccine was 1st administered.
+https://t.co/9xes6BMiuo https://t.co/9ZoV1yjam3","['SARS_CoV_2', 'COVID19', 'Alpha', 'Beta', 'COVIDVaccine']",Twitter Web App,False,2022-06-03 04:55:31,2022-06-03,04:55:31,2022-06-03 04:55:31
+HarlempedsMD,,"Change agent, community servant, pediatrician",2017-12-02 17:56:12,90.0,80.0,2013.0,False,2022-03-06 04:55:32,"2/By the time the general pop was ready to be fully vaccinated with the #CovidVaccine, the #SARSCoV2 virus mutation was already on and poppin'.  The #Delta strain of #COVID19 was present by May, 2021. The USA did not acknowledge Delta until later -&gt; the Provincetown outbreak.","['CovidVaccine', 'SARSCoV2', 'Delta', 'COVID19']",Twitter Web App,False,2022-06-03 04:55:32,2022-06-03,04:55:32,2022-06-03 04:55:32
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-06 05:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 06/03 at 10:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-06-03 05:00:04,2022-06-03,05:00:04,2022-06-03 05:00:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-06 05:00:14,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 06/03 at 10:30AM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-06-03 05:00:14,2022-06-03,05:00:14,2022-06-03 05:00:14
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-06 05:00:25,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 06/03 at 10:30AM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-06-03 05:00:25,2022-06-03,05:00:25,2022-06-03 05:00:25
+HarlempedsMD,,"Change agent, community servant, pediatrician",2017-12-02 17:56:12,90.0,80.0,2013.0,False,2022-03-06 05:08:04,"3/So, @risahoshinoMD, let's not blame the decreased effectiveness of the #COVIDVaccine on the unvaccinated population. The breakthrough #COVID19 infections were set up to occur by the time the vaccine was out the gate.","['COVIDVaccine', 'COVID19']",Twitter Web App,False,2022-06-03 05:08:04,2022-06-03,05:08:04,2022-06-03 05:08:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-06 05:30:04,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 06/03 at 11:00AM
+FREE Slots 
+#COVISHIELD - Dose1:5, Dose2:1
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-06-03 05:30:04,2022-06-03,05:30:04,2022-06-03 05:30:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-06 05:30:14,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 06/03 at 11:00AM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:752, Dose2:150
+#SPUTNIKV - Dose1:0, Dose2:50","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-06-03 05:30:14,2022-06-03,05:30:14,2022-06-03 05:30:14
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-06 05:30:25,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 06/03 at 11:00AM
+FREE Slots 
+#COVISHIELD - Dose1:1084, Dose2:149
+#COVAXIN - Dose1:1, Dose2:0
+PAID Slots 
+#COVISHIELD - Dose1:1245, Dose2:10
+#SPUTNIKV - Dose1:30, Dose2:1020","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-06-03 05:30:25,2022-06-03,05:30:25,2022-06-03 05:30:25
+vinod kumar,Hong kong,#crypto #lover & #photographer & #NATURE & @chef 🧁 #foodie #CHEF #love create new dishes & @apple #iphone13promax & #wanttotimetravelling & entering to #NFTs,2015-09-12 05:07:13,1211.0,973.0,0.0,False,2022-03-06 05:46:27,"#HongKong logged 37,529 new COVID-19 cases on Saturday, a drop from over 52,000 cases reported on Friday, as health officials said the epidemic situation in the city is still serious. 
+https://t.co/76StQY7rn0 #CovidVaccine #coronavirus #Delta #Omicron #virus #news","['HongKong', 'CovidVaccine', 'coronavirus', 'Delta', 'Omicron', 'virus', 'news']",Twitter for iPhone,False,2022-06-03 05:46:27,2022-06-03,05:46:27,2022-06-03 05:46:27

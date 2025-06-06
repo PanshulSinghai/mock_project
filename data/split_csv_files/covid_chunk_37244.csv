@@ -1,0 +1,51 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-26 05:30:26,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 26/04 at 11:00AM
+FREE Slots 
+#COVISHIELD - Dose1:1106, Dose2:16
+#COVAXIN - Dose1:13, Dose2:19
+PAID Slots 
+#COVISHIELD - Dose1:3237, Dose2:29
+#COVAXIN - Dose1:20, Dose2:20
+#SPUTNIKV - Dose1:10, Dose2:1000","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2022-04-26 05:30:26,2022-04-26,05:30:26,2022-04-26 05:30:26
+Jeff Lorenzo 🥂,"Ojai, CA",Don't hate me for being unvaccinated. I was born this way.,2009-03-30 00:31:33,733.0,1206.0,3434.0,False,2022-04-26 05:43:31,@MarkLevineNYC You mean content from people who've been educated about the #covidvaccine? https://t.co/LBh7MNPs1m,['covidvaccine'],Twitter for Android,False,2022-04-26 05:43:31,2022-04-26,05:43:31,2022-04-26 05:43:31
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-26 06:00:05,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 26/04 at 11:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-04-26 06:00:05,2022-04-26,06:00:05,2022-04-26 06:00:05
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-26 06:00:15,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 26/04 at 11:30AM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-04-26 06:00:15,2022-04-26,06:00:15,2022-04-26 06:00:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-26 06:00:26,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 26/04 at 11:30AM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-04-26 06:00:26,2022-04-26,06:00:26,2022-04-26 06:00:26
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-26 06:30:05,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 26/04 at 12:00PM
+FREE Slots 
+#COVISHIELD - Dose1:104, Dose2:1
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-04-26 06:30:05,2022-04-26,06:30:05,2022-04-26 06:30:05
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-26 06:30:16,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 26/04 at 12:00PM
+FREE Slots 
+#COVISHIELD - Dose1:0, Dose2:1
+PAID Slots 
+#COVISHIELD - Dose1:622, Dose2:57
+#COVAXIN - Dose1:10, Dose2:10
+#SPUTNIKV - Dose1:0, Dose2:4","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2022-04-26 06:30:16,2022-04-26,06:30:16,2022-04-26 06:30:16
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-26 06:30:27,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 26/04 at 12:00PM
+FREE Slots 
+#COVISHIELD - Dose1:1106, Dose2:16
+#COVAXIN - Dose1:13, Dose2:19
+PAID Slots 
+#COVISHIELD - Dose1:3231, Dose2:29
+#COVAXIN - Dose1:20, Dose2:20
+#SPUTNIKV - Dose1:10, Dose2:1000","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2022-04-26 06:30:27,2022-04-26,06:30:27,2022-04-26 06:30:27
+The Great Resist #NoVaccinePassportsAnywhere,London,"Made in Brum 
+Organic Human  
+Exposing Agenda 2021/30
+#NoMandatoryVaccines 
+#Make1984FictionAgain  
+No to Pathocracy
+AKA Sheep Whisperer",2011-08-04 14:38:29,3028.0,2091.0,11188.0,False,2022-04-26 06:49:38,"A family member is still suffering from an eye disorder following her 1st #CovidVaccine and it's getting worse 🥴
+
+https://t.co/1B9JJpCiME",['CovidVaccine'],Twitter Web App,False,2022-04-26 06:49:38,2022-04-26,06:49:38,2022-04-26 06:49:38
+The Healthy Indian Project,India,"THIP Media is India’s first health information website verified by medical professionals. We focus on #HealthLiteracy, #FactCheck, #MythBusting.",2018-07-31 09:40:46,1066.0,41.0,187.0,True,2022-04-26 06:52:14,"Is Covid vaccine killing more people of colour than white people? 
+Find out the fact check done by @Aditi_Writes at https://t.co/7Q0hLZT1JE 
+
+#COVID19 #CovidVaccine #SayNoToMisinformation #FactCheck","['COVID19', 'CovidVaccine', 'SayNoToMisinformation', 'FactCheck']",Twitter Web App,False,2022-04-26 06:52:14,2022-04-26,06:52:14,2022-04-26 06:52:14

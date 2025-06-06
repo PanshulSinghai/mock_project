@@ -1,0 +1,46 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-18 05:00:15,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 18/04 at 10:30AM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-04-18 05:00:15,2022-04-18,05:00:15,2022-04-18 05:00:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-18 05:00:26,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 18/04 at 10:30AM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-04-18 05:00:26,2022-04-18,05:00:26,2022-04-18 05:00:26
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-18 05:30:04,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 18/04 at 11:00AM
+FREE Slots 
+#COVISHIELD - Dose1:102, Dose2:0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-04-18 05:30:04,2022-04-18,05:30:04,2022-04-18 05:30:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-18 05:30:15,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 18/04 at 11:00AM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:764, Dose2:50","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-04-18 05:30:15,2022-04-18,05:30:15,2022-04-18 05:30:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-18 05:30:25,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 18/04 at 11:00AM
+FREE Slots 
+#COVISHIELD - Dose1:1711, Dose2:17
+#COVAXIN - Dose1:11, Dose2:17
+PAID Slots 
+#COVISHIELD - Dose1:2988, Dose2:120
+#COVAXIN - Dose1:19, Dose2:20
+#SPUTNIKV - Dose1:10, Dose2:1000","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2022-04-18 05:30:25,2022-04-18,05:30:25,2022-04-18 05:30:25
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-18 06:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 18/04 at 11:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-04-18 06:00:04,2022-04-18,06:00:04,2022-04-18 06:00:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-18 06:00:15,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 18/04 at 11:30AM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-04-18 06:00:15,2022-04-18,06:00:15,2022-04-18 06:00:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-18 06:00:25,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 18/04 at 11:30AM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-04-18 06:00:25,2022-04-18,06:00:25,2022-04-18 06:00:25
+Global Markets,Global Markets News,Global markets cover #news in the field of #sport #business #education #international #Political #technical #entertainment #lifestyle #Latest #Trending,2020-11-26 10:17:36,24.0,110.0,397.0,False,2022-04-18 06:05:39,"Booster doses for all adults from today at private vaccine centre.
+
+Read More:- https://t.co/QwuW3XYqNq 
+
+#BoosterDose #CovidVaccine #boosterdose  #vaccine #covid-19 #covishield #covacin #Unite2FightCorona #Vaccination Drive #Vaccine For India https://t.co/nz9fEX1C9f","['BoosterDose', 'CovidVaccine', 'boosterdose', 'vaccine', 'covid', 'covishield', 'covacin', 'Unite2FightCorona', 'Vaccination', 'Vaccine']",Zoho Social,False,2022-04-18 06:05:39,2022-04-18,06:05:39,2022-04-18 06:05:39
+Stop-the-war Dirk Haussecker,Ukraine,"Natural born biotech stock trader/investor. Trained in RNAi. 
+
+Love great risk/rewards, incl: 
+
+AFMD, ADAP, AUPH, NVAX, SIOX, VERV, BEAM
+
+Not investment advice",2011-11-10 12:00:58,14776.0,433.0,13704.0,False,2022-04-18 06:16:00,"$mrna CEO Bancel: 'money has never been of interest to me'.
+
+Glad this price-gouging #covidvaccine billionaire CEO removed any doubts. https://t.co/fRQYBEspkN",['covidvaccine'],Twitter Web App,False,2022-04-18 06:16:00,2022-04-18,06:16:00,2022-04-18 06:16:00

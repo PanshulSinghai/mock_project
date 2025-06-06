@@ -1,0 +1,38 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+Ralph,"Sharon, MA 🇺🇸","Each person you meet is an aspect of yourself, clamoring for love.",2016-07-21 14:59:01,51.0,61.0,2784.0,False,2022-06-14 00:27:30,"Dr. Fauci Just Warned of a Possible Surge
+
+#coronavirus #health #coronavirustips #covidvaccine #dr.fauci #news
+https://t.co/BZhAw7LqB6","['coronavirus', 'health', 'coronavirustips', 'covidvaccine', 'dr', 'news']",69dankmemes,False,2022-06-14 00:27:30,2022-06-14,00:27:30,2022-06-14 00:27:30
+corby,"QUEENS VILLAGE, NY 🇺🇸","When one has a grateful heart, life is so beautiful.",2020-06-10 07:49:49,57.0,62.0,3367.0,False,2022-06-14 00:34:45,"Most People Catch the Virus This Way Now
+
+#news #coronavirus #coronavirustips #health #covidvaccine
+https://t.co/P1wVkljRpw","['news', 'coronavirus', 'coronavirustips', 'health', 'covidvaccine']",Sentiment__Analyzer,False,2022-06-14 00:34:45,2022-06-14,00:34:45,2022-06-14 00:34:45
+Dick Richards,,,2017-08-21 01:12:04,48.0,91.0,3312.0,False,2022-06-14 00:34:52,"7 Reasons You've Got to Vaccine Your Kid, Says Dr. Fauci
+
+#coronavirustips #postacutecovidsyndrome #dr.fauci #coronavirus #covidvaccine #news #health
+https://t.co/od3g4BFlPq","['coronavirustips', 'postacutecovidsyndrome', 'dr', 'coronavirus', 'covidvaccine', 'news', 'health']",picturesOfAnimals,False,2022-06-14 00:34:52,2022-06-14,00:34:52,2022-06-14 00:34:52
+corby,"QUEENS VILLAGE, NY 🇺🇸","When one has a grateful heart, life is so beautiful.",2020-06-10 07:49:49,57.0,62.0,3367.0,False,2022-06-14 00:56:15,"What a Booster Shot Really Does To Your Body
+
+#health #covidvaccine #coronavirus #news
+https://t.co/MCxVlL9oro","['health', 'covidvaccine', 'coronavirus', 'news']",Sentiment__Analyzer,False,2022-06-14 00:56:15,2022-06-14,00:56:15,2022-06-14 00:56:15
+Samuel Adams,"Boston, Massachusetts ","Freedom or Death,",2009-07-11 16:59:29,110.0,9.0,3544.0,False,2022-06-14 00:56:56,"COVID Precautions Everyone Should Take Now
+
+#coronavirus #health #coronavirustips #covidvaccine #news
+https://t.co/v5hE72A7Az","['coronavirus', 'health', 'coronavirustips', 'covidvaccine', 'news']",Data Mining (Intro Project Git),False,2022-06-14 00:56:56,2022-06-14,00:56:56,2022-06-14 00:56:56
+Another Style,"Shawnee, OK 🇺🇸",Dig deep and empower yourself today. Stand in your inner strength. Be uniquely you.,2018-02-14 09:21:22,77.0,144.0,0.0,False,2022-06-14 01:03:15,"Virus Expert Just Issued This COVID Update
+
+#coronavirustips #covidvaccine #coronavirus #health #news
+https://t.co/CrJawd7RzF","['coronavirustips', 'covidvaccine', 'coronavirus', 'health', 'news']",O_original,False,2022-06-14 01:03:15,2022-06-14,01:03:15,2022-06-14 01:03:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-06-14 01:30:18,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 14/06 at 07:00AM
+FREE Slots 
+#COVISHIELD - Dose1:100, Dose2:100
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-06-14 01:30:18,2022-06-14,01:30:18,2022-06-14 01:30:18
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-06-14 01:30:28,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 14/06 at 07:00AM
+FREE Slots 
+#COVISHIELD - Dose1:1, Dose2:499
+PAID Slots 
+#COVISHIELD - Dose1:698, Dose2:500","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVISHIELD']",VaxBlr,False,2022-06-14 01:30:28,2022-06-14,01:30:28,2022-06-14 01:30:28
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-06-14 01:30:39,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 14/06 at 07:00AM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-06-14 01:30:39,2022-06-14,01:30:39,2022-06-14 01:30:39
+Leonard T. Hodges,,"Just an ordinary guy, living the American dream.",2022-06-14 00:18:54,0.0,3.0,0.0,False,2022-06-14 01:35:49,"When I woke this morning, some of the bubbles had grown to almost an inch in diameter and started to burst, releasing these spore-looking things into the air. I called my doctor, but he said it was normal with the new shot and not to worry. Wtf! #COVIDVACCINE #TRUMP2024","['COVIDVACCINE', 'TRUMP2024']",Twitter Web App,False,2022-06-14 01:35:49,2022-06-14,01:35:49,2022-06-14 01:35:49

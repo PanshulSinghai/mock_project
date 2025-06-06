@@ -1,0 +1,45 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-22 11:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 22/03 at 04:30PM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-03-22 11:00:04,2022-03-22,11:00:04,2022-03-22 11:00:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-22 11:00:15,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 22/03 at 04:30PM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-03-22 11:00:15,2022-03-22,11:00:15,2022-03-22 11:00:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-22 11:00:25,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 22/03 at 04:30PM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-03-22 11:00:25,2022-03-22,11:00:25,2022-03-22 11:00:25
+LettersFromAustralia 💜,Sydney,Interested in news from the Pacific coast and the region. Now looking also into vaccine mandate issues. Email: LettersFromOz@gmail.com,2021-12-12 08:11:58,53.0,239.0,788.0,False,2022-03-22 11:29:09,Bravo @IamBrookJackson brave professional who stood up for the standards of science during the critical  #covidvaccine trials as they were being botched. At great personal cost. Thank you Brook Jackson! The @bmj_latest reports https://t.co/1LAAps9TsS,['covidvaccine'],Twitter Web App,False,2022-03-22 11:29:09,2022-03-22,11:29:09,2022-03-22 11:29:09
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-22 11:30:04,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 22/03 at 05:00PM
+FREE Slots 
+#COVISHIELD - Dose1:2, Dose2:0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-03-22 11:30:04,2022-03-22,11:30:04,2022-03-22 11:30:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-22 11:30:14,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 22/03 at 05:00PM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:847, Dose2:98
+#SPUTNIKV - Dose1:30, Dose2:10","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-03-22 11:30:14,2022-03-22,11:30:14,2022-03-22 11:30:14
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-22 11:30:25,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 22/03 at 05:00PM
+FREE Slots 
+#COVISHIELD - Dose1:5289, Dose2:157
+#COVAXIN - Dose1:9, Dose2:9
+PAID Slots 
+#COVISHIELD - Dose1:3057, Dose2:120
+#COVAXIN - Dose1:100, Dose2:100
+#SPUTNIKV - Dose1:199, Dose2:1120","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2022-03-22 11:30:25,2022-03-22,11:30:25,2022-03-22 11:30:25
+Andhravilas,USA,"Andhravilas Gives you  #Tollywood #Bollywood film News,#AndhraPradesh #Telangana News,#National    #Health #Business  #Trending Visit
+https://t.co/vJFjY4CwOT",2010-05-10 15:40:09,2599.0,91.0,27.0,False,2022-03-22 11:33:07,"Srinagar doctors say injured policeman revived after 'assessed' dead (2nd Ld) https://t.co/oqCxePWw8H #coronaviruspandemic #Breakingnews #Indiapolitics #AndhraPolitics #NewsFeed #RadheShyam #CovidVaccine #ktr 
+
+Srinagar, March 22 - The policeman, critically injured in a shooto…","['coronaviruspandemic', 'Breakingnews', 'Indiapolitics', 'AndhraPolitics', 'NewsFeed', 'RadheShyam', 'CovidVaccine', 'ktr']",IFTTT,False,2022-03-22 11:33:07,2022-03-22,11:33:07,2022-03-22 11:33:07
+Bharat Ram Global School,"indirapuram Ghaziabad, India","Bharat Ram Global School, Indirapuram an initiative by Sriram Education Trust ; carries forward the century-old Sir Shri Ram legacy of educational excellence.",2021-04-22 14:06:49,5.0,16.0,0.0,False,2022-03-22 11:41:37,"Bharat Ram Global School, Indirapuram is organizing a COVID vaccination camp.
+
+✅ VACCINE: COVAXIN
+✅ AGE: 12 - 14 years
+✅ DATE: 23-03-2022
+✅ TIME: 10.30 am to 3.00 pm
+✅ NOTE: Carry your AADHAAR
+
+#vaccination #brgsindirapuram #CovidVaccine #tuesdayvibe https://t.co/t5Hcaw4xsB","['vaccination', 'brgsindirapuram', 'CovidVaccine', 'tuesdayvibe']",Twitter Web App,False,2022-03-22 11:41:37,2022-03-22,11:41:37,2022-03-22 11:41:37
+MiggyMack 🙂,Johannesburg,"Mig-El is my Kryptonian name. 
+
+
+https://t.co/KFbRRnvjwn",2010-11-27 17:22:10,963.0,1312.0,99621.0,False,2022-03-22 11:43:11,I'm sure it wasn't the #CovidVaccine. And I'm sure @RafaelNadal isn't regretting taking it or being a wise arse when asked about @djokernole's refusal to take it. I'm sure it was something else that suddenly caused this in a healthy sportsman. Like all the other sportsmen. https://t.co/Q0g3Twx8kD https://t.co/XVPkQEyzxp,['CovidVaccine'],Twitter Web App,False,2022-03-22 11:43:11,2022-03-22,11:43:11,2022-03-22 11:43:11

@@ -1,0 +1,36 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+36Kr,Beijing,a prominent brand and a pioneering platform dedicated to serving New Economy participants in China,2010-04-27 17:19:32,9271.0,139.0,9.0,False,2022-03-31 03:29:00,"On March 30, local time, US President Biden @POTUS  received a second booster dose of the #CovidVaccine. #36Kr #USA https://t.co/vcdPWT08VV","['CovidVaccine', '36Kr', 'USA']",Twitter Web App,False,2022-03-31 03:29:00,2022-03-31,03:29:00,2022-03-31 03:29:00
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-03-31 03:30:04,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 31/03 at 09:00AM
+FREE Slots 
+#COVISHIELD - Dose1:3, Dose2:0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-03-31 03:30:04,2022-03-31,03:30:04,2022-03-31 03:30:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-03-31 03:30:15,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 31/03 at 09:00AM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:840, Dose2:14
+#SPUTNIKV - Dose1:30, Dose2:9","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-03-31 03:30:15,2022-03-31,03:30:15,2022-03-31 03:30:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-03-31 03:30:25,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 31/03 at 09:00AM
+FREE Slots 
+#COVISHIELD - Dose1:4408, Dose2:12
+#COVAXIN - Dose1:10, Dose2:12
+PAID Slots 
+#COVISHIELD - Dose1:2782, Dose2:109
+#COVAXIN - Dose1:100, Dose2:100
+#SPUTNIKV - Dose1:60, Dose2:1010","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2022-03-31 03:30:25,2022-03-31,03:30:25,2022-03-31 03:30:25
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-03-31 04:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 31/03 at 09:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-03-31 04:00:04,2022-03-31,04:00:04,2022-03-31 04:00:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-03-31 04:00:14,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 31/03 at 09:30AM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-03-31 04:00:14,2022-03-31,04:00:14,2022-03-31 04:00:14
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-03-31 04:00:25,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 31/03 at 09:30AM
+FREE Slots 0
+PAID Slots 
+#COVAXIN - Dose1:100, Dose2:100","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVAXIN']",VaxBlr,False,2022-03-31 04:00:25,2022-03-31,04:00:25,2022-03-31 04:00:25
+Gippsland PHN,"Gippsland, Victoria, Australia","We're working with GPs, hospitals, specialists and other health providers to keep people well in Gippsland.",2016-06-21 03:34:45,1077.0,254.0,261.0,False,2022-03-31 04:00:26,"Selected population groups who are at greatest risk of severe illness from COVID-19 will be eligible for an additional vaccination from 4 April 2022.
+Find out if you are eligible here https://t.co/2rPUfRCUP4
+#covidvaccine #fourthdose #itstartswithyou https://t.co/KwZFw6ATnD","['covidvaccine', 'fourthdose', 'itstartswithyou']",Hootsuite Inc.,False,2022-03-31 04:00:26,2022-03-31,04:00:26,2022-03-31 04:00:26
+Justin Echeverry,,https://t.co/1W9bB2VW2f https://t.co/WPHa2Svtw9 https://t.co/MmX2V8QfIh,2020-06-26 10:41:45,293.0,401.0,1519.0,False,2022-03-31 04:00:36,"“If you have received 💉 doses of any #Covidvaccine, we will not be able to clear you to compete in sports ⚽️ 
+without first ruling out any potential 
+heart 💔 damage!!! https://t.co/FScZJ1as8r",['Covidvaccine'],Twitter for iPhone,False,2022-03-31 04:00:36,2022-03-31,04:00:36,2022-03-31 04:00:36
+Jillian,"Port Washington, NY",Don’t claim to be a social media guru! I BLOCK ALL LIBERALS (IBAL) FJB! Fit/nutri freak Follow me there’s no excuse for laziness MAGA 🇺🇸 IFBAP 🇺🇸,2021-10-26 00:54:00,3790.0,4807.0,14100.0,False,2022-03-31 04:03:49,"#Fauci says if you are #concerned about #Covidvaccine #bloodclots, #heartattacks and #deaths, you’re most likely an #insurrectionist who hates #authority  https://t.co/y1jTyIIOKF","['Fauci', 'concerned', 'Covidvaccine', 'bloodclots', 'heartattacks', 'deaths', 'insurrectionist', 'authority']",Twitter for iPhone,False,2022-03-31 04:03:49,2022-03-31,04:03:49,2022-03-31 04:03:49

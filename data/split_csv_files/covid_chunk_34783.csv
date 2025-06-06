@@ -1,0 +1,36 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-06-01 06:30:26,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 01/06 at 12:00PM
+FREE Slots 
+#COVISHIELD - Dose1:22, Dose2:27
+#COVAXIN - Dose1:11, Dose2:26
+PAID Slots 
+#COVISHIELD - Dose1:4069, Dose2:120
+#COVAXIN - Dose1:100, Dose2:100","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2022-01-06 06:30:26,2022-01-06,06:30:26,2022-01-06 06:30:26
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-06-01 07:00:05,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 01/06 at 12:30PM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-01-06 07:00:05,2022-01-06,07:00:05,2022-01-06 07:00:05
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-06-01 07:00:16,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 01/06 at 12:30PM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-01-06 07:00:16,2022-01-06,07:00:16,2022-01-06 07:00:16
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-06-01 07:00:26,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 01/06 at 12:30PM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-01-06 07:00:26,2022-01-06,07:00:26,2022-01-06 07:00:26
+HSE Ireland,Ireland,Your official guide to what's happening in the health services. Not monitored 24/7. In an emergency dial 999. Twitter policy https://t.co/XMsKkP1AvQ #ForUsAll,2009-08-27 14:03:51,243517.0,497.0,4279.0,True,2022-06-01 07:03:01,"🧵Here are today's walk-in #COVIDVaccine clinics. We're holding walk-in vaccine clinics for first and second booster, dose 1 and 2 for children aged 5 to 11, and dose 1 and 2 for people aged 12 and older. The full list of clinics is here:  https://t.co/Ls49VqO9QM
+#ForUsAll https://t.co/sdUcvgsYAR","['COVIDVaccine', 'ForUsAll']",Twitter Web App,False,2022-01-06 07:03:01,2022-01-06,07:03:01,2022-01-06 07:03:01
+Andhravilas,USA,"Andhravilas Gives you  #Tollywood #Bollywood film News,#AndhraPradesh #Telangana News,#National    #Health #Business  #Trending Visit
+https://t.co/vJFjY4CwOT",2010-05-10 15:40:09,2605.0,92.0,27.0,False,2022-06-01 07:08:30,"Moosewala's murder: Neeraj Bawana gang vows of revenge in 2 days https://t.co/9rwlS5NNo9 #Lockdown #Breakingnews #Indiapolitics #AndhraPolitics #NewsFeed #RadheShyam #CovidVaccine #KCR 
+
+New Delhi, June 1 - The Delhi-based Neeraj Bawana gang has threatened to launch a retaliat…","['Lockdown', 'Breakingnews', 'Indiapolitics', 'AndhraPolitics', 'NewsFeed', 'RadheShyam', 'CovidVaccine', 'KCR']",IFTTT,False,2022-01-06 07:08:30,2022-01-06,07:08:30,2022-01-06 07:08:30
+Andhravilas,USA,"Andhravilas Gives you  #Tollywood #Bollywood film News,#AndhraPradesh #Telangana News,#National    #Health #Business  #Trending Visit
+https://t.co/vJFjY4CwOT",2010-05-10 15:40:09,2605.0,92.0,27.0,False,2022-06-01 07:08:33,"K'taka textbook revision row: Complaint lodged against Committee Chairman https://t.co/W98UntUitW #breakingnews #Breakingnews #Indiapolitics #AndhraPolitics #NewsFeed #RadheShyam #CovidVaccine #Indiafightscorona 
+
+Bengaluru, June 1 - The Karnataka textbook row has taken a new …","['breakingnews', 'Breakingnews', 'Indiapolitics', 'AndhraPolitics', 'NewsFeed', 'RadheShyam', 'CovidVaccine', 'Indiafightscorona']",IFTTT,False,2022-01-06 07:08:33,2022-01-06,07:08:33,2022-01-06 07:08:33
+Andhravilas,USA,"Andhravilas Gives you  #Tollywood #Bollywood film News,#AndhraPradesh #Telangana News,#National    #Health #Business  #Trending Visit
+https://t.co/vJFjY4CwOT",2010-05-10 15:40:09,2605.0,92.0,27.0,False,2022-06-01 07:08:34,"I-T raids at 400 locations of liquor barons, others https://t.co/P2AkzgORQr #KCR #Breakingnews #Indiapolitics #AndhraPolitics #NewsFeed #RadheShyam #Lockdown #CovidVaccine 
+
+New Delhi, June 1 - The Income Tax department on Wednesday started search operations at about 400 locat…","['KCR', 'Breakingnews', 'Indiapolitics', 'AndhraPolitics', 'NewsFeed', 'RadheShyam', 'Lockdown', 'CovidVaccine']",IFTTT,False,2022-01-06 07:08:34,2022-01-06,07:08:34,2022-01-06 07:08:34
+Andhravilas,USA,"Andhravilas Gives you  #Tollywood #Bollywood film News,#AndhraPradesh #Telangana News,#National    #Health #Business  #Trending Visit
+https://t.co/vJFjY4CwOT",2010-05-10 15:40:09,2605.0,92.0,27.0,False,2022-06-01 07:08:39,"'Field local for Rajinder Nagar Assembly bypoll' https://t.co/yZXooCvYn6 #CovidVaccine #Breakingnews #Indiapolitics #AndhraPolitics #NewsFeed #RadheShyam #stayhomestaysafe #RahulGandhi 
+
+New Delhi, June 1 - As the Delhi BJP has started the process of short listing the names fo…","['CovidVaccine', 'Breakingnews', 'Indiapolitics', 'AndhraPolitics', 'NewsFeed', 'RadheShyam', 'stayhomestaysafe', 'RahulGandhi']",IFTTT,False,2022-01-06 07:08:39,2022-01-06,07:08:39,2022-01-06 07:08:39
+"Maruf Alam, IIS","Guwahati, India","News Editor, DD Assam (RNU Head), @ddnews_guwahati. Tweets are personal, likes and RTs are not endorsements.",2010-08-07 18:12:21,479.0,617.0,2510.0,False,2022-06-01 07:26:05,Two month long mega #COVID19 -19 vaccination drive Har Ghar Dastak campaign 2.0 to begin today. #HarGharDastak #COVIDVACCINE,"['COVID19', 'HarGharDastak', 'COVIDVACCINE']",Twitter Web App,False,2022-01-06 07:26:05,2022-01-06,07:26:05,2022-01-06 07:26:05

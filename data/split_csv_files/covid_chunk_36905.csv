@@ -1,0 +1,37 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+RT Magazine,Los Angeles,"RT: For Decision Makers in Respiratory Care is a leading source of news, research, and product information for respiratory care practitioners.",2009-06-10 18:27:29,5203.0,253.0,28.0,False,2022-03-04 01:30:08,Sanofi and GlaxoSmithKline are submitting their COVID-19 vaccine for authorization to the FDA and other international regulatory agencies https://t.co/VbfqUESzgz #RTmagazine #covidvaccine #vaccines #covid19,"['RTmagazine', 'covidvaccine', 'vaccines', 'covid19']",Buffer,False,2022-04-03 01:30:08,2022-04-03,01:30:08,2022-04-03 01:30:08
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-04 01:30:16,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 04/03 at 07:00AM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:705, Dose2:49
+#SPUTNIKV - Dose1:29, Dose2:0","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-04-03 01:30:16,2022-04-03,01:30:16,2022-04-03 01:30:16
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-04 01:30:27,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 04/03 at 07:00AM
+FREE Slots 
+#COVISHIELD - Dose1:9923, Dose2:4009
+#COVAXIN - Dose1:3510, Dose2:3509
+PAID Slots 
+#COVISHIELD - Dose1:2487, Dose2:75
+#COVAXIN - Dose1:50, Dose2:50
+#SPUTNIKV - Dose1:140, Dose2:1079","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2022-04-03 01:30:27,2022-04-03,01:30:27,2022-04-03 01:30:27
+Sheila,Planet Earth,"""I hope someday you'll join us. And the world will live as one."" John Lennon #Resist",2010-06-09 17:14:19,564.0,2341.0,107576.0,False,2022-03-04 01:39:53,"Please consider getting vaccinated - for yourself, your family and our community.  #BenFranklin #CovidVaccine #Vaccination  https://t.co/KxnsM0aZq5","['BenFranklin', 'CovidVaccine', 'Vaccination']",Twitter for iPhone,False,2022-04-03 01:39:53,2022-04-03,01:39:53,2022-04-03 01:39:53
+Scallywagandvagabond,"Manhattan, NYC","Scallywag and Vagabond is a forum for critical reviews, interviews, insights, news reporting and dissection of events in the US.",2009-10-20 19:12:27,2584.0,1287.0,131.0,False,2022-03-04 01:41:29,"Albuquerque, New Mexico woman pulls gun on driver over pro vaccine bumper sticker https://t.co/n8lpyouHJ7 #Christina Blair #Christina Blair #Albuquerque #COVID19 #COVID #CovidVaccine","['Christina', 'Christina', 'Albuquerque', 'COVID19', 'COVID', 'CovidVaccine']",Twitter Web App,False,2022-04-03 01:41:29,2022-04-03,01:41:29,2022-04-03 01:41:29
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-04 02:00:08,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 04/03 at 07:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-04-03 02:00:08,2022-04-03,02:00:08,2022-04-03 02:00:08
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-04 02:00:19,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 04/03 at 07:30AM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-04-03 02:00:19,2022-04-03,02:00:19,2022-04-03 02:00:19
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-04 02:00:29,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 04/03 at 07:30AM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-04-03 02:00:29,2022-04-03,02:00:29,2022-04-03 02:00:29
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-04 02:30:07,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 04/03 at 08:00AM
+FREE Slots 
+#COVISHIELD - Dose1:4, Dose2:101
+#COVAXIN - Dose1:100, Dose2:100
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2022-04-03 02:30:07,2022-04-03,02:30:07,2022-04-03 02:30:07
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-04 02:30:18,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 04/03 at 08:00AM
+FREE Slots 
+#COVISHIELD - Dose1:2, Dose2:0
+PAID Slots 
+#COVISHIELD - Dose1:705, Dose2:48
+#SPUTNIKV - Dose1:29, Dose2:0","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-04-03 02:30:18,2022-04-03,02:30:18,2022-04-03 02:30:18

@@ -1,0 +1,39 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0,0,False,2022-06-09 06:00:05,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 09/06 at 11:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-09-06 06:00:05,2022-09-06,06:00:05,2022-09-06 06:00:05
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0,0,False,2022-06-09 06:00:16,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 09/06 at 11:30AM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-09-06 06:00:16,2022-09-06,06:00:16,2022-09-06 06:00:16
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0,0,False,2022-06-09 06:00:26,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 09/06 at 11:30AM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-09-06 06:00:26,2022-09-06,06:00:26,2022-09-06 06:00:26
+Xander,"PHOENIX, AZ 🇺🇸","If you believe very strongly in something, stand up and fight for it.",2017-01-08 18:10:01,36.0,30,3164,False,2022-06-09 06:10:10,"COVID Symptoms to be Concerned About Most
+
+#coronavirus #health #coronavirustips #covidvaccine #coronavirussymptoms #news #longcovid
+https://t.co/87uVloHvxf","['coronavirus', 'health', 'coronavirustips', 'covidvaccine', 'coronavirussymptoms', 'news', 'longcovid']",TweetFakeNewsDetector,False,2022-09-06 06:10:10,2022-09-06,06:10:10,2022-09-06 06:10:10
+Maria,"San Diego, CA 🇺🇸🇺🇸🇺🇸","Don’t ask what the world needs. Ask what makes you come alive, and go do it. Because what the world needs is people who have come alive.",2021-02-02 08:08:24,68.0,46,3651,False,2022-06-09 06:17:54,"Dr. Fauci Just Issued This ""Serious"" Warning
+
+#health #covidvaccine #coronavirus #news #dr.fauci #coronavirustips
+https://t.co/i0bxNjh19B","['health', 'covidvaccine', 'coronavirus', 'news', 'dr', 'coronavirustips']",NeolandApp1,False,2022-09-06 06:17:54,2022-09-06,06:17:54,2022-09-06 06:17:54
+inappropriate dave,United Kingdom,"You may not like what I say but it needs saying. Someone’s got to speak out with a pointed finger, thumb up or verbal fist.",2020-04-10 08:03:45,336.0,627,2403,False,2022-06-09 06:19:13,The public at large chose not to believe this. Parents who’s kids have had a #COVIDVACCINE have put them at severe risk because of their ignorance. It’s happened. I don’t much regard for those parents  #Covid   https://t.co/ZZz9yd55OO,"['COVIDVACCINE', 'Covid']",Twitter for iPhone,False,2022-09-06 06:19:13,2022-09-06,06:19:13,2022-09-06 06:19:13
+Maria,"San Diego, CA 🇺🇸🇺🇸🇺🇸","Don’t ask what the world needs. Ask what makes you come alive, and go do it. Because what the world needs is people who have come alive.",2021-02-02 08:08:24,68.0,46,3651,False,2022-06-09 06:25:11,"Virus Expert Just Issued This Chilling Warning
+
+#coronavirustips #health #covidvaccine #news #coronavirus
+https://t.co/v7Ovdo208d","['coronavirustips', 'health', 'covidvaccine', 'news', 'coronavirus']",NeolandApp1,False,2022-09-06 06:25:11,2022-09-06,06:25:11,2022-09-06 06:25:11
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0,0,False,2022-06-09 06:30:05,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 09/06 at 12:00PM
+FREE Slots 
+#COVISHIELD - Dose1:2, Dose2:1
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-09-06 06:30:05,2022-09-06,06:30:05,2022-09-06 06:30:05
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0,0,False,2022-06-09 06:30:15,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 09/06 at 12:00PM
+FREE Slots 
+#COVISHIELD - Dose1:1, Dose2:0
+PAID Slots 
+#COVISHIELD - Dose1:780, Dose2:50","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVISHIELD']",VaxBlr,False,2022-09-06 06:30:15,2022-09-06,06:30:15,2022-09-06 06:30:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0,0,False,2022-06-09 06:30:26,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 09/06 at 12:00PM
+FREE Slots 
+#COVISHIELD - Dose1:25, Dose2:15
+#COVAXIN - Dose1:12, Dose2:14
+PAID Slots 
+#COVISHIELD - Dose1:3710, Dose2:120
+#COVAXIN - Dose1:100, Dose2:100","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2022-09-06 06:30:26,2022-09-06,06:30:26,2022-09-06 06:30:26

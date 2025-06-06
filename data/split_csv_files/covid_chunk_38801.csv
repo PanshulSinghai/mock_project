@@ -1,0 +1,39 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-05-09 11:30:05,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 09/05 at 05:00PM
+FREE Slots 
+#COVISHIELD - Dose1:102, Dose2:1
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-09-05 11:30:05,2022-09-05,11:30:05,2022-09-05 11:30:05
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-05-09 11:30:15,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 09/05 at 05:00PM
+FREE Slots 
+#COVISHIELD - Dose1:0, Dose2:1
+PAID Slots 
+#COVISHIELD - Dose1:794, Dose2:498
+#SPUTNIKV - Dose1:0, Dose2:5","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-09-05 11:30:15,2022-09-05,11:30:15,2022-09-05 11:30:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-05-09 11:30:26,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 09/05 at 05:00PM
+FREE Slots 
+#COVISHIELD - Dose1:629, Dose2:114
+#COVAXIN - Dose1:10, Dose2:14
+PAID Slots 
+#COVISHIELD - Dose1:3529, Dose2:55
+#COVAXIN - Dose1:30, Dose2:30
+#SPUTNIKV - Dose1:10, Dose2:0","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2022-09-05 11:30:26,2022-09-05,11:30:26,2022-09-05 11:30:26
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-05-09 12:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 09/05 at 05:30PM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-09-05 12:00:04,2022-09-05,12:00:04,2022-09-05 12:00:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-05-09 12:00:15,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 09/05 at 05:30PM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-09-05 12:00:15,2022-09-05,12:00:15,2022-09-05 12:00:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-05-09 12:00:25,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 09/05 at 05:30PM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-09-05 12:00:25,2022-09-05,12:00:25,2022-09-05 12:00:25
+NHS Blackpool Teaching Hospitals 💙🌈,"Blackpool, Fylde & Wyre, Lancs","Latest news from #Blackpool Teaching Hospitals. Not monitored 24/7. For health assistance dial 111. Please support our charity @BlueSkiesFund
+https://t.co/3J5nx57Nt2",2011-04-26 14:54:54,12703.0,1949.0,18611.0,True,2022-05-09 12:00:55,"Nour, 18 feels it's our responsibility to get the #CovidVaccine to protect others, especially those with weakened immune systems
+
+Book or walk in for yours today: https://t.co/ajQAUWo5uY https://t.co/nt7wK8D0c5",['CovidVaccine'],Orlo,False,2022-09-05 12:00:55,2022-09-05,12:00:55,2022-09-05 12:00:55
+"NHS Clifton Hospital, Lytham St Annes","Lytham St. Annes, England","Community hospital, part of Blackpool Teaching Hospitals NHS Foundation Trust. Pershore Rd, Lytham St Annes, FY8 1PB. Tel 01253 300000 https://t.co/6PPrcgnpqK",2016-09-09 09:31:12,1891.0,853.0,5685.0,False,2022-05-09 12:01:01,"Nour, 18 feels it's our responsibility to get the #CovidVaccine to protect others, especially those with weakened immune systems.
+
+Book or walk in for yours today: https://t.co/mDV7egZSmK https://t.co/5pQRLJIWbV",['CovidVaccine'],Orlo,False,2022-09-05 12:01:01,2022-09-05,12:01:01,2022-09-05 12:01:01
+"NHS Clifton Hospital, Lytham St Annes","Lytham St. Annes, England","Community hospital, part of Blackpool Teaching Hospitals NHS Foundation Trust. Pershore Rd, Lytham St Annes, FY8 1PB. Tel 01253 300000 https://t.co/6PPrcgnpqK",2016-09-09 09:31:12,1891.0,853.0,5685.0,False,2022-05-09 12:01:27,"Nour, 18 feels it's our responsibility to get the #CovidVaccine to protect others, especially those with weakened immune systems.
+
+Book or walk in for yours today: https://t.co/0QqHFHQkem https://t.co/RKiEt5M1IZ",['CovidVaccine'],Orlo,False,2022-09-05 12:01:27,2022-09-05,12:01:27,2022-09-05 12:01:27
+"David Gorski, MD, PhD","Detroit, Michigan, USA",Surgeon/scientist promoting science in medicine and exposing quackery. Editor of Science-Based Medicine. My opinions do NOT represent those of my employers.,2009-10-26 03:19:00,70382.0,1878.0,80940.0,True,2022-05-09 12:21:35,"Did you see the claim that #pfizerdatadump shows that @pfizer's #CovidVaccine only has 12% efficacy? That ""slasher lie"" isn't new, didn't come from #PfizerDocs, and is based on the same distortion that @bmj_latest editor Peter Doshi peddled a year ago.  https://t.co/ZluRhI89QN","['pfizerdatadump', 'CovidVaccine', 'PfizerDocs']",Twitter Web App,False,2022-09-05 12:21:35,2022-09-05,12:21:35,2022-09-05 12:21:35

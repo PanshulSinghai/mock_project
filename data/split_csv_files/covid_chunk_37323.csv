@@ -1,0 +1,35 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-29 03:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 29/04 at 08:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-04-29 03:00:04,2022-04-29,03:00:04,2022-04-29 03:00:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-29 03:00:15,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 29/04 at 08:30AM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-04-29 03:00:15,2022-04-29,03:00:15,2022-04-29 03:00:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-29 03:00:25,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 29/04 at 08:30AM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-04-29 03:00:25,2022-04-29,03:00:25,2022-04-29 03:00:25
+LUNAtic,,Here for the salt,2022-01-22 16:20:57,5.0,29.0,26.0,False,2022-04-29 03:00:57,"The kids must have seen it from their parents,walking up to complete strangers and telling them how to live their lives. How sad 😢 #CovidVaccine #mybodymychoice https://t.co/QGPwZZs8Yk","['CovidVaccine', 'mybodymychoice']",Twitter for iPhone,False,2022-04-29 03:00:57,2022-04-29,03:00:57,2022-04-29 03:00:57
+"Shikha Jain MD, FACP","Chicago, IL",Pres @WIMSummit| CEO @IMPACT4hc | @WomenInOnc Med Editor| @UIHealth| Medical News Contributor ✍🏽📺 | Host #OncologyOverdrive |#TwinMom | #WIMStrongerTogether,2016-11-06 05:40:20,13671.0,3916.0,44648.0,True,2022-04-29 03:05:07,"I got to see so many of my favorite people today. So grateful for the #covidvaccine and #masks that made it possible. #ACP2022 #WIMStrongerTogether #WomenInMedicine @ACPinternists @WIMSummit 
+@FutureDocs @CShoush @evebmd @LJoyZ_MD @Idfac @ktynus @alikhan28 @aoglasser https://t.co/cxMEM6x57d","['covidvaccine', 'masks', 'ACP2022', 'WIMStrongerTogether', 'WomenInMedicine']",Twitter for iPhone,False,2022-04-29 03:05:07,2022-04-29,03:05:07,2022-04-29 03:05:07
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-29 03:30:05,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 29/04 at 09:00AM
+FREE Slots 
+#COVISHIELD - Dose1:103, Dose2:100
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-04-29 03:30:05,2022-04-29,03:30:05,2022-04-29 03:30:05
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-29 03:30:16,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 29/04 at 09:00AM
+FREE Slots 
+#COVISHIELD - Dose1:0, Dose2:1
+PAID Slots 
+#COVISHIELD - Dose1:617, Dose2:499","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVISHIELD']",VaxBlr,False,2022-04-29 03:30:16,2022-04-29,03:30:16,2022-04-29 03:30:16
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-29 03:30:26,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 29/04 at 09:00AM
+FREE Slots 
+#COVISHIELD - Dose1:1106, Dose2:416
+#COVAXIN - Dose1:407, Dose2:416
+PAID Slots 
+#COVISHIELD - Dose1:2490, Dose2:18
+#SPUTNIKV - Dose1:10, Dose2:1000","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-04-29 03:30:26,2022-04-29,03:30:26,2022-04-29 03:30:26
+Dream Big Nevada,"Las Vegas, NV",DBN provides aid to NV’s immigrant families through direct services & by empowering community members to advocate for themselves & others in similar situations.,2018-02-06 22:25:51,1617.0,711.0,868.0,False,2022-04-29 03:33:45,"▶️ See you there! 
+
+@MKNVspeaks #DreamBigNV #CincoDeMayo #GOTVax #COVIDVaccine https://t.co/7hQI8Kq5OM","['DreamBigNV', 'CincoDeMayo', 'GOTVax', 'COVIDVaccine']",Twitter Web App,False,2022-04-29 03:33:45,2022-04-29,03:33:45,2022-04-29 03:33:45
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-29 04:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 29/04 at 09:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-04-29 04:00:04,2022-04-29,04:00:04,2022-04-29 04:00:04

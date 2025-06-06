@@ -1,0 +1,56 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+Epsom and St Helier NHS,London and Surrey,"We put the patient first by giving outstanding care to every patient, every day. In an emergency call 999.
+
+Proud to be in a hospital group with @StGeorgesTrust",2009-05-19 13:38:47,12934.0,1206.0,6214.0,True,2022-03-17 07:00:00,"Clinics in South-West London continue to be open for #CovidVaccine walk-in appointments 
+
+If you have any questions, staff will be on hand to help 
+
+To find a clinic near you, visit https://t.co/Smr3wkA3Zi 
+
+#GetVaccinatedNow 💉 https://t.co/5m7YVdQt3L","['CovidVaccine', 'GetVaccinatedNow']",Twitter Web App,False,2022-03-17 07:00:00,2022-03-17,07:00:00,2022-03-17 07:00:00
+St George's NHS FT,"London, UK","Home of #24HrsAE #BabySurgeons #C4Emergency
+Rated Outstanding for children's services
+#OutstandingCareEveryTime 
+Proud to be a hospital group @epsom_sthelier🏥",2009-07-24 12:39:06,28198.0,1517.0,16624.0,True,2022-03-17 07:00:01,"Clinics in South-West London continue to be open for #CovidVaccine walk-in appointments  
+
+If you have any questions, staff will be on hand to help  
+
+To find a clinic near you, visit https://t.co/WOAcNeK8jB  
+
+#GetVaccinatedNow 💉 https://t.co/NixCfCV5rs","['CovidVaccine', 'GetVaccinatedNow']",TweetDeck,False,2022-03-17 07:00:01,2022-03-17,07:00:01,2022-03-17 07:00:01
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-17 07:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 17/03 at 12:30PM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-03-17 07:00:04,2022-03-17,07:00:04,2022-03-17 07:00:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-17 07:00:15,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 17/03 at 12:30PM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-03-17 07:00:15,2022-03-17,07:00:15,2022-03-17 07:00:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-17 07:00:25,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 17/03 at 12:30PM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-03-17 07:00:25,2022-03-17,07:00:25,2022-03-17 07:00:25
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-17 07:30:05,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 17/03 at 01:00PM
+FREE Slots 
+#COVISHIELD - Dose1:3, Dose2:1
+#COVAXIN - Dose1:0, Dose2:1
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2022-03-17 07:30:05,2022-03-17,07:30:05,2022-03-17 07:30:05
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-17 07:30:15,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 17/03 at 01:00PM
+FREE Slots 
+#COVAXIN - Dose1:0, Dose2:1
+PAID Slots 
+#COVISHIELD - Dose1:835, Dose2:149
+#SPUTNIKV - Dose1:30, Dose2:8","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVAXIN', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-03-17 07:30:15,2022-03-17,07:30:15,2022-03-17 07:30:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-03-17 07:30:26,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 17/03 at 01:00PM
+FREE Slots 
+#COVISHIELD - Dose1:6221, Dose2:507
+#COVAXIN - Dose1:10, Dose2:9
+PAID Slots 
+#COVISHIELD - Dose1:3229, Dose2:20
+#SPUTNIKV - Dose1:219, Dose2:1130","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-03-17 07:30:26,2022-03-17,07:30:26,2022-03-17 07:30:26
+Mirror Now,India,MIRROR NOW's Mission: Demand accountability and relentlessly drive improvement by addressing everyday issues.,2015-09-21 13:31:19,108870.0,30.0,16.0,True,2022-03-17 07:37:19,"JABS FOR 12+ GROUP, BUT FEW TAKERS
+
+It's day 2 of the vaccination drive for 12+ age group. Compared to day 1, the response in some cities has been better in the first half of the day. @NehaHebbs reports live from #Bengaluru
+#jabsforchildren #CovidVaccine https://t.co/nWcJCfaV40","['Bengaluru', 'jabsforchildren', 'CovidVaccine']",Twitter Media Studio - LiveCut,False,2022-03-17 07:37:19,2022-03-17,07:37:19,2022-03-17 07:37:19
+YesPunjab.com (For Punjabi follow @BawaHs),Punjab,https://t.co/L8t5kU2S6h #News #Entertainment #Website with focus on #Punjab #NRIs #India by #HSBawa @bawahs #Journalist. https://t.co/SkG9zabiMw,2010-12-10 09:11:16,113994.0,148091.0,40.0,False,2022-03-17 07:38:15,"Over 2.6 lakh in 12-14 yr segment get Covid vax on first day of drive
+
+#India #HealthMinistry #Vaccine #Vaccination #CoronaVaccine #CovidVaccine #YesPunjab @MoHFW_INDIA 
+
+https://t.co/8ETYWI7pv1","['India', 'HealthMinistry', 'Vaccine', 'Vaccination', 'CoronaVaccine', 'CovidVaccine', 'YesPunjab']",Twitter Web App,False,2022-03-17 07:38:15,2022-03-17,07:38:15,2022-03-17 07:38:15

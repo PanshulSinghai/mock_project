@@ -1,0 +1,33 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+"Karen, trying to survive my nursing career.","Washington, USA",Pacific Northwest native. Nurse. MSN. CEN. TCRN. Trauma is my jam. Dog mom. Union member. Happily married. No DMs please. Wear a Mask. Get the vaccine.,2012-05-22 01:44:43,947.0,930.0,8835.0,False,2022-04-09 01:16:41,Covid shot #4 yesterday. Arm is very slightly sore. That’s it. No other symptoms. Go get your booster. #CovidVaccine,['CovidVaccine'],Twitter for iPad,False,2022-09-04 01:16:41,2022-09-04,01:16:41,2022-09-04 01:16:41
+Dane,,Sophisticated Caveman; rugged hands & unparalleled taste. White Gangster rapper since 99,2021-09-29 15:46:05,19.0,189.0,6207.0,False,2022-04-09 01:18:42,Did you get your inoculation anon? #Booster #CovidVaccine #vaccination #CovidIsntOver https://t.co/WrOg0qiUSF,"['Booster', 'CovidVaccine', 'vaccination', 'CovidIsntOver']",Twitter for iPhone,False,2022-09-04 01:18:42,2022-09-04,01:18:42,2022-09-04 01:18:42
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-09 01:30:04,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 09/04 at 07:00AM
+FREE Slots 
+#COVISHIELD - Dose1:102, Dose2:0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-09-04 01:30:04,2022-09-04,01:30:04,2022-09-04 01:30:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-09 01:30:15,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 09/04 at 07:00AM
+FREE Slots 
+#COVISHIELD - Dose1:0, Dose2:397
+PAID Slots 
+#COVISHIELD - Dose1:648, Dose2:499
+#SPUTNIKV - Dose1:30, Dose2:7","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-09-04 01:30:15,2022-09-04,01:30:15,2022-09-04 01:30:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-09 01:30:26,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 09/04 at 07:00AM
+FREE Slots 
+#COVISHIELD - Dose1:1112, Dose2:7
+#COVAXIN - Dose1:11, Dose2:7
+PAID Slots 
+#COVISHIELD - Dose1:2895, Dose2:18
+#COVAXIN - Dose1:10, Dose2:10
+#SPUTNIKV - Dose1:110, Dose2:1100","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2022-09-04 01:30:26,2022-09-04,01:30:26,2022-09-04 01:30:26
+le changement est certain,"Warangal,Telangana   ","Mind filled earlier with old thoughts, now it is to change the mind. carpe-diem",2009-09-19 10:26:18,1370.0,1261.0,2409.0,False,2022-04-09 01:59:03,"The wealthy should pay for vaccine, this would subsidize those who can't afford.
+#CovidVaccine #COVID","['CovidVaccine', 'COVID']",Twitter for Android,False,2022-09-04 01:59:03,2022-09-04,01:59:03,2022-09-04 01:59:03
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-09 02:00:05,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 09/04 at 07:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-09-04 02:00:05,2022-09-04,02:00:05,2022-09-04 02:00:05
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-09 02:00:16,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 09/04 at 07:30AM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-09-04 02:00:16,2022-09-04,02:00:16,2022-09-04 02:00:16
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-09 02:00:26,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 09/04 at 07:30AM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-09-04 02:00:26,2022-09-04,02:00:26,2022-09-04 02:00:26
+Claire M,,,2021-12-16 02:44:25,389.0,403.0,6656.0,False,2022-04-09 02:18:26,#covidvaccine  Moderna recalls thousands of vaccine doses | 7NEWS https://t.co/jIDA3PwcNr,['covidvaccine'],Twitter for iPhone,False,2022-09-04 02:18:26,2022-09-04,02:18:26,2022-09-04 02:18:26

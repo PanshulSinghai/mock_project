@@ -1,0 +1,49 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-03-31 11:00:15,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 31/03 at 04:30PM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-03-31 11:00:15,2022-03-31,11:00:15,2022-03-31 11:00:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-03-31 11:00:25,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 31/03 at 04:30PM
+FREE Slots 0
+PAID Slots 
+#COVAXIN - Dose1:100, Dose2:100","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVAXIN']",VaxBlr,False,2022-03-31 11:00:25,2022-03-31,11:00:25,2022-03-31 11:00:25
+Andhravilas,USA,"Andhravilas Gives you  #Tollywood #Bollywood film News,#AndhraPradesh #Telangana News,#National    #Health #Business  #Trending Visit
+https://t.co/vJFjY4CwOT",2010-05-10 15:40:09,2602.0,92.0,27.0,False,2022-03-31 11:06:01,"Khushwant Singh's new novel to be launched on April 9 https://t.co/5U7dd1lxzI #Politics #Breakingnews #Indiapolitics #AndhraPolitics #NewsFeed #RadheShyam #CovidVaccine #Mamata 
+
+New Delhi, March 31 - Chandigarh-based author Khushwant Singh's second novel, 'The Opium Toffee, i…","['Politics', 'Breakingnews', 'Indiapolitics', 'AndhraPolitics', 'NewsFeed', 'RadheShyam', 'CovidVaccine', 'Mamata']",IFTTT,False,2022-03-31 11:06:01,2022-03-31,11:06:01,2022-03-31 11:06:01
+Healthwatchbury,"Bury, Lancashire, UK",Healthwatch Bury is your local health and social care champion. We make sure NHS leaders hear your voice and use your feedback to improve care.,2010-07-07 22:13:04,1564.0,1586.0,411.0,False,2022-03-31 11:25:27,"Vaccination clinics until the end of April in Bury.
+First dose, second dose, booster and spring booster vaccinations for all those that are eligible.  
+https://t.co/vkL0eUEowu #Bury #CovidVaccine #Covid_19 https://t.co/U9GYwPaX3R","['Bury', 'CovidVaccine', 'Covid_19']",Twitter Web App,False,2022-03-31 11:25:27,2022-03-31,11:25:27,2022-03-31 11:25:27
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-03-31 11:30:04,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 31/03 at 05:00PM
+FREE Slots 
+#COVISHIELD - Dose1:3, Dose2:1
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-03-31 11:30:04,2022-03-31,11:30:04,2022-03-31 11:30:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-03-31 11:30:14,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 31/03 at 05:00PM
+FREE Slots 
+#COVISHIELD - Dose1:0, Dose2:1
+PAID Slots 
+#COVISHIELD - Dose1:859, Dose2:13
+#SPUTNIKV - Dose1:30, Dose2:9","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-03-31 11:30:14,2022-03-31,11:30:14,2022-03-31 11:30:14
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-03-31 11:30:25,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 31/03 at 05:00PM
+FREE Slots 
+#COVISHIELD - Dose1:4101, Dose2:10
+#COVAXIN - Dose1:11, Dose2:10
+PAID Slots 
+#COVISHIELD - Dose1:2695, Dose2:105
+#COVAXIN - Dose1:100, Dose2:100
+#SPUTNIKV - Dose1:70, Dose2:1010","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2022-03-31 11:30:25,2022-03-31,11:30:25,2022-03-31 11:30:25
+Andhravilas,USA,"Andhravilas Gives you  #Tollywood #Bollywood film News,#AndhraPradesh #Telangana News,#National    #Health #Business  #Trending Visit
+https://t.co/vJFjY4CwOT",2010-05-10 15:40:09,2602.0,92.0,27.0,False,2022-03-31 11:44:46,"715 corruption cases registered against Central govt employees: Jitendra Singh https://t.co/5KFd9apj4G #ChandaBabu #Breakingnews #Indiapolitics #AndhraPolitics #NewsFeed #RadheShyam #Covid19India #CovidVaccine 
+
+New Delhi, March 31 - The CBI has registered 715 corruption cases…","['ChandaBabu', 'Breakingnews', 'Indiapolitics', 'AndhraPolitics', 'NewsFeed', 'RadheShyam', 'Covid19India', 'CovidVaccine']",IFTTT,False,2022-03-31 11:44:46,2022-03-31,11:44:46,2022-03-31 11:44:46
+ਪੀਟੀਸੀ ਨਿਊਜ਼ | PTC News,"Mohali, India","Official Twitter account of PTC NEWS, the leading Punjabi News channel, a source of all news related to Punjab and Punjabiyat worldwide.",2012-09-29 09:27:40,48562.0,7.0,205.0,True,2022-03-31 11:56:11,"#UP school girl dies after 'adverse reaction from #Covid19 #vaccine'
+
+#VaccineSideEffects 
+#vaccine 
+#CovidIsntOver 
+#COVID 
+#Covidvaccine
+
+https://t.co/WqeryHclXr","['UP', 'Covid19', 'vaccine', 'VaccineSideEffects', 'vaccine', 'CovidIsntOver', 'COVID', 'Covidvaccine']",TweetDeck,False,2022-03-31 11:56:11,2022-03-31,11:56:11,2022-03-31 11:56:11
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-03-31 12:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 31/03 at 05:30PM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-03-31 12:00:04,2022-03-31,12:00:04,2022-03-31 12:00:04

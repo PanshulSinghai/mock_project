@@ -1,0 +1,38 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-02-24 06:00:16,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 24/02 at 11:30AM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-02-24 06:00:16,2022-02-24,06:00:16,2022-02-24 06:00:16
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-02-24 06:00:27,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 24/02 at 11:30AM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-02-24 06:00:27,2022-02-24,06:00:27,2022-02-24 06:00:27
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-02-24 06:30:05,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 24/02 at 12:00PM
+FREE Slots 
+#COVISHIELD - Dose1:7, Dose2:1
+#COVAXIN - Dose1:0, Dose2:1
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2022-02-24 06:30:05,2022-02-24,06:30:05,2022-02-24 06:30:05
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-02-24 06:30:15,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 24/02 at 12:00PM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:843, Dose2:9
+#SPUTNIKV - Dose1:30, Dose2:0","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'SPUTNIKV']",VaxBlr,False,2022-02-24 06:30:15,2022-02-24,06:30:15,2022-02-24 06:30:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-02-24 06:30:26,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 24/02 at 12:00PM
+FREE Slots 
+#COVISHIELD - Dose1:8988, Dose2:8
+#COVAXIN - Dose1:11, Dose2:7
+PAID Slots 
+#COVISHIELD - Dose1:4608, Dose2:20
+#COVAXIN - Dose1:10, Dose2:10
+#SPUTNIKV - Dose1:200, Dose2:1071","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2022-02-24 06:30:26,2022-02-24,06:30:26,2022-02-24 06:30:26
+Sai Krishna Gudi,"Winnipeg, Canada",Ph.D student @umanitoba | Jr. Epidemiologist @MBGov | Trainee @DSECT_Program | Pharmacoepidemiology & Clinical Pharmacy Practice Researcher | DAD,2018-08-01 08:15:22,299.0,433.0,2310.0,False,2022-02-24 06:48:18,"Thanks to the @PLOS YourSay blog editors for once again giving me a chance in sharing my thoughts &amp; views on this timely topic!
+#childrensmentalhealthweek 
+#COVID19Vaccine #COVID19 #CovidVaccine #vaccines https://t.co/fgQ9Fl728N","['childrensmentalhealthweek', 'COVID19Vaccine', 'COVID19', 'CovidVaccine', 'vaccines']",Twitter for Android,False,2022-02-24 06:48:18,2022-02-24,06:48:18,2022-02-24 06:48:18
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-02-24 07:00:05,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 24/02 at 12:30PM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-02-24 07:00:05,2022-02-24,07:00:05,2022-02-24 07:00:05
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-02-24 07:00:16,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 24/02 at 12:30PM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-02-24 07:00:16,2022-02-24,07:00:16,2022-02-24 07:00:16
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,39.0,0.0,0.0,False,2022-02-24 07:00:26,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 24/02 at 12:30PM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-02-24 07:00:26,2022-02-24,07:00:26,2022-02-24 07:00:26
+Bibi,Australia,,2020-08-02 07:45:47,104.0,168.0,3794.0,False,2022-02-24 07:06:11,"A large German health insurance provider revealed on Wednesday that Covid-19 vaccine side-effects are vastly underreported, according to Welt. #COVID19 #COVID19Vaccine #CovidVaccine https://t.co/NnwKEAJGkg","['COVID19', 'COVID19Vaccine', 'CovidVaccine']",Twitter for Android,False,2022-02-24 07:06:11,2022-02-24,07:06:11,2022-02-24 07:06:11

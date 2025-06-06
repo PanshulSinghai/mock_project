@@ -1,0 +1,48 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,30.0,0,0,False,2021-10-26 05:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 26/10 at 10:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2021-10-26 05:00:04,2021-10-26,05:00:04,2021-10-26 05:00:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,30.0,0,0,False,2021-10-26 05:00:15,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 26/10 at 10:30AM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:98, Dose2:92
+#COVAXIN - Dose1:99, Dose2:99
+#SPUTNIKV - Dose1:99, Dose2:9","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2021-10-26 05:00:15,2021-10-26,05:00:15,2021-10-26 05:00:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,30.0,0,0,False,2021-10-26 05:00:25,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 26/10 at 10:30AM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:908, Dose2:861
+#COVAXIN - Dose1:672, Dose2:624","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2021-10-26 05:00:25,2021-10-26,05:00:25,2021-10-26 05:00:25
+Kalinga TV,"Odisha, India","When it comes to Breaking News, Kalinga TV leads the Way with 24x7 Coverage.",2015-04-25 04:37:23,136186.0,183,474,False,2021-10-26 05:05:58,"FDA advisors to rule on Pfizer vaccination in younger children #FDA #CovidVaccine #kalingatv
+https://t.co/9IDtyHOpab","['FDA', 'CovidVaccine', 'kalingatv']",Twitter Web App,False,2021-10-26 05:05:58,2021-10-26,05:05:58,2021-10-26 05:05:58
+Torangene,"San Francisco, California","Coronavirus US Stats Live Map Tracker (+Vaccine Update)
+
+Watch Live on YouTube ► https://t.co/ijnp8Zjk3t
+
+#CoronavirusUS #CoronavirusStats #CoronavirusVaccine",2016-08-15 04:41:32,72.0,338,10595,False,2021-10-26 05:22:20,"Global Delta Variant Counter &amp; Vaccination Rates by Country (Oct 25, 2021) https://t.co/dIwprRO3Ma via @YouTube 
+
+#DeltaVariant #VaccinationCOVID #CoronavirusStats #CoronavirusWorld #Torangene #CoronavirusVaccine #CoronavirusMap #CoronavirusNumbers #COVIDVaccine","['DeltaVariant', 'VaccinationCOVID', 'CoronavirusStats', 'CoronavirusWorld', 'Torangene', 'CoronavirusVaccine', 'CoronavirusMap', 'CoronavirusNumbers', 'COVIDVaccine']",Twitter Web App,False,2021-10-26 05:22:20,2021-10-26,05:22:20,2021-10-26 05:22:20
+BriflyNews,India,"Brifly is a short news App that provide important updates about current affairs from multiple sources and summarises it in BRIEF, CRISP & SWIFT manner.",2020-05-05 21:32:47,310.0,44,19,False,2021-10-26 05:24:08,"Apollo expects the permission to vaccinate kids with co-morbidities will be given soon. Upon approval, it will start free vaccine program across its branches.
+
+#briflynews #COVID19  #children #vaccine #Apollo #Covidvaccine #Administer
+https://t.co/JdARjOwW8s","['briflynews', 'COVID19', 'children', 'vaccine', 'Apollo', 'Covidvaccine', 'Administer']",TweetDeck,False,2021-10-26 05:24:08,2021-10-26,05:24:08,2021-10-26 05:24:08
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,30.0,0,0,False,2021-10-26 05:30:05,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 26/10 at 11:00AM
+FREE Slots 
+#COVISHIELD - Dose1:54, Dose2:99
+#COVAXIN - Dose1:100, Dose2:98
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2021-10-26 05:30:05,2021-10-26,05:30:05,2021-10-26 05:30:05
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,30.0,0,0,False,2021-10-26 05:30:15,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 26/10 at 11:00AM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:910, Dose2:669
+#COVAXIN - Dose1:662, Dose2:657
+#SPUTNIKV - Dose1:148, Dose2:1","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2021-10-26 05:30:15,2021-10-26,05:30:15,2021-10-26 05:30:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,30.0,0,0,False,2021-10-26 05:30:26,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 26/10 at 11:00AM
+FREE Slots 
+#COVISHIELD - Dose1:2538, Dose2:1368
+#COVAXIN - Dose1:1180, Dose2:1385
+PAID Slots 
+#COVISHIELD - Dose1:9486, Dose2:5291
+#COVAXIN - Dose1:5329, Dose2:5299
+#SPUTNIKV - Dose1:412, Dose2:205","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2021-10-26 05:30:26,2021-10-26,05:30:26,2021-10-26 05:30:26
+COVID News,Estados Unidos,News about COVID-19,2013-06-05 08:52:31,3395.0,1472,129,False,2021-10-26 05:36:09,"Even as #India inches closer to 100 crore #COVID19 vaccination doses, several social media users expressed their anger on Twitter against mandatory vaccination. The hashtag #VaccinationIsNotCompulsory is viral on Twitter since October 16. #CovidVaccine https://t.co/R8HXbTLtEI","['India', 'COVID19', 'VaccinationIsNotCompulsory', 'CovidVaccine']",Revive Social App,False,2021-10-26 05:36:09,2021-10-26,05:36:09,2021-10-26 05:36:09

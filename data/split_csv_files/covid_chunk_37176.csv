@@ -1,0 +1,49 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-22 08:30:15,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 22/04 at 02:00PM
+FREE Slots 
+#COVISHIELD - Dose1:0, Dose2:1
+PAID Slots 
+#COVISHIELD - Dose1:611, Dose2:15","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVISHIELD']",VaxBlr,False,2022-04-22 08:30:15,2022-04-22,08:30:15,2022-04-22 08:30:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-22 08:30:25,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 22/04 at 02:00PM
+FREE Slots 
+#COVISHIELD - Dose1:1114, Dose2:15
+#COVAXIN - Dose1:9, Dose2:15
+PAID Slots 
+#COVISHIELD - Dose1:2826, Dose2:45
+#COVAXIN - Dose1:40, Dose2:40
+#SPUTNIKV - Dose1:10, Dose2:1000","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2022-04-22 08:30:25,2022-04-22,08:30:25,2022-04-22 08:30:25
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-22 09:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 22/04 at 02:30PM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-04-22 09:00:04,2022-04-22,09:00:04,2022-04-22 09:00:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-22 09:00:15,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 22/04 at 02:30PM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-04-22 09:00:15,2022-04-22,09:00:15,2022-04-22 09:00:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-22 09:00:25,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 22/04 at 02:30PM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-04-22 09:00:25,2022-04-22,09:00:25,2022-04-22 09:00:25
+Wolves Council,"Wolverhampton, England",City of Wolverhampton - the City in the Black Country. To report an issue please visit: https://t.co/jwp6FdvxTE 👍,2010-08-10 15:03:58,21977.0,1199.0,5415.0,True,2022-04-22 09:03:35,"Planning to grab your #Covid-19 jab this week? Here's where and when you can get it. Each clinic offers first, second and booster vaccinations, though age ranges vary. 
+
+For more information, please click https://t.co/zn5FXMBIc8 #CovidVaccine https://t.co/dGPbW4UDar","['Covid', 'CovidVaccine']",Orlo,False,2022-04-22 09:03:35,2022-04-22,09:03:35,2022-04-22 09:03:35
+"Pashtoon Kasi MD, MS","Manhattan, NY",Oncologist | Researcher | ColorectalCancer #CRCSM👨🏼‍🎓@MayoClinic @PittTweet Alum; 🧬#ctDNA #LiquidBiopsies💡#PrecisionOncology ViewsMy Own. COI @ASCO📍#CTCs,2012-05-24 10:45:12,9507.0,5561.0,8098.0,True,2022-04-22 09:03:38,"#CovidVaccine CAUSES #Cancer⁉️
+
+Where is this #misinformation coming from? I’ve spent hours this week counseling patients that the cancer coming back had nothing to do with them getting vaccinated. mRNA inactivating tumor suppressing genes? 🗣🛑the misinformation/guilt.
+
+#COVID19","['CovidVaccine', 'Cancer', 'misinformation', 'COVID19']",Twitter for iPhone,False,2022-04-22 09:03:38,2022-04-22,09:03:38,2022-04-22 09:03:38
+Medical Dialogues,"New Delhi, Delhi","Largest Medical,Health News portal for healthcare profession in India
+
+You can now download our mobile app here:
+Android - https://t.co/2Secca9oIc
+IOS - https://t.co/m9h48fJlQt",2015-06-16 07:34:34,7569.0,1144.0,53.0,False,2022-04-22 09:05:36,New Delhi: Free Precautionary dose of COVID 19 at all Govt CVCs #covid #covidvaccine #precautiondoses #covidprecautiondoses #governmentvaccinationcentres #vaccinationcentres #covidvaccinationcentres #Delhi https://t.co/Lxrwy2g5p7,"['covid', 'covidvaccine', 'precautiondoses', 'covidprecautiondoses', 'governmentvaccinationcentres', 'vaccinationcentres', 'covidvaccinationcentres', 'Delhi']",Hocalwire Social Share,False,2022-04-22 09:05:36,2022-04-22,09:05:36,2022-04-22 09:05:36
+Rochdale Borough Council,"Greater Manchester, UK","News, events and emergency information. Monitored weekdays, 9am-5pm.   
+
+https://t.co/TLr7Au6zK8",2009-02-10 15:37:29,23147.0,1054.0,11808.0,True,2022-04-22 09:23:58,"📢 You can #GrabAJab at our #covidvaccine walk-in clinics, open across the borough
+✅ 1st doses
+✅ 2nd doses
+✅ Boosters
+✅ Spring Boosters
+*No appointment needed, just walk-in get your vital protection and off you go* 
+See where you can #GrabAJab▶️https://t.co/ZF0zJVx3WH https://t.co/23oOJW2fhg","['GrabAJab', 'covidvaccine', 'GrabAJab']",Twitter Web App,False,2022-04-22 09:23:58,2022-04-22,09:23:58,2022-04-22 09:23:58
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0.0,0.0,False,2022-04-22 09:30:04,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 22/04 at 03:00PM
+FREE Slots 
+#COVISHIELD - Dose1:103, Dose2:100
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-04-22 09:30:04,2022-04-22,09:30:04,2022-04-22 09:30:04

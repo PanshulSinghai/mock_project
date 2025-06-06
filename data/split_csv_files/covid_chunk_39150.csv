@@ -1,0 +1,40 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+Yadiel,"South haven, MI 🇺🇸",Do not let the roles you play in life make you forget who you are.,2011-01-27 05:57:00,32.0,27,2953,False,2022-06-10 04:47:53,"Dr. Fauci Just Gave This Crucial Warning
+
+#covidvaccine #news #coronavirustips #coronavirus #dr.fauci
+https://t.co/Vdt3X0UqeM","['covidvaccine', 'news', 'coronavirustips', 'coronavirus', 'dr']",DataMiningSouissi,False,2022-10-06 04:47:53,2022-10-06,04:47:53,2022-10-06 04:47:53
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0,0,False,2022-06-10 05:00:05,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 10/06 at 10:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-10-06 05:00:05,2022-10-06,05:00:05,2022-10-06 05:00:05
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0,0,False,2022-06-10 05:00:16,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 10/06 at 10:30AM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-10-06 05:00:16,2022-10-06,05:00:16,2022-10-06 05:00:16
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0,0,False,2022-06-10 05:00:27,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 10/06 at 10:30AM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-10-06 05:00:27,2022-10-06,05:00:27,2022-10-06 05:00:27
+The Telegraph,"Kolkata, India","The unputdownable English newspaper of the ABP group published from Calcutta, India. Retweets are not endorsements.",2010-05-07 04:10:03,304197.0,142,232,True,2022-06-10 05:28:01,"#COVID19: #WestBengal reported 95 fresh Covid -19 cases, 10 more than the previous day, raising the tally to 20,19,927 on Thursday, @MoHFW_INDIA said. Get #CoronavirusUpdates here. 
+
+https://t.co/Yf53pwC2Jp
+
+#coronavirus #covid19India #coronavirus #CovidIsNotOver #covidvaccine","['COVID19', 'WestBengal', 'CoronavirusUpdates', 'coronavirus', 'covid19India', 'coronavirus', 'CovidIsNotOver', 'covidvaccine']",TweetDeck,False,2022-10-06 05:28:01,2022-10-06,05:28:01,2022-10-06 05:28:01
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0,0,False,2022-06-10 05:30:05,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 10/06 at 11:00AM
+FREE Slots 
+#COVISHIELD - Dose1:1, Dose2:1
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-10-06 05:30:05,2022-10-06,05:30:05,2022-10-06 05:30:05
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0,0,False,2022-06-10 05:30:15,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 10/06 at 11:00AM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:783, Dose2:29","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-10-06 05:30:15,2022-10-06,05:30:15,2022-10-06 05:30:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0,0,False,2022-06-10 05:30:26,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 10/06 at 11:00AM
+FREE Slots 
+#COVISHIELD - Dose1:23, Dose2:21
+#COVAXIN - Dose1:11, Dose2:21
+PAID Slots 
+#COVISHIELD - Dose1:3517, Dose2:101
+#COVAXIN - Dose1:100, Dose2:100","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2022-10-06 05:30:26,2022-10-06,05:30:26,2022-10-06 05:30:26
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0,0,False,2022-06-10 06:00:05,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 10/06 at 11:30AM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-10-06 06:00:05,2022-10-06,06:00:05,2022-10-06 06:00:05
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0,0,False,2022-06-10 06:00:15,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 10/06 at 11:30AM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-10-06 06:00:15,2022-10-06,06:00:15,2022-10-06 06:00:15

@@ -1,0 +1,48 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+COVID News,Estados Unidos,News about COVID-19,2013-06-05 08:52:31,3327.0,1472,130,False,2021-09-08 07:12:22,I think I’ll get the vaccine but only if I can get both for quadruple protection. Only seems logical. #COVIDIOTS #COVID #CovidVaccine (@Rosstafarian69) https://t.co/EEBdd43PiG,"['COVIDIOTS', 'COVID', 'CovidVaccine']",Revive Social App,False,2021-08-09 07:12:22,2021-08-09,07:12:22,2021-08-09 07:12:22
+BloombergQuint,"Mumbai, India","#India’s premier multi-platform #business and financial #news company.
+
+#BQBlue queries: support@bloombergquint.com
+Follow: https://t.co/Lvz7iz0zt1",2016-03-29 08:30:59,247432.0,132,53,True,2021-09-08 07:15:00,"Three-quarters of U.S. adults have received at least one dose of a #CovidVaccine as of Tuesday. 
+https://t.co/SYNsxlLlOP",['CovidVaccine'],TweetDeck,False,2021-08-09 07:15:00,2021-08-09,07:15:00,2021-08-09 07:15:00
+FOX Baltimore,"Baltimore, MD","With more than 10 hours of Emmy Award winning #news every weekday, FOX45 is consistently #Baltimore's most honored news operation. RTs are not endorsements",2009-03-30 19:11:03,165521.0,1263,2608,True,2021-09-08 07:15:00,"Public health experts grapple with booster shot recommendation 
+#COVID19 #vaccines #CovidVaccine  https://t.co/BaBUSaOlYn","['COVID19', 'vaccines', 'CovidVaccine']",Twitter Web App,False,2021-08-09 07:15:00,2021-08-09,07:15:00,2021-08-09 07:15:00
+XanTHICC,"Birmingham, England",Insert something interesting about myself here,2017-05-17 12:22:36,377.0,115,8466,False,2021-09-08 07:27:57,Should I get the covid vaccine and if so does it matter which company I get it from? #CovidVaccine,['CovidVaccine'],Twitter Web App,False,2021-08-09 07:27:57,2021-08-09,07:27:57,2021-08-09 07:27:57
+Bhekisisa,Johannesburg,The award-winning Bhekisisa Health Journalism Centre brings you solutions-based health analysis & features. Subscribe to our newsletter: https://t.co/z8Xyzi2e60,2013-03-22 08:53:20,19884.0,830,3235,True,2021-09-08 07:30:00,What percentage of adults in SA have received their first Pfizer #CovidVaccine dose? Find out from our #vaccine tracker that we made with @mediahackza. #COVID19SA #vaccine https://t.co/8qwjkHJ4kK https://t.co/imkBM9kShE,"['CovidVaccine', 'vaccine', 'COVID19SA', 'vaccine']",TweetDeck,False,2021-08-09 07:30:00,2021-08-09,07:30:00,2021-08-09 07:30:00
+NHSKernow,Cornwall,"Clinical commissioning group for Cornwall and the Isles of Scilly. 
+
+This channel is monitored Monday to Friday 9am to 5pm.",2012-04-16 12:29:32,4762.0,760,1747,True,2021-09-08 07:30:11,"Walk-in #CovidVaccine appointments available today, 8.30am to 1pm and 2.30pm to 7.30pm!
+
+You can also get a first dose Pfizer vaccine at Stithians and Wadebridge vaccination centres, 9am and 6pm.
+
+Visit our website for a full list of walk-in clinics: https://t.co/AUTUkOIcTd https://t.co/H30f56x9rV",['CovidVaccine'],Hootsuite Inc.,False,2021-08-09 07:30:11,2021-08-09,07:30:11,2021-08-09 07:30:11
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,24.0,0,0,False,2021-09-08 07:30:13,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 08/09 at 01:00PM
+FREE Slots 
+#COVISHIELD - Dose1:96, Dose2:95
+#COVAXIN - Dose1:0, Dose2:94
+PAID Slots 
+#COVISHIELD - Dose1:105, Dose2:19
+#COVAXIN - Dose1:10, Dose2:10","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2021-08-09 07:30:13,2021-08-09,07:30:13,2021-08-09 07:30:13
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,24.0,0,0,False,2021-09-08 07:30:24,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 08/09 at 01:00PM
+FREE Slots 0
+PAID Slots 
+#COVISHIELD - Dose1:1656, Dose2:1173
+#COVAXIN - Dose1:1094, Dose2:1057
+#SPUTNIKV - Dose1:76, Dose2:26","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2021-08-09 07:30:24,2021-08-09,07:30:24,2021-08-09 07:30:24
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,24.0,0,0,False,2021-09-08 07:30:34,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 08/09 at 01:00PM
+FREE Slots 
+#COVAXIN - Dose1:1, Dose2:0
+PAID Slots 
+#COVISHIELD - Dose1:10296, Dose2:6322
+#COVAXIN - Dose1:6274, Dose2:6219
+#SPUTNIKV - Dose1:499, Dose2:111","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVAXIN', 'COVISHIELD', 'COVAXIN', 'SPUTNIKV']",VaxBlr,False,2021-08-09 07:30:34,2021-08-09,07:30:34,2021-08-09 07:30:34
+COVID News,Estados Unidos,News about COVID-19,2013-06-05 08:52:31,3327.0,1472,130,False,2021-09-08 07:36:06,"First Dose Progress  :
+ 70.69%
+[48,131,996 / 68,084,982]
+
+Second Dose Progress  :
+ 63.19%
+[43,023,372 / 68,084,982]
+
+Source:  01/09/21
+#covidvaccine #covid19 #coronavirus (@UKvaccineNumber) https://t.co/3BvMY0f6SL","['covidvaccine', 'covid19', 'coronavirus']",Revive Social App,False,2021-08-09 07:36:06,2021-08-09,07:36:06,2021-08-09 07:36:06

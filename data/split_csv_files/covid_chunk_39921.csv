@@ -1,0 +1,40 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0,0,False,2022-07-12 06:00:14,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 12/07 at 11:30AM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-12-07 06:00:14,2022-12-07,06:00:14,2022-12-07 06:00:14
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0,0,False,2022-07-12 06:00:25,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 12/07 at 11:30AM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-12-07 06:00:25,2022-12-07,06:00:25,2022-12-07 06:00:25
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0,0,False,2022-07-12 06:30:04,"18-44 #RURAL #Bengaluru #CovidVaccine Availability for 12/07 at 12:00PM
+FREE Slots 
+#COVISHIELD - Dose1:101, Dose2:100
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine', 'COVISHIELD']",VaxBlr,False,2022-12-07 06:30:04,2022-12-07,06:30:04,2022-12-07 06:30:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0,0,False,2022-07-12 06:30:14,"18-44 #URBAN #Bengaluru #CovidVaccine Availability for 12/07 at 12:00PM
+FREE Slots 
+#COVISHIELD - Dose1:0, Dose2:1
+PAID Slots 
+#COVISHIELD - Dose1:610, Dose2:50","['URBAN', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVISHIELD']",VaxBlr,False,2022-12-07 06:30:14,2022-12-07,06:30:14,2022-12-07 06:30:14
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0,0,False,2022-07-12 06:30:25,"18-44 #BBMP #Bengaluru #CovidVaccine Availability for 12/07 at 12:00PM
+FREE Slots 
+#COVISHIELD - Dose1:100, Dose2:8
+#COVAXIN - Dose1:0, Dose2:6
+PAID Slots 
+#COVISHIELD - Dose1:3348, Dose2:170
+#COVAXIN - Dose1:70, Dose2:70","['BBMP', 'Bengaluru', 'CovidVaccine', 'COVISHIELD', 'COVAXIN', 'COVISHIELD', 'COVAXIN']",VaxBlr,False,2022-12-07 06:30:25,2022-12-07,06:30:25,2022-12-07 06:30:25
+lukingart,Czech Republic,Artist,2015-12-06 10:11:30,322.0,791,17862,False,2022-07-12 06:44:14,"Study: hospitalisation/death benefit not found when vaccinated. Hence, the #covidvaccine is useless.
+#vaccine #VaccineDeath #VaccineDeaths #vaccineinjured #mRNA #pfizer #moderna #covidvaccineinjuries https://t.co/jc4T8PfMXy","['covidvaccine', 'vaccine', 'VaccineDeath', 'VaccineDeaths', 'vaccineinjured', 'mRNA', 'pfizer', 'moderna', 'covidvaccineinjuries']",Twitter for Android,False,2022-12-07 06:44:14,2022-12-07,06:44:14,2022-12-07 06:44:14
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0,0,False,2022-07-12 07:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 12/07 at 12:30PM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-12-07 07:00:04,2022-12-07,07:00:04,2022-12-07 07:00:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0,0,False,2022-07-12 07:00:15,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 12/07 at 12:30PM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-12-07 07:00:15,2022-12-07,07:00:15,2022-12-07 07:00:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,38.0,0,0,False,2022-07-12 07:00:25,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 12/07 at 12:30PM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-12-07 07:00:25,2022-12-07,07:00:25,2022-12-07 07:00:25
+🍀🇮🇪 🇵🇸,Land-of-Confusion🤨,"My Gedmatch: LG4699393 
+My Mothers: CG1312199 ..
+My Fathers: DH7477393
+Ancestry dna
+Irish, 
+Scottish,English & Northwestern European,Norway,Sweden,Denmark,",2013-01-25 12:58:40,390.0,373,19763,False,2022-07-12 07:13:12,#HPVvaccine #BillGates #vaccineinjured #VaccineDeaths #vaccinesterlilization similar reactions to the #Covidvaccine maybe it was a rebrand 👀👇🏻 https://t.co/c9TpzWnAuY,"['HPVvaccine', 'BillGates', 'vaccineinjured', 'VaccineDeaths', 'vaccinesterlilization', 'Covidvaccine']",Twitter for Android,False,2022-12-07 07:13:12,2022-12-07,07:13:12,2022-12-07 07:13:12

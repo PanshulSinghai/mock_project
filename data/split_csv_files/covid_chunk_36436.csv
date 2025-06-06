@@ -1,0 +1,39 @@
+user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,user_verified,date,text,hashtags,source,is_retweet,parsed_date,only_date,only_time,datetime_for_sorting
+Ashley,"VALPARAISO, IN 🇺🇸",Daily love and kindness are the path to a happy life.,2020-01-22 14:46:06,24.0,10.0,3371.0,False,2022-06-03 06:41:39,"The #1 Cause of COVID-19, According to Science
+
+#coronavirustips #covidvaccine #health #news #coronavirus
+https://t.co/oPZjclP2hT","['coronavirustips', 'covidvaccine', 'health', 'news', 'coronavirus']",DM996 Project,False,2022-03-06 06:41:39,2022-03-06,06:41:39,2022-03-06 06:41:39
+Susan,"FORT MILL, SC 🇺🇸",Be the positive impact on the lives of others.,2017-09-05 01:14:56,49.0,52.0,3356.0,False,2022-06-03 06:42:25,"If You Have Only One Minute, Read This COVID Update
+
+#covidvaccine #coronavirustips #news #coronavirus
+https://t.co/4EcjBOjDpI","['covidvaccine', 'coronavirustips', 'news', 'coronavirus']",FoodButton,False,2022-03-06 06:42:25,2022-03-06,06:42:25,2022-03-06 06:42:25
+Donte,"FARGO, ND 🇺🇸",A clown on a throne is still a clown. A king in rags is still a king.,2021-10-16 20:03:02,64.0,52.0,3122.0,False,2022-06-03 06:42:39,"Here's How You Can Catch COVID Even If You're Vaccinated
+
+#covidvaccine #health #coronavirustips #news #coronavirus
+https://t.co/sHGrmCf2DI","['covidvaccine', 'health', 'coronavirustips', 'news', 'coronavirus']",assignment_bigdata,False,2022-03-06 06:42:39,2022-03-06,06:42:39,2022-03-06 06:42:39
+Eat Healthy,pune,Discover Healthy Foods,2014-02-13 17:34:51,68.0,46.0,4837.0,False,2022-06-03 06:43:39,"Virus Expert Warns Pandemic Could ""Worsen"" This Way
+
+#news #coronavirustips #covidvaccine #health #coronavirus
+https://t.co/qBkvV1GXcf","['news', 'coronavirustips', 'covidvaccine', 'health', 'coronavirus']",basantKeyAnalysis,False,2022-03-06 06:43:39,2022-03-06,06:43:39,2022-03-06 06:43:39
+Philippe B Brady,"Kingman, AZ","Even if you are on the right track, you’ll get run over if you just sit there. 🇺🇸",2019-06-22 02:38:59,25.0,10.0,3837.0,False,2022-06-03 06:49:00,"Call Your Doctor if You Have These COVID Symptoms
+
+#longcovid #coronavirus #coronavirustips #covidvaccine #dr.fauci #health #coronavirussymptoms #news
+https://t.co/1hfxVxmqJ9","['longcovid', 'coronavirus', 'coronavirustips', 'covidvaccine', 'dr', 'health', 'coronavirussymptoms', 'news']",SentimentAnalysisDBP,False,2022-03-06 06:49:00,2022-03-06,06:49:00,2022-03-06 06:49:00
+RHONDA,"Greensboro, NC 🇺🇸","As the sun knows; even the sky is not the limit... #MAGA 
+🇺🇸",2018-08-01 03:05:37,70.0,66.0,3335.0,False,2022-06-03 06:49:37,"Virus Expert Says 5 Things Everyone Should Hear Now
+
+#coronavirus #health #news #covidvaccine #coronavirustips
+https://t.co/u6H2x9NWHL","['coronavirus', 'health', 'news', 'covidvaccine', 'coronavirustips']",Old Iron 666,False,2022-03-06 06:49:37,2022-03-06,06:49:37,2022-03-06 06:49:37
+Monica,"Boerne, TX 🇺🇸","Resources are hired to give results, not reasons.",2021-01-17 12:38:15,42.0,10.0,3301.0,False,2022-06-03 06:56:14,"I’m a Doctor and Beg You Be Careful Entering Here Still
+
+#health #covidvaccine #news #coronavirustips #coronavirus
+https://t.co/zN3xbHuBvo","['health', 'covidvaccine', 'news', 'coronavirustips', 'coronavirus']",emojistestt,False,2022-03-06 06:56:14,2022-03-06,06:56:14,2022-03-06 06:56:14
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-06-03 07:00:04,"45+ #RURAL #Bengaluru #CovidVaccine Availability for 03/06 at 12:30PM
+FREE Slots 0
+PAID Slots 0","['RURAL', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-03-06 07:00:04,2022-03-06,07:00:04,2022-03-06 07:00:04
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-06-03 07:00:15,"45+ #URBAN #Bengaluru #CovidVaccine Availability for 03/06 at 12:30PM
+FREE Slots 0
+PAID Slots 0","['URBAN', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-03-06 07:00:15,2022-03-06,07:00:15,2022-03-06 07:00:15
+VaxBLR,"Bengaluru, India","Hourly updates on FREE and PAID 18+ and 45+ vaccine slot availability across #Bengaluru BBMP,URBAN & RURAL",2021-06-21 08:44:34,40.0,0.0,0.0,False,2022-06-03 07:00:25,"45+ #BBMP #Bengaluru #CovidVaccine Availability for 03/06 at 12:30PM
+FREE Slots 0
+PAID Slots 0","['BBMP', 'Bengaluru', 'CovidVaccine']",VaxBlr,False,2022-03-06 07:00:25,2022-03-06,07:00:25,2022-03-06 07:00:25
