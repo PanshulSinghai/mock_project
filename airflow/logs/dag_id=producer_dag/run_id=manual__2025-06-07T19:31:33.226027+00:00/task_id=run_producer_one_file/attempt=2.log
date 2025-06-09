@@ -1,0 +1,28 @@
+[2025-06-07T19:31:50.693+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: producer_dag.run_producer_one_file manual__2025-06-07T19:31:33.226027+00:00 [queued]>
+[2025-06-07T19:31:50.697+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: producer_dag.run_producer_one_file manual__2025-06-07T19:31:33.226027+00:00 [queued]>
+[2025-06-07T19:31:50.698+0000] {taskinstance.py:2170} INFO - Starting attempt 2 of 3
+[2025-06-07T19:31:50.708+0000] {taskinstance.py:2191} INFO - Executing <Task(BashOperator): run_producer_one_file> on 2025-06-07 19:31:33.226027+00:00
+[2025-06-07T19:31:50.711+0000] {standard_task_runner.py:60} INFO - Started process 229 to run task
+[2025-06-07T19:31:50.713+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'producer_dag', 'run_producer_one_file', 'manual__2025-06-07T19:31:33.226027+00:00', '--job-id', '5', '--raw', '--subdir', 'DAGS_FOLDER/producer_dag.py', '--cfg-path', '/tmp/tmpbld6zvtd']
+[2025-06-07T19:31:50.714+0000] {standard_task_runner.py:88} INFO - Job 5: Subtask run_producer_one_file
+[2025-06-07T19:31:50.737+0000] {task_command.py:423} INFO - Running <TaskInstance: producer_dag.run_producer_one_file manual__2025-06-07T19:31:33.226027+00:00 [running]> on host 660bb7972175
+[2025-06-07T19:31:50.775+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='panshul' AIRFLOW_CTX_DAG_ID='producer_dag' AIRFLOW_CTX_TASK_ID='run_producer_one_file' AIRFLOW_CTX_EXECUTION_DATE='2025-06-07T19:31:33.226027+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-06-07T19:31:33.226027+00:00'
+[2025-06-07T19:31:50.776+0000] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2025-06-07T19:31:50.777+0000] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'python /opt/***/kafka_client/producer_one_shot.py']
+[2025-06-07T19:31:50.781+0000] {subprocess.py:86} INFO - Output:
+[2025-06-07T19:31:51.051+0000] {subprocess.py:93} INFO - Traceback (most recent call last):
+[2025-06-07T19:31:51.052+0000] {subprocess.py:93} INFO -   File "/opt/***/kafka_client/producer_one_shot.py", line 6, in <module>
+[2025-06-07T19:31:51.053+0000] {subprocess.py:93} INFO -     from kafka import KafkaProducer
+[2025-06-07T19:31:51.053+0000] {subprocess.py:93} INFO - ModuleNotFoundError: No module named 'kafka'
+[2025-06-07T19:31:51.102+0000] {subprocess.py:97} INFO - Command exited with return code 1
+[2025-06-07T19:31:51.108+0000] {taskinstance.py:2698} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 433, in _execute_task
+    result = execute_callable(context=context, **execute_callable_kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/bash.py", line 212, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 1.
+[2025-06-07T19:31:51.109+0000] {taskinstance.py:1138} INFO - Marking task as UP_FOR_RETRY. dag_id=producer_dag, task_id=run_producer_one_file, execution_date=20250607T193133, start_date=20250607T193150, end_date=20250607T193151
+[2025-06-07T19:31:51.116+0000] {standard_task_runner.py:107} ERROR - Failed to execute job 5 for task run_producer_one_file (Bash command failed. The command returned a non-zero exit code 1.; 229)
+[2025-06-07T19:31:51.143+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 1
+[2025-06-07T19:31:51.155+0000] {taskinstance.py:3280} INFO - 0 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,121 @@
+[2025-06-08T14:30:02.234+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-06-08T14:30:02.259+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: master_pipeline_with_es_guard.run_consumer scheduled__2025-06-08T14:00:00+00:00 [queued]>
+[2025-06-08T14:30:02.264+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: master_pipeline_with_es_guard.run_consumer scheduled__2025-06-08T14:00:00+00:00 [queued]>
+[2025-06-08T14:30:02.265+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2025-06-08T14:30:02.274+0000] {taskinstance.py:2330} INFO - Executing <Task(BashOperator): run_consumer> on 2025-06-08 14:00:00+00:00
+[2025-06-08T14:30:02.285+0000] {logging_mixin.py:188} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61 DeprecationWarning: This process (pid=2097) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2025-06-08T14:30:02.285+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'master_pipeline_with_es_guard', 'run_consumer', 'scheduled__2025-06-08T14:00:00+00:00', '--job-id', '56', '--raw', '--subdir', 'DAGS_FOLDER/producer_dag.py', '--cfg-path', '/tmp/tmpj11z8u1r']
+[2025-06-08T14:30:02.286+0000] {standard_task_runner.py:63} INFO - Started process 2100 to run task
+[2025-06-08T14:30:02.287+0000] {standard_task_runner.py:91} INFO - Job 56: Subtask run_consumer
+[2025-06-08T14:30:02.360+0000] {task_command.py:426} INFO - Running <TaskInstance: master_pipeline_with_es_guard.run_consumer scheduled__2025-06-08T14:00:00+00:00 [running]> on host 5492e8ecb5c1
+[2025-06-08T14:30:02.476+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='panshul' AIRFLOW_CTX_DAG_ID='master_pipeline_with_es_guard' AIRFLOW_CTX_TASK_ID='run_consumer' AIRFLOW_CTX_EXECUTION_DATE='2025-06-08T14:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-06-08T14:00:00+00:00'
+[2025-06-08T14:30:02.478+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-06-08T14:30:02.491+0000] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2025-06-08T14:30:02.492+0000] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'python /opt/***/kafka_client/consumer_***.py']
+[2025-06-08T14:30:02.499+0000] {subprocess.py:86} INFO - Output:
+[2025-06-08T14:30:04.547+0000] {subprocess.py:93} INFO - 2025-06-08 14:30:04,547 - INFO - ✅ spaCy model loaded successfully
+[2025-06-08T14:30:04.589+0000] {subprocess.py:93} INFO - 2025-06-08 14:30:04,589 - INFO - ✅ Geolocator initialized
+[2025-06-08T14:30:04.684+0000] {subprocess.py:93} INFO - 2025-06-08 14:30:04,684 - INFO - <BrokerConnection node_id=bootstrap-0 host=kafka:29092 <connecting> [IPv4 ('172.20.0.4', 29092)]>: connecting to kafka:29092 [('172.20.0.4', 29092) IPv4]
+[2025-06-08T14:30:04.685+0000] {subprocess.py:93} INFO - 2025-06-08 14:30:04,684 - INFO - Probing node bootstrap-0 broker version
+[2025-06-08T14:30:04.685+0000] {subprocess.py:93} INFO - 2025-06-08 14:30:04,685 - INFO - <BrokerConnection node_id=bootstrap-0 host=kafka:29092 <connecting> [IPv4 ('172.20.0.4', 29092)]>: Connection complete.
+[2025-06-08T14:30:04.790+0000] {subprocess.py:93} INFO - 2025-06-08 14:30:04,789 - INFO - Broker version identified as 2.6.0
+[2025-06-08T14:30:04.791+0000] {subprocess.py:93} INFO - 2025-06-08 14:30:04,789 - INFO - Set configuration api_version=(2, 6, 0) to skip auto check_version requests on startup
+[2025-06-08T14:30:04.791+0000] {subprocess.py:93} INFO - 2025-06-08 14:30:04,790 - INFO - Updating subscribed topics to: ('covid-data',)
+[2025-06-08T14:30:04.792+0000] {subprocess.py:93} INFO - 2025-06-08 14:30:04,791 - INFO - <BrokerConnection node_id=bootstrap-0 host=kafka:29092 <connecting> [IPv4 ('172.20.0.4', 29092)]>: connecting to kafka:29092 [('172.20.0.4', 29092) IPv4]
+[2025-06-08T14:30:04.792+0000] {subprocess.py:93} INFO - 2025-06-08 14:30:04,791 - INFO - Probing node bootstrap-0 broker version
+[2025-06-08T14:30:04.792+0000] {subprocess.py:93} INFO - 2025-06-08 14:30:04,792 - INFO - <BrokerConnection node_id=bootstrap-0 host=kafka:29092 <connecting> [IPv4 ('172.20.0.4', 29092)]>: Connection complete.
+[2025-06-08T14:30:04.895+0000] {subprocess.py:93} INFO - 2025-06-08 14:30:04,895 - INFO - Broker version identified as 2.6.0
+[2025-06-08T14:30:04.896+0000] {subprocess.py:93} INFO - 2025-06-08 14:30:04,895 - INFO - Set configuration api_version=(2, 6, 0) to skip auto check_version requests on startup
+[2025-06-08T14:30:04.897+0000] {subprocess.py:93} INFO - 2025-06-08 14:30:04,896 - INFO - 🚀 Kafka Consumer is running. Connecting to: kafka:29092
+[2025-06-08T14:30:04.898+0000] {subprocess.py:93} INFO - 2025-06-08 14:30:04,898 - INFO - Group coordinator for tweet-transformer-group is BrokerMetadata(nodeId='coordinator-1', host='kafka', port=29092, rack=None)
+[2025-06-08T14:30:04.899+0000] {subprocess.py:93} INFO - 2025-06-08 14:30:04,898 - INFO - Discovered coordinator coordinator-1 for group tweet-transformer-group
+[2025-06-08T14:30:04.899+0000] {subprocess.py:93} INFO - 2025-06-08 14:30:04,898 - INFO - Starting new heartbeat thread
+[2025-06-08T14:30:04.900+0000] {subprocess.py:93} INFO - 2025-06-08 14:30:04,898 - INFO - Revoking previously assigned partitions set() for group tweet-transformer-group
+[2025-06-08T14:30:04.900+0000] {subprocess.py:93} INFO - 2025-06-08 14:30:04,899 - INFO - <BrokerConnection node_id=coordinator-1 host=kafka:29092 <connecting> [IPv4 ('172.20.0.4', 29092)]>: connecting to kafka:29092 [('172.20.0.4', 29092) IPv4]
+[2025-06-08T14:30:04.901+0000] {subprocess.py:93} INFO - 2025-06-08 14:30:04,899 - INFO - <BrokerConnection node_id=coordinator-1 host=kafka:29092 <connecting> [IPv4 ('172.20.0.4', 29092)]>: Connection complete.
+[2025-06-08T14:30:04.901+0000] {subprocess.py:93} INFO - 2025-06-08 14:30:04,900 - INFO - <BrokerConnection node_id=bootstrap-0 host=kafka:29092 <connected> [IPv4 ('172.20.0.4', 29092)]>: Closing connection.
+[2025-06-08T14:30:05.001+0000] {subprocess.py:93} INFO - 2025-06-08 14:30:05,001 - INFO - (Re-)joining group tweet-transformer-group
+[2025-06-08T14:30:07.153+0000] {subprocess.py:93} INFO - 2025-06-08 14:30:07,153 - INFO - Successfully joined group tweet-transformer-group with generation 7
+[2025-06-08T14:30:07.154+0000] {subprocess.py:93} INFO - 2025-06-08 14:30:07,153 - INFO - Updated partition assignment: []
+[2025-06-08T14:30:07.154+0000] {subprocess.py:93} INFO - 2025-06-08 14:30:07,153 - INFO - Setting newly assigned partitions set() for group tweet-transformer-group
+[2025-06-08T14:35:04.953+0000] {subprocess.py:93} INFO - 2025-06-08 14:35:04,952 - INFO - <BrokerConnection node_id=1 host=kafka:29092 <connecting> [IPv4 ('172.20.0.4', 29092)]>: connecting to kafka:29092 [('172.20.0.4', 29092) IPv4]
+[2025-06-08T14:35:04.960+0000] {subprocess.py:93} INFO - 2025-06-08 14:35:04,953 - INFO - <BrokerConnection node_id=1 host=kafka:29092 <connecting> [IPv4 ('172.20.0.4', 29092)]>: Connection complete.
+[2025-06-08T14:35:04.961+0000] {subprocess.py:93} INFO - 2025-06-08 14:35:04,953 - INFO - <BrokerConnection node_id=bootstrap-0 host=kafka:29092 <connected> [IPv4 ('172.20.0.4', 29092)]>: Closing connection.
+[2025-06-08T14:35:04.961+0000] {subprocess.py:93} INFO - 2025-06-08 14:35:04,956 - INFO - <BrokerConnection node_id=1 host=kafka:29092 <connecting> [IPv4 ('172.20.0.4', 29092)]>: connecting to kafka:29092 [('172.20.0.4', 29092) IPv4]
+[2025-06-08T14:35:04.961+0000] {subprocess.py:93} INFO - 2025-06-08 14:35:04,956 - INFO - <BrokerConnection node_id=1 host=kafka:29092 <connecting> [IPv4 ('172.20.0.4', 29092)]>: Connection complete.
+[2025-06-08T14:39:34.927+0000] {subprocess.py:93} INFO - 2025-06-08 14:39:34,925 - WARNING - Heartbeat failed for group tweet-transformer-group because it is rebalancing
+[2025-06-08T14:39:34.931+0000] {subprocess.py:93} INFO - 2025-06-08 14:39:34,926 - INFO - Revoking previously assigned partitions set() for group tweet-transformer-group
+[2025-06-08T14:39:34.932+0000] {subprocess.py:93} INFO - 2025-06-08 14:39:34,926 - INFO - (Re-)joining group tweet-transformer-group
+[2025-06-08T14:39:35.754+0000] {subprocess.py:93} INFO - 2025-06-08 14:39:35,753 - INFO - Successfully joined group tweet-transformer-group with generation 8
+[2025-06-08T14:39:35.755+0000] {subprocess.py:93} INFO - 2025-06-08 14:39:35,754 - INFO - Updated partition assignment: []
+[2025-06-08T14:39:35.757+0000] {subprocess.py:93} INFO - 2025-06-08 14:39:35,754 - INFO - Setting newly assigned partitions set() for group tweet-transformer-group
+[2025-06-08T14:46:00.367+0000] {subprocess.py:93} INFO - 2025-06-08 14:46:00,366 - WARNING - Heartbeat failed for group tweet-transformer-group because it is rebalancing
+[2025-06-08T14:46:00.370+0000] {subprocess.py:93} INFO - 2025-06-08 14:46:00,367 - INFO - Revoking previously assigned partitions set() for group tweet-transformer-group
+[2025-06-08T14:46:00.370+0000] {subprocess.py:93} INFO - 2025-06-08 14:46:00,367 - INFO - (Re-)joining group tweet-transformer-group
+[2025-06-08T14:46:00.783+0000] {subprocess.py:93} INFO - 2025-06-08 14:46:00,783 - INFO - Elected group leader -- performing partition assignments using range
+[2025-06-08T14:46:00.786+0000] {subprocess.py:93} INFO - 2025-06-08 14:46:00,786 - INFO - Successfully joined group tweet-transformer-group with generation 9
+[2025-06-08T14:46:00.787+0000] {subprocess.py:93} INFO - 2025-06-08 14:46:00,786 - INFO - Updated partition assignment: []
+[2025-06-08T14:46:00.787+0000] {subprocess.py:93} INFO - 2025-06-08 14:46:00,786 - INFO - Setting newly assigned partitions set() for group tweet-transformer-group
+[2025-06-08T14:46:03.789+0000] {subprocess.py:93} INFO - 2025-06-08 14:46:03,789 - WARNING - Heartbeat failed for group tweet-transformer-group because it is rebalancing
+[2025-06-08T14:46:03.789+0000] {subprocess.py:93} INFO - 2025-06-08 14:46:03,789 - INFO - Revoking previously assigned partitions set() for group tweet-transformer-group
+[2025-06-08T14:46:03.789+0000] {subprocess.py:93} INFO - 2025-06-08 14:46:03,789 - INFO - (Re-)joining group tweet-transformer-group
+[2025-06-08T14:46:08.293+0000] {subprocess.py:93} INFO - 2025-06-08 14:46:08,293 - INFO - Elected group leader -- performing partition assignments using range
+[2025-06-08T14:46:08.295+0000] {subprocess.py:93} INFO - 2025-06-08 14:46:08,295 - INFO - Successfully joined group tweet-transformer-group with generation 10
+[2025-06-08T14:46:08.296+0000] {subprocess.py:93} INFO - 2025-06-08 14:46:08,295 - INFO - Updated partition assignment: []
+[2025-06-08T14:46:08.296+0000] {subprocess.py:93} INFO - 2025-06-08 14:46:08,295 - INFO - Setting newly assigned partitions set() for group tweet-transformer-group
+[2025-06-08T14:47:59.416+0000] {subprocess.py:93} INFO - 2025-06-08 14:47:59,414 - WARNING - Heartbeat failed for group tweet-transformer-group because it is rebalancing
+[2025-06-08T14:47:59.420+0000] {subprocess.py:93} INFO - 2025-06-08 14:47:59,415 - INFO - Revoking previously assigned partitions set() for group tweet-transformer-group
+[2025-06-08T14:47:59.420+0000] {subprocess.py:93} INFO - 2025-06-08 14:47:59,415 - INFO - (Re-)joining group tweet-transformer-group
+[2025-06-08T14:48:00.114+0000] {subprocess.py:93} INFO - 2025-06-08 14:48:00,114 - INFO - Elected group leader -- performing partition assignments using range
+[2025-06-08T14:48:00.116+0000] {subprocess.py:93} INFO - 2025-06-08 14:48:00,116 - INFO - Successfully joined group tweet-transformer-group with generation 11
+[2025-06-08T14:48:00.117+0000] {subprocess.py:93} INFO - 2025-06-08 14:48:00,116 - INFO - Updated partition assignment: []
+[2025-06-08T14:48:00.117+0000] {subprocess.py:93} INFO - 2025-06-08 14:48:00,116 - INFO - Setting newly assigned partitions set() for group tweet-transformer-group
+[2025-06-08T14:48:06.127+0000] {subprocess.py:93} INFO - 2025-06-08 14:48:06,127 - WARNING - Heartbeat failed for group tweet-transformer-group because it is rebalancing
+[2025-06-08T14:48:06.129+0000] {subprocess.py:93} INFO - 2025-06-08 14:48:06,128 - INFO - Revoking previously assigned partitions set() for group tweet-transformer-group
+[2025-06-08T14:48:06.129+0000] {subprocess.py:93} INFO - 2025-06-08 14:48:06,128 - INFO - (Re-)joining group tweet-transformer-group
+[2025-06-08T14:48:06.132+0000] {subprocess.py:93} INFO - 2025-06-08 14:48:06,132 - INFO - Elected group leader -- performing partition assignments using range
+[2025-06-08T14:48:06.133+0000] {subprocess.py:93} INFO - 2025-06-08 14:48:06,133 - INFO - Successfully joined group tweet-transformer-group with generation 12
+[2025-06-08T14:48:06.133+0000] {subprocess.py:93} INFO - 2025-06-08 14:48:06,133 - INFO - Updated partition assignment: []
+[2025-06-08T14:48:06.133+0000] {subprocess.py:93} INFO - 2025-06-08 14:48:06,133 - INFO - Setting newly assigned partitions set() for group tweet-transformer-group
+[2025-06-08T14:52:24.502+0000] {subprocess.py:93} INFO - 2025-06-08 14:52:24,499 - WARNING - Heartbeat failed for group tweet-transformer-group because it is rebalancing
+[2025-06-08T14:52:24.506+0000] {subprocess.py:93} INFO - 2025-06-08 14:52:24,501 - INFO - Revoking previously assigned partitions set() for group tweet-transformer-group
+[2025-06-08T14:52:24.506+0000] {subprocess.py:93} INFO - 2025-06-08 14:52:24,501 - INFO - (Re-)joining group tweet-transformer-group
+[2025-06-08T14:52:24.938+0000] {subprocess.py:93} INFO - 2025-06-08 14:52:24,937 - INFO - Elected group leader -- performing partition assignments using range
+[2025-06-08T14:52:24.941+0000] {subprocess.py:93} INFO - 2025-06-08 14:52:24,940 - INFO - Successfully joined group tweet-transformer-group with generation 13
+[2025-06-08T14:52:24.941+0000] {subprocess.py:93} INFO - 2025-06-08 14:52:24,940 - INFO - Updated partition assignment: []
+[2025-06-08T14:52:24.942+0000] {subprocess.py:93} INFO - 2025-06-08 14:52:24,940 - INFO - Setting newly assigned partitions set() for group tweet-transformer-group
+[2025-06-08T15:03:36.040+0000] {local_task_job_runner.py:310} WARNING - State of this instance has been externally set to None. Terminating instance.
+[2025-06-08T15:03:36.043+0000] {local_task_job_runner.py:222} INFO - ::endgroup::
+[2025-06-08T15:03:36.044+0000] {process_utils.py:132} INFO - Sending 15 to group 2100. PIDs of all processes in the group: [2103, 2100]
+[2025-06-08T15:03:36.044+0000] {process_utils.py:87} INFO - Sending the signal 15 to group 2100
+[2025-06-08T15:03:36.045+0000] {taskinstance.py:2611} ERROR - Received SIGTERM. Terminating subprocesses.
+[2025-06-08T15:03:36.048+0000] {subprocess.py:104} INFO - Sending SIGTERM signal to process group
+[2025-06-08T15:03:36.049+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-06-08T15:03:36.062+0000] {taskinstance.py:2905} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 465, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 432, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 400, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/bash.py", line 234, in execute
+    result = self.subprocess_hook.run_command(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/hooks/subprocess.py", line 91, in run_command
+    for raw_line in iter(self.sub_process.stdout.readline, b""):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 2613, in signal_handler
+    raise AirflowTaskTerminated("Task received SIGTERM signal")
+airflow.exceptions.AirflowTaskTerminated: Task received SIGTERM signal
+[2025-06-08T15:03:36.066+0000] {taskinstance.py:1206} INFO - Marking task as FAILED. dag_id=master_pipeline_with_es_guard, task_id=run_consumer, run_id=scheduled__2025-06-08T14:00:00+00:00, execution_date=20250608T140000, start_date=20250608T143002, end_date=20250608T150336
+[2025-06-08T15:03:36.077+0000] {standard_task_runner.py:110} ERROR - Failed to execute job 56 for task run_consumer ((psycopg2.errors.ForeignKeyViolation) insert or update on table "task_fail" violates foreign key constraint "task_fail_ti_fkey"
+DETAIL:  Key (dag_id, task_id, run_id, map_index)=(master_pipeline_with_es_guard, run_consumer, scheduled__2025-06-08T14:00:00+00:00, -1) is not present in table "task_instance".
+
+[SQL: INSERT INTO task_fail (task_id, dag_id, run_id, map_index, start_date, end_date, duration) VALUES (%(task_id)s, %(dag_id)s, %(run_id)s, %(map_index)s, %(start_date)s, %(end_date)s, %(duration)s) RETURNING task_fail.id]
+[parameters: {'task_id': 'run_consumer', 'dag_id': 'master_pipeline_with_es_guard', 'run_id': 'scheduled__2025-06-08T14:00:00+00:00', 'map_index': -1, 'start_date': datetime.datetime(2025, 6, 8, 14, 30, 2, 259935, tzinfo=Timezone('UTC')), 'end_date': datetime.datetime(2025, 6, 8, 15, 3, 36, 65268, tzinfo=Timezone('UTC')), 'duration': 2013}]
+(Background on this error at: https://sqlalche.me/e/14/gkpj); 2100)
+[2025-06-08T15:03:36.104+0000] {process_utils.py:80} INFO - Process psutil.Process(pid=2103, status='terminated', started='14:30:01') (2103) terminated with exit code None
+[2025-06-08T15:03:36.104+0000] {process_utils.py:80} INFO - Process psutil.Process(pid=2100, status='terminated', exitcode=1, started='14:30:01') (2100) terminated with exit code 1
