@@ -1,0 +1,101 @@
+[ENV] KAFKA_BROKER loaded from environment: kafka:29092
+[🚀] Starting Kafka Producer - sending 1 file every 30 seconds
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10802.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10802.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10805.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10805.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10808.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10808.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10811.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10811.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10814.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10814.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10817.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10817.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10820.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10820.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10824.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10824.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10828.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10828.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10830.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10830.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10834.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10834.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10838.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10838.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10840.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10840.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10843.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10843.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10846.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10846.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10849.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10849.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10852.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10852.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10855.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10855.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10859.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10859.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10862.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10862.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10866.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10866.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_1087.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_1087.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10873.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10873.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10877.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10877.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10880.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10880.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10884.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10884.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10888.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10888.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10891.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10891.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10895.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10895.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10899.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10899.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10901.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10901.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10904.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10904.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10907.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10907.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_1091.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_1091.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10912.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10912.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10915.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10915.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10918.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10918.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10920.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10920.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10923.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10923.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10926.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10926.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10929.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10929.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10931.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10931.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10934.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10934.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10937.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10937.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_1094.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_1094.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10943.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10943.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10947.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10947.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_1095.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_1095.csv
+[📤] Processing file: /opt/airflow/data/split_csv_files/covid_chunk_10953.csv
+[✔] Moved processed file: /opt/airflow/data/split_csv_files/covid_chunk_10953.csv
+les/covid_chunk_10944.csv

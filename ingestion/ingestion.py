@@ -1,34 +1,44 @@
-# ingestion.py
-from elasticsearch import Elasticsearch, ConnectionError
 import logging
+import os
+from elasticsearch import Elasticsearch
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # Set up logger
 logger = logging.getLogger("ElasticsearchIngestor")
+logger.setLevel(logging.INFO)
+handler = logging.StreamHandler()
+formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+handler.setFormatter(formatter)
+logger.addHandler(handler)
+
+# Elastic Cloud credentials and Cloud ID from .env
+CLOUD_ID = os.getenv("CLOUD_ID")
+ELASTIC_USERNAME = os.getenv("ELASTIC_USERNAME", "elastic")
+ELASTIC_PASSWORD = os.getenv("ELASTIC_PASSWORD")
+
+# Connect to Elasticsearch Cloud
+es = Elasticsearch(
+    cloud_id=CLOUD_ID,
+    basic_auth=(ELASTIC_USERNAME, ELASTIC_PASSWORD)
+)
+
+# Validate connection
+if not es.ping():
+    raise ValueError("❌ Connection to Elasticsearch Cloud failed!")
 
 # Index name
 INDEX_NAME = "covid-tweets"
 
-def get_elastic_client():
-    try:
-        es = Elasticsearch("http://localhost:9200")
-        if not es.ping():
-            logger.warning("⚠️ Elasticsearch is not responding.")
-            return None
-        logger.info("✅ Connected to Elasticsearch")
-        return es
-    except Exception as e:
-        logger.error(f"❌ Failed to connect to Elasticsearch: {e}")
-        return None
-
 def push_to_elasticsearch(record: dict):
-    es = get_elastic_client()
-    if es is None:
-        raise ConnectionError("Elasticsearch not available. Skipping push.")
-    
+    print("📤 Attempting to push record to Elasticsearch Cloud")
     try:
         response = es.index(index=INDEX_NAME, document=record)
-        logger.info("📦 Pushed record to Elasticsearch")
+        logger.info("📦 Successfully pushed record to Elasticsearch")
         return response
     except Exception as e:
         logger.error(f"❌ Failed to push to Elasticsearch: {e}")
-        raise
+        
+        return None

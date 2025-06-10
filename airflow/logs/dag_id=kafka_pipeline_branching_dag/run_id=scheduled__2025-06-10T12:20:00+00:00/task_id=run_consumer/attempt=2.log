@@ -1,0 +1,35 @@
+[2025-06-10T12:34:30.000+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-06-10T12:34:30.038+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: kafka_pipeline_branching_dag.run_consumer scheduled__2025-06-10T12:20:00+00:00 [queued]>
+[2025-06-10T12:34:30.058+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: kafka_pipeline_branching_dag.run_consumer scheduled__2025-06-10T12:20:00+00:00 [queued]>
+[2025-06-10T12:34:30.059+0000] {taskinstance.py:2306} INFO - Starting attempt 2 of 3
+[2025-06-10T12:34:30.095+0000] {taskinstance.py:2330} INFO - Executing <Task(BashOperator): run_consumer> on 2025-06-10 12:20:00+00:00
+[2025-06-10T12:34:30.135+0000] {logging_mixin.py:188} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61 DeprecationWarning: This process (pid=10360) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2025-06-10T12:34:30.140+0000] {standard_task_runner.py:63} INFO - Started process 10362 to run task
+[2025-06-10T12:34:30.157+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'kafka_pipeline_branching_dag', 'run_consumer', 'scheduled__2025-06-10T12:20:00+00:00', '--job-id', '32', '--raw', '--subdir', 'DAGS_FOLDER/kafka_pipeline_dag.py', '--cfg-path', '/tmp/tmpeu1uobuo']
+[2025-06-10T12:34:30.160+0000] {standard_task_runner.py:91} INFO - Job 32: Subtask run_consumer
+[2025-06-10T12:34:30.265+0000] {task_command.py:426} INFO - Running <TaskInstance: kafka_pipeline_branching_dag.run_consumer scheduled__2025-06-10T12:20:00+00:00 [running]> on host 4e91ff50f4f4
+[2025-06-10T12:34:30.387+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='kafka_pipeline_branching_dag' AIRFLOW_CTX_TASK_ID='run_consumer' AIRFLOW_CTX_EXECUTION_DATE='2025-06-10T12:20:00+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-06-10T12:20:00+00:00'
+[2025-06-10T12:34:30.389+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-06-10T12:34:30.400+0000] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2025-06-10T12:34:30.402+0000] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'timeout 300 python /opt/***/kafka_client/consumer.py > /opt/***/logs/consumer_output.log 2>&1']
+[2025-06-10T12:34:30.413+0000] {subprocess.py:86} INFO - Output:
+[2025-06-10T12:39:30.443+0000] {subprocess.py:97} INFO - Command exited with return code 124
+[2025-06-10T12:39:30.452+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-06-10T12:39:30.485+0000] {taskinstance.py:2905} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 465, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 432, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 400, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/bash.py", line 243, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 124.
+[2025-06-10T12:39:30.497+0000] {taskinstance.py:1206} INFO - Marking task as UP_FOR_RETRY. dag_id=kafka_pipeline_branching_dag, task_id=run_consumer, run_id=scheduled__2025-06-10T12:20:00+00:00, execution_date=20250610T122000, start_date=20250610T123430, end_date=20250610T123930
+[2025-06-10T12:39:30.523+0000] {standard_task_runner.py:110} ERROR - Failed to execute job 32 for task run_consumer (Bash command failed. The command returned a non-zero exit code 124.; 10362)
+[2025-06-10T12:39:30.551+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 1
+[2025-06-10T12:39:30.576+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

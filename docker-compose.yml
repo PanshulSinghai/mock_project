@@ -23,6 +23,8 @@ x-airflow-common:
     - ./airflow/dags:/opt/airflow/dags
     - ./airflow/logs:/opt/airflow/logs
     - ./:/opt/airflow
+  
+    
   # Add all services to the same network
   networks:
     - airflow-kafka
